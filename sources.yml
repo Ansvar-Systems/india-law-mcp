@@ -1,0 +1,95 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "India Law MCP"
+jurisdiction: "IN"
+
+sources:
+  - name: "India Code (National Informatics Centre)"
+    authority: "Ministry of Law and Justice, Government of India / National Informatics Centre (NIC)"
+    official_portal: "https://www.indiacode.nic.in"
+    canonical_identifier: "N/A (laws identified by Act number and year, e.g., 'Act No. 22 of 2023')"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A (no public API; structured HTML with act/section navigation)"
+    update_frequency: "on_change"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Open Data (Open Government Data Platform India)"
+      url: "https://data.gov.in/government-open-data-license-india"
+      summary: "Indian government legislation is publicly available; India Code is the official repository of all Central Acts maintained by the Legislative Department"
+    coverage:
+      scope: "All Central Acts of Parliament including the Digital Personal Data Protection Act (2023), Information Technology Act (2000, amended 2008), Companies Act (2013), Consumer Protection Act (2019), Aadhaar Act (2016), Indian Penal Code / Bharatiya Nyaya Sanhita, and all subsidiary legislation"
+      limitations: "Does not include State Acts, High Court or subordinate court rules, or draft bills; historical versions may have limited availability for older enactments pre-dating digitization"
+    languages:
+      - "en"
+      - "hi"
+
+  - name: "Legislative Department (legislative.gov.in)"
+    authority: "Legislative Department, Ministry of Law and Justice, Government of India"
+    official_portal: "https://legislative.gov.in"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "on_change"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://legislative.gov.in"
+      summary: "Official repository for subordinate legislation, ordinances, and gazette notifications; freely accessible"
+    coverage:
+      scope: "Subordinate legislation, rules, regulations, and gazette notifications published by the Legislative Department; includes IT Rules (SPDI Rules 2011, Intermediary Guidelines and Digital Media Ethics Code 2021)"
+      limitations: "Primarily covers Central subordinate legislation; State-level rules and notifications are published by respective State governments"
+    languages:
+      - "en"
+      - "hi"
+
+  - name: "Ministry of Electronics and IT (MeitY)"
+    authority: "Ministry of Electronics and Information Technology, Government of India"
+    official_portal: "https://www.meity.gov.in"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "on_change"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://www.meity.gov.in"
+      summary: "MeitY publishes IT Act rules, CERT-In directions, and DPDPA rules as they are notified; freely accessible"
+    coverage:
+      scope: "IT Act rules and notifications, CERT-In directions (including 6-hour incident reporting mandate), DPDPA draft rules and notified rules, digital India policies, and cybersecurity framework documents"
+      limitations: "Policy documents and draft rules may change; only covers MeitY jurisdiction (IT, cybersecurity, data protection)"
+    languages:
+      - "en"
+
+  - name: "CERT-In (Indian Computer Emergency Response Team)"
+    authority: "CERT-In, Ministry of Electronics and IT"
+    official_portal: "https://www.cert-in.org.in"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "on_change"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Public Data"
+      url: "https://www.cert-in.org.in"
+      summary: "CERT-In directions, advisories, and guidelines are publicly available"
+    coverage:
+      scope: "CERT-In directions on incident reporting (April 2022 directions mandating 6-hour reporting), vulnerability disclosure guidelines, cybersecurity advisories, and compliance requirements for service providers"
+      limitations: "Advisories are time-sensitive and may be superseded; technical vulnerability data is not included (covered by CVE MCPs)"
+    languages:
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"
+
+# Notes:
+# - India Code (indiacode.nic.in) is the official government repository for all Central Acts
+# - DPDPA 2023 is India's first comprehensive data protection law; rules are still being notified
+# - The IT Act 2000 (amended 2008) remains the primary cybercrime and intermediary liability law
+# - CERT-In directions (April 2022) mandate 6-hour incident reporting, among the strictest globally
+# - English is the primary language of Indian legislation; Hindi translations are available for most Acts
+# - The Aadhaar Act 2016 governs India's biometric identity system and has significant privacy implications
+# - The Supreme Court's Puttaswamy judgment (2017) established right to privacy as a fundamental right
+#   under Article 21 of the Constitution, forming the constitutional basis for DPDPA
+# - India does not have an EU GDPR adequacy decision as of 2026

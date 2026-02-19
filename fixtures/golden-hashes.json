@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "India Law MCP",
+  "jurisdiction": "IN",
+  "provisions": [
+    {
+      "id": "in-hash-001",
+      "description": "Constitution of India Article 21 — right to life and personal liberty; basis for the right to privacy as established by the Supreme Court in Puttaswamy (2017)",
+      "upstream_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_5_23_00037_000A1949_1523266765688&sectionId=30800&sectionno=21",
+      "selector_hint": "Article 21",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "No person shall be deprived of his life or personal liberty except according to procedure established by law"
+    },
+    {
+      "id": "in-hash-002",
+      "description": "Digital Personal Data Protection Act 2023 Section 2 — definitions; key terms including 'Data Fiduciary', 'Data Principal', 'personal data'",
+      "upstream_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_45_76_00001_202322_1706159846498&sectionId=65037&sectionno=2",
+      "selector_hint": "Section 2",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Data Fiduciary"
+    },
+    {
+      "id": "in-hash-003",
+      "description": "Information Technology Act 2000 Section 2 — definitions; foundational IT law definitions including 'computer', 'data', 'electronic record'",
+      "upstream_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_45_76_00001_200021_1517807324077&sectionId=13202&sectionno=2",
+      "selector_hint": "Section 2",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "computer"
+    },
+    {
+      "id": "in-hash-004",
+      "description": "Companies Act 2013 Section 1 — short title, extent, and commencement",
+      "upstream_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_45_76_00001_201318_1517807328541&sectionId=27439&sectionno=1",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Companies Act, 2013"
+    },
+    {
+      "id": "in-hash-005",
+      "description": "Consumer Protection Act 2019 Section 1 — short title, extent, commencement, and application",
+      "upstream_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_45_76_00001_201935_1565940498498&sectionId=52025&sectionno=1",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Consumer Protection Act, 2019"
+    },
+    {
+      "id": "in-hash-006",
+      "description": "Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act 2016 Section 1 — short title, extent, and commencement",
+      "upstream_url": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_45_76_00001_201618_1517807328781&sectionId=33498&sectionno=1",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Aadhaar"
+    }
+  ]
+}
