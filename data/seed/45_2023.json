@@ -1,0 +1,16 @@
+{
+  "id": "act-45-2023",
+  "type": "statute",
+  "title": "Bharatiya Nyaya Sanhita, 2023",
+  "short_name": "BNS 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-25",
+  "url": "https://www.indiacode.nic.in/handle/123456789/20280",
+  "description": "Replaces the Indian Penal Code 1860. Comprehensive criminal code of India covering general exceptions, offences against the State, public tranquility, public servants, public justice, elections, human body, property, and related matters.",
+  "provisions": [
+    {"provision_ref": "sec303", "section": "303", "title": "Theft of computer resource or communication device", "content": "Whoever commits theft of any computer resource or any communication device shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.", "chapter": "Chapter XVII - Of Offences Against Property"},
+    {"provision_ref": "sec316", "section": "316", "title": "Criminal breach of trust", "content": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust.", "chapter": "Chapter XVII - Of Offences Against Property"},
+    {"provision_ref": "sec318", "section": "318", "title": "Cheating", "content": "Whoever, by deceiving any person, whether or not such deception was the sole or main inducement, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit to do if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to any person in body, mind, reputation or property, is said to cheat.", "chapter": "Chapter XVII - Of Offences Against Property"},
+    {"provision_ref": "sec336", "section": "336", "title": "Forgery", "content": "Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.", "chapter": "Chapter XVIII - Of Criminal Breach of Contracts of Service"}
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "act-22-2023",
+  "type": "statute",
+  "title": "The Digital Personal Data Protection Act, 2023",
+  "short_name": "DPDPA 2023",
+  "status": "in_force",
+  "issued_date": "2023-08-11",
+  "in_force_date": "2023-08-11",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19887",
+  "description": "India's first comprehensive data protection law. Regulates the processing of digital personal data, establishes consent requirements, data fiduciary obligations, rights of data principals, and creates the Data Protection Board of India.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement",
+      "content": "This Act may be called the Digital Personal Data Protection Act, 2023. It extends to the whole of India. It applies to the processing of digital personal data within the territory of India where such personal data is collected in digital form or in non-digital form and digitised subsequently; and to the processing of digital personal data outside the territory of India, if such processing is in connection with any activity related to offering of goods or services to Data Principals within the territory of India."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions",
+      "content": "In this Act, unless the context otherwise requires: 'Consent Manager' means a person registered with the Board who acts as a single point of contact to enable a Data Principal to give, manage, review and withdraw her consent through an accessible, transparent and interoperable platform; 'Data Fiduciary' means any person who alone or in conjunction with other persons determines the purpose and means of processing of personal data; 'Data Principal' means the individual to whom the personal data relates and where such individual is a child includes the parents or lawful guardian of such child, and a person with disability includes her lawful guardian acting on her behalf; 'Data Processor' means any person who processes personal data on behalf of a Data Fiduciary; 'personal data' means any data about an individual who is identifiable by or in relation to such data; 'processing' in relation to personal data means a wholly or partly automated operation or set of operations performed on digital personal data, and may include operations such as collection, recording, organisation, structuring, storage, adaptation, retrieval, use, alignment or combination, indexing, sharing, disclosure by transmission, dissemination or otherwise making available, restriction, erasure or destruction."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "This Act shall apply to the processing of digital personal data within the territory of India where the personal data is collected in digital form or in non-digital form and digitised subsequently, and to the processing of digital personal data outside the territory of India, if such processing is in connection with any activity related to offering of goods or services to Data Principals within the territory of India. The provisions of this Act shall not apply to personal data processed by an individual for any personal or domestic purpose, and personal data that is made or caused to be made publicly available by the Data Principal to whom such personal data relates or any other person who is under an obligation under any law for the time being in force to make such personal data publicly available."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Consent",
+      "content": "A Data Principal may give her consent to the processing of her personal data for a specified purpose. Such consent shall be free, specific, informed, unconditional and unambiguous with a clear affirmative action, and shall signify an agreement to the processing of her personal data for the specified purpose. A Data Principal may withdraw her consent at any time, with the ease of such withdrawal being comparable to the ease with which such consent was given. Where a Data Principal withdraws her consent, the Data Fiduciary shall, within a reasonable time, cease to process the personal data of such Data Principal unless such processing without consent is required or authorised under the provisions of this Act or any other law for the time being in force."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Notice",
+      "content": "Every request made to a Data Principal under section 4 for consent shall be accompanied or preceded by a notice given by the Data Fiduciary to the Data Principal, informing the Data Principal about: the personal data and the purpose of processing of such personal data, the manner in which the Data Principal may exercise her rights under the provisions of this Act, and the manner in which the Data Principal may make a complaint to the Board in such manner as may be prescribed."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Deemed consent",
+      "content": "A Data Principal shall be deemed to have given her consent to the processing of her personal data if such processing is necessary for the State or any instrumentality of the State to provide any subsidy, benefit, service, certificate, licence or permit; for the performance of any function under any law or any order of any court; for compliance with any judgement or decree or order issued under any law; for responding to a medical emergency; for taking measures to provide medical treatment or health services to any individual during an epidemic, outbreak of disease or any other threat to public health; or for taking measures to ensure safety of, or provide assistance to, any individual during any disaster or any breakdown of public order."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Certain legitimate uses",
+      "content": "A Data Fiduciary may process personal data of a Data Principal for such purpose as the Data Principal voluntarily provides her personal data to the Data Fiduciary and has not indicated to such Data Fiduciary that she does not consent to the use of her personal data. A Data Fiduciary may process personal data for employment purposes including prevention of corporate espionage, maintenance of confidentiality of trade secrets, intellectual property, classified information, recruitment, termination of employment, provision of any service or benefit sought by a Data Principal who is an employee, verification of attendance and assessment of performance."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "General obligations of Data Fiduciary",
+      "content": "A Data Fiduciary shall comply with the provisions of this Act and the rules made thereunder in respect of any processing undertaken by it or on its behalf by a Data Processor. A Data Fiduciary shall be responsible for complying with the provisions of this Act in respect of any processing undertaken by a Data Processor on behalf of such Data Fiduciary. A Data Fiduciary shall not engage, appoint, use or involve a Data Processor to process personal data on its behalf unless under a valid contract. A Data Fiduciary shall protect personal data in its possession or under its control by taking reasonable security safeguards to prevent personal data breach. In the event of a personal data breach, the Data Fiduciary shall give the Board and each affected Data Principal, intimation of such breach in such form and manner as may be prescribed."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Obligations of Data Fiduciary in relation to retention and erasure",
+      "content": "A Data Fiduciary shall not retain personal data beyond the period necessary to satisfy the purpose for which it was processed and shall erase personal data upon the Data Principal withdrawing her consent or upon such personal data no longer being necessary for the purpose for which it was processed, unless retention is necessary for compliance with any law for the time being in force."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Significant Data Fiduciary",
+      "content": "The Central Government may, having regard to the volume and sensitivity of personal data processed, risk to the rights of Data Principal, potential impact on the sovereignty and integrity of India, risk to electoral democracy, security of the State and public order, notify any Data Fiduciary or class of Data Fiduciaries as Significant Data Fiduciary. Every Significant Data Fiduciary shall appoint a Data Protection Officer who shall represent the Significant Data Fiduciary under the provisions of this Act and be based in India, and shall be an individual responsible to the Board of Directors or similar governing body of the Significant Data Fiduciary. Every Significant Data Fiduciary shall appoint an independent data auditor to carry out data audit and the data auditor shall evaluate the compliance of the Significant Data Fiduciary with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Rights of Data Principal",
+      "content": "A Data Principal shall have the right to obtain from the Data Fiduciary a summary of personal data that is being processed by the Data Fiduciary and the processing activities undertaken by that Data Fiduciary with respect to such personal data, the identities of all other Data Fiduciaries and Data Processors with whom the personal data has been shared by the Data Fiduciary, along with a description of the personal data so shared, and any other information related to the personal data of such Data Principal and its processing, as may be prescribed."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Right of correction and erasure",
+      "content": "A Data Principal shall have the right to correction of inaccurate or misleading personal data, completion of incomplete personal data, updating of personal data, and erasure of personal data that is no longer necessary for the purpose for which it was processed unless retention is necessary for a specified purpose."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Right of grievance redressal",
+      "content": "A Data Principal shall have the right to have readily available means of grievance redressal provided by the Data Fiduciary or Consent Manager, as the case may be, in respect of any act or omission of such Data Fiduciary or Consent Manager regarding the performance of its obligations in relation to her personal data or the exercise of her rights under the provisions of this Act. A Data Principal who is not satisfied with the response of the Data Fiduciary to a grievance may file a complaint with the Board."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Right of nomination",
+      "content": "A Data Principal shall have the right to nominate any other individual, who shall, in the event of death or incapacity of the Data Principal, exercise the rights of the Data Principal in accordance with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Duties of Data Principal",
+      "content": "A Data Principal shall comply with the provisions of all applicable laws for the time being in force while exercising rights under the provisions of this Act and shall not register a false or frivolous complaint or furnish any false particulars therein with the Data Fiduciary or the Board. A Data Principal shall not impersonate another person while providing her personal data for a specified purpose and shall not suppress any material information while providing her personal data for any document, unique identifier, proof of identity or proof of address issued by the State or any instrumentality of the State."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Processing of personal data of children",
+      "content": "Before processing any personal data of a child, the Data Fiduciary shall obtain verifiable consent of the parent or lawful guardian of the child. A Data Fiduciary shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children. A Data Fiduciary shall not undertake processing of personal data that is likely to cause any detrimental effect on the well-being of a child. The Central Government may, by notification, exempt certain Data Fiduciaries or class of Data Fiduciaries from certain provisions of this section having regard to the volume and nature of personal data processed by such Data Fiduciary."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Transfer of personal data outside India",
+      "content": "The Central Government may, after an assessment of such factors as it may consider necessary, by notification, restrict the transfer of personal data by a Data Fiduciary for processing to such country or territory outside India as may be so notified. Transfer of personal data by a Data Fiduciary for processing outside India shall be in accordance with such terms and conditions as may be prescribed."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Data Protection Board of India",
+      "content": "The Central Government shall, by notification, establish a Board to be known as the Data Protection Board of India for the purposes of this Act. The Board shall consist of a Chairperson and such number of other Members as the Central Government may appoint. The Chairperson and other Members of the Board shall be persons of ability, integrity and standing, having special knowledge of, and professional experience in, the areas relating to data protection, information technology, data management, data science, data security, cyber and internet laws, public administration, public policy or related subjects."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Functions of the Board",
+      "content": "The Board shall determine whether there has been a breach of any provision of this Act or the rules made thereunder and impose penalty for such breach. The Board shall direct any urgent remedial or mitigation measures in the event of a personal data breach. The Board shall perform any such other function as may be prescribed."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Penalties",
+      "content": "Where the Board, after making an inquiry, determines that any person has breached any provision of this Act or the rules made thereunder, it may, after giving such person a reasonable opportunity of being heard, impose such penalty as it may determine. The penalty for breach of provisions relating to obligations of Data Fiduciary shall be up to two hundred and fifty crore rupees. The penalty for failure to take reasonable security safeguards to prevent personal data breach shall be up to two hundred and fifty crore rupees. The penalty for breach of provisions relating to children shall be up to two hundred crore rupees. The penalty for breach of duties of Data Principal shall be up to ten thousand rupees."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Data Fiduciary",
+      "definition": "Any person who alone or in conjunction with other persons determines the purpose and means of processing of personal data.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Data Principal",
+      "definition": "The individual to whom the personal data relates and where such individual is a child includes the parents or lawful guardian of such child, and a person with disability includes her lawful guardian acting on her behalf.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Data Processor",
+      "definition": "Any person who processes personal data on behalf of a Data Fiduciary.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "personal data",
+      "definition": "Any data about an individual who is identifiable by or in relation to such data.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "processing",
+      "definition": "A wholly or partly automated operation or set of operations performed on digital personal data, and may include operations such as collection, recording, organisation, structuring, storage, adaptation, retrieval, use, alignment or combination, indexing, sharing, disclosure by transmission, dissemination or otherwise making available, restriction, erasure or destruction.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Consent Manager",
+      "definition": "A person registered with the Board who acts as a single point of contact to enable a Data Principal to give, manage, review and withdraw her consent through an accessible, transparent and interoperable platform.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "personal data breach",
+      "definition": "Any unauthorised processing of personal data or accidental disclosure, acquisition, sharing, use, alteration, destruction of, or loss of access to, personal data, that compromises the confidentiality, integrity or availability of personal data.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Significant Data Fiduciary",
+      "definition": "A Data Fiduciary or class of Data Fiduciaries notified by the Central Government having regard to the volume and sensitivity of personal data processed, risk to the rights of Data Principal, potential impact on the sovereignty and integrity of India, risk to electoral democracy, security of the State and public order.",
+      "source_provision": "s10"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "act-35-2019",
+  "type": "statute",
+  "title": "The Consumer Protection Act, 2019",
+  "short_name": "CPA 2019",
+  "status": "in_force",
+  "issued_date": "2019-08-09",
+  "url": "https://www.indiacode.nic.in/handle/123456789/15256",
+  "description": "Provides for protection of the interests of consumers and for the establishment of consumer councils and other authorities for settlement of consumer disputes.",
+  "provisions": [
+    {"provision_ref": "sec2", "section": "2", "title": "Definitions", "content": "In this Act, unless the context otherwise requires: (7) 'consumer' means any person who buys any goods for a consideration which has been paid or promised and includes any user of such goods other than the person who buys such goods; (10) 'defect' means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force; (47) 'unfair trade practice' means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice.", "chapter": "Chapter I - Preliminary"},
+    {"provision_ref": "sec35", "section": "35", "title": "Jurisdiction of District Commission", "content": "Subject to the other provisions of this Act, the District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed one crore rupees.", "chapter": "Chapter III - Consumer Disputes Redressal Commission"},
+    {"provision_ref": "sec39", "section": "39", "title": "Procedure on admission of complaint", "content": "The District Commission shall, on admission of a complaint, refer a copy of such complaint to the opposite party mentioned in the complaint directing him to give his version of the case within a period of thirty days or such extended period not exceeding fifteen days as may be granted by the District Commission.", "chapter": "Chapter III - Consumer Disputes Redressal Commission"},
+    {"provision_ref": "sec94", "section": "94", "title": "Product liability", "content": "A product liability action may be brought by a complainant against a product manufacturer or a product service provider or a product seller, as the case may be, for any harm caused to him on account of a defective product.", "chapter": "Chapter VI - Product Liability"}
+  ]
+}

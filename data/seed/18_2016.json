@@ -1,0 +1,17 @@
+{
+  "id": "act-18-2016",
+  "type": "statute",
+  "title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016",
+  "short_name": "Aadhaar Act 2016",
+  "status": "in_force",
+  "issued_date": "2016-03-25",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2187",
+  "description": "Provides for targeted delivery of subsidies, benefits and services to individuals using Aadhaar authentication. Establishes the Unique Identification Authority of India (UIDAI).",
+  "provisions": [
+    {"provision_ref": "sec2", "section": "2", "title": "Definitions", "content": "In this Act, unless the context otherwise requires: (a) 'Aadhaar number' means an identification number issued to an individual under sub-section (3) of section 3; (g) 'biometric information' means photograph, finger print, Iris scan, or such other biological attributes of an individual as may be specified by regulations; (j) 'identity information' means the Aadhaar number, biometric information and demographic information of an individual.", "chapter": "Chapter I - Preliminary"},
+    {"provision_ref": "sec28", "section": "28", "title": "Security and confidentiality of information", "content": "The Authority shall ensure the security and confidentiality of identity information and authentication records of individuals. The Authority shall take all necessary measures to ensure that the information in the possession or control of the Authority, including information stored in the Central Identities Data Repository, is secured and protected against access, use or disclosure not permitted under this Act.", "chapter": "Chapter VI - Protection of Information"},
+    {"provision_ref": "sec29", "section": "29", "title": "Restriction on sharing information", "content": "No core biometric information, collected or created under this Act, shall be shared with anyone for any reason whatsoever, or used for any purpose other than generation of Aadhaar numbers and authentication under this Act. No identity information available with a requesting entity shall be used by such entity except in accordance with the provisions of this Act.", "chapter": "Chapter VI - Protection of Information"},
+    {"provision_ref": "sec37", "section": "37", "title": "Offences by companies", "content": "Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.", "chapter": "Chapter VII - Offences and Penalties"},
+    {"provision_ref": "sec40", "section": "40", "title": "Protection of action taken in good faith", "content": "No suit, prosecution or other legal proceeding shall lie against the Authority or any officer or other employee of the Authority or any agency or person appointed under this Act for anything which is in good faith done or intended to be done under this Act or the rules or regulations made thereunder.", "chapter": "Chapter VIII - Miscellaneous"}
+  ]
+}

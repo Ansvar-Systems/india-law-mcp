@@ -1,0 +1,16 @@
+{
+  "id": "act-18-2013",
+  "type": "statute",
+  "title": "The Companies Act, 2013",
+  "short_name": "Companies Act 2013",
+  "status": "in_force",
+  "issued_date": "2013-08-29",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2114",
+  "description": "Primary legislation governing the incorporation, responsibilities, and dissolution of companies in India.",
+  "provisions": [
+    {"provision_ref": "sec2", "section": "2", "title": "Definitions", "content": "In this Act, unless the context otherwise requires: (20) 'company' means a company incorporated under this Act or under any previous company law; (34) 'director' means a director appointed to the Board of a company; (35) 'dividend' includes interim dividend; (36) 'document' includes summons, notice, requisition, order, declaration, form and register, whether issued, sent or kept in pursuance of this Act or under any other law for the time being in force or otherwise, maintained on paper or in electronic form.", "chapter": "Chapter I - Preliminary"},
+    {"provision_ref": "sec134", "section": "134", "title": "Financial statement, Board's report, etc.", "content": "The financial statement, including consolidated financial statement, if any, shall be approved by the Board of Directors before they are signed on behalf of the Board. The Board's report shall be prepared based on the stand alone financial statement of the company and the report shall include a Directors' Responsibility Statement.", "chapter": "Chapter IX - Accounts of Companies"},
+    {"provision_ref": "sec166", "section": "166", "title": "Duties of directors", "content": "A director of a company shall act in accordance with the articles of the company. A director of a company shall act in good faith in order to promote the objects of the company for the benefit of its members as a whole, and in the best interests of the company, its employees, the shareholders, the community and for the protection of environment.", "chapter": "Chapter XI - Appointment and Qualifications of Directors"},
+    {"provision_ref": "sec447", "section": "447", "title": "Punishment for fraud", "content": "Without prejudice to any liability including repayment of any debt under this Act or any other law for the time being in force, any person who is found to be guilty of fraud, shall be punishable with imprisonment for a term which shall not be less than six months but which may extend to ten years and shall also be liable to fine which shall not be less than the amount involved in the fraud, but which may extend to three times the amount involved in the fraud.", "chapter": "Chapter XXIX - Miscellaneous"}
+  ]
+}
