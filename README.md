@@ -1,60 +1,86 @@
-# India Law MCP
+# Indian Law MCP Server
 
-[![npm version](https://img.shields.io/npm/v/@ansvar/india-law-mcp)](https://www.npmjs.com/package/@ansvar/india-law-mcp)
-[![CI](https://github.com/Ansvar-Systems/india-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/india-law-mcp/actions/workflows/ci.yml)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Ansvar-Systems/india-law-mcp/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Ansvar-Systems/india-law-mcp)
+**The India Code alternative for the AI age.**
 
-An MCP (Model Context Protocol) server providing full-text search and section-level retrieval of Indian legislation. Covers the Digital Personal Data Protection Act (DPDPA, 2023), Information Technology Act (2000, amended 2008), IT Rules (SPDI Rules 2011, Intermediary Guidelines 2021), Companies Act 2013, Consumer Protection Act 2019, and Aadhaar Act 2016. Includes CERT-In directions on incident reporting. All data is sourced from the official India Code portal (indiacode.nic.in) maintained by the National Informatics Centre, with supplementary sources from legislative.gov.in, meity.gov.in, and cert-in.org.in.
+[![npm version](https://badge.fury.io/js/%40ansvar/india-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/india-law-mcp)
+[![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/India-law-mcp?style=social)](https://github.com/Ansvar-Systems/India-law-mcp)
+[![CI](https://github.com/Ansvar-Systems/India-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/India-law-mcp/actions/workflows/ci.yml)
 
-## Data Sources
+Query **Indian legislation** -- covering data protection, cybersecurity, corporate law, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
-| Source | Authority | Method | Update Frequency | License | Coverage |
-|--------|-----------|--------|-----------------|---------|----------|
-| [India Code](https://www.indiacode.nic.in) | Ministry of Law and Justice / NIC | HTML Scrape | On change | Government Open Data | All Central Acts of Parliament |
-| [Legislative Department](https://legislative.gov.in) | Legislative Department, MoLJ | HTML Scrape | On change | Government Open Data | Subordinate legislation, IT Rules, gazette notifications |
-| [MeitY](https://www.meity.gov.in) | Ministry of Electronics and IT | HTML Scrape | On change | Government Open Data | IT Act rules, CERT-In directions, DPDPA rules |
-| [CERT-In](https://www.cert-in.org.in) | CERT-In, MeitY | HTML Scrape | On change | Government Public Data | Incident reporting directions, cybersecurity advisories |
+If you're building legal tech, compliance tools, or doing Indian legal research, this is your verified reference database.
 
-> Full provenance metadata: [`sources.yml`](./sources.yml)
+Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
-## Laws Covered
+---
 
-| Law | Year | Key Topic |
-|-----|------|-----------|
-| **Digital Personal Data Protection Act (DPDPA)** | 2023 | India's comprehensive data protection law |
-| **Information Technology Act** | 2000 (amended 2008) | Cybercrime, intermediary liability, electronic records |
-| **IT (SPDI) Rules** | 2011 | Sensitive personal data protection for body corporates |
-| **IT (Intermediary Guidelines) Rules** | 2021 | Platform obligations, content moderation, grievance redressal |
-| **Companies Act** | 2013 | Corporate governance, director duties, compliance |
-| **Consumer Protection Act** | 2019 | Consumer rights, e-commerce, unfair trade practices |
-| **Aadhaar Act** | 2016 | Biometric identity system, authentication, data protection |
-| **Constitution (selected provisions)** | 1950 (amended) | Fundamental rights, Article 21 (right to privacy) |
+## Why This Exists
 
-Additionally includes key subordinate legislation and directions:
+Indian legal research is scattered across official government databases, commercial legal platforms, and institutional archives. Whether you're:
+- A **lawyer** validating citations in a brief or contract
+- A **compliance officer** checking if a statute is still in force
+- A **legal tech developer** building tools on Indian law
+- A **researcher** tracing legislative history
 
-- CERT-In Directions (April 2022) — 6-hour mandatory incident reporting
-- DPDPA Rules (as notified)
-- Network Data Security Management rules
+...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
+
+This MCP server makes Indian law **searchable, cross-referenceable, and AI-readable**.
+
+---
 
 ## Quick Start
 
-### npx (no install)
+### Use Remotely (No Install Needed)
+
+> Connect directly to the hosted version -- zero dependencies, nothing to install.
+
+**Endpoint:** `https://india-law-mcp.vercel.app/mcp`
+
+| Client | How to Connect |
+|--------|---------------|
+| **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
+| **Claude Code** | `claude mcp add india-law --transport http https://india-law-mcp.vercel.app/mcp` |
+| **Claude Desktop** | Add to config (see below) |
+| **GitHub Copilot** | Add to VS Code settings (see below) |
+
+**Claude Desktop** -- add to `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "india-law": {
+      "type": "url",
+      "url": "https://india-law-mcp.vercel.app/mcp"
+    }
+  }
+}
+```
+
+**GitHub Copilot** -- add to VS Code `settings.json`:
+
+```json
+{
+  "github.copilot.chat.mcp.servers": {
+    "india-law": {
+      "type": "http",
+      "url": "https://india-law-mcp.vercel.app/mcp"
+    }
+  }
+}
+```
+
+### Use Locally (npm)
 
 ```bash
 npx @ansvar/india-law-mcp
 ```
 
-### npm install
+**Claude Desktop** -- add to `claude_desktop_config.json`:
 
-```bash
-npm install -g @ansvar/india-law-mcp
-india-law-mcp
-```
-
-### Claude Desktop Configuration
-
-Add to `~/.config/claude/claude_desktop_config.json`:
+**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
+**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
 
 ```json
 {
@@ -67,13 +93,11 @@ Add to `~/.config/claude/claude_desktop_config.json`:
 }
 ```
 
-### Cursor Configuration
-
-Add to `.cursor/mcp.json`:
+**Cursor / VS Code:**
 
 ```json
 {
-  "mcpServers": {
+  "mcp.servers": {
     "india-law": {
       "command": "npx",
       "args": ["-y", "@ansvar/india-law-mcp"]
@@ -82,72 +106,232 @@ Add to `.cursor/mcp.json`:
 }
 ```
 
-## Available Tools
+---
+
+## Example Queries
+
+Once connected, just ask naturally:
+
+- *"What does the Indian data protection law say about consent?"*
+- *"Search for cybersecurity requirements in Indian legislation"*
+- *"Is this statute still in force?"*
+- *"Find provisions about personal data in Indian law"*
+- *"What EU directives does this Indian law implement?"*
+- *"Which Indian laws implement the GDPR?"*
+- *"Validate this legal citation"*
+- *"Build a legal stance on data breach notification requirements"*
+
+---
+
+## Available Tools (13)
+
+### Core Legal Research Tools (8)
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | Full-text search across all Indian laws and rules. Supports English and Hindi queries. Returns matching provisions with act name, section number, and relevance score. |
-| `get_provision` | Retrieve a specific section/provision by act identifier and section number. Returns full text, citation URL, and metadata. |
-| `get_provision_eu_basis` | Cross-reference lookup showing the relationship between Indian laws and their EU/international equivalents (e.g., DPDPA vs GDPR, IT Act vs NIS2). |
-| `validate_citation` | Validate a legal citation against the database. Checks act name, section number, and returns canonical citation format. |
-| `check_statute_currency` | Check whether a law or provision is the current version. Returns adoption date, effective date, and amendment history. |
-| `list_laws` | List all laws in the database with metadata: official name, year, effective date, status, and section count. |
+| `search_legislation` | FTS5 full-text search across all provisions with BM25 ranking |
+| `get_provision` | Retrieve specific provision by statute + chapter/section |
+| `check_currency` | Check if statute is in force, amended, or repealed |
+| `validate_citation` | Validate citation against database (zero-hallucination check) |
+| `build_legal_stance` | Aggregate citations from statutes for a legal topic |
+| `format_citation` | Format citations per Indian conventions (full/short/pinpoint) |
+| `list_sources` | List all available statutes with metadata |
+| `about` | Server info, capabilities, and coverage summary |
 
-## Deployment Tiers
+### EU/International Law Integration Tools (5)
 
-| Tier | Content | Database Size | Platform |
-|------|---------|---------------|----------|
-| **Free** | All Central Acts + IT Rules + CERT-In directions + EU cross-references | ~100-200 MB | Vercel (bundled) or local |
-| **Professional** | + State Acts + Supreme Court landmark judgments + regulatory guidance + full subordinate legislation | ~500 MB-1 GB | Azure Container Apps / Docker / local |
+| Tool | Description |
+|------|-------------|
+| `get_eu_basis` | Get EU directives/regulations for Indian statute |
+| `get_india_law_implementations` | Find Indian laws implementing EU act |
+| `search_eu_implementations` | Search EU documents with Indian implementation counts |
+| `get_provision_eu_basis` | Get EU law references for specific provision |
+| `validate_eu_compliance` | Check implementation status of EU directives |
 
-### Deployment Strategy: MEDIUM - Dual Tier, Bundled Free
+---
 
-The free-tier database containing Central Acts and key subordinate legislation is estimated at 100-200 MB, within the Vercel 250 MB bundle limit. The free-tier database is bundled directly with the Vercel deployment. The professional tier with Supreme Court judgments and expanded subordinate legislation requires local Docker or Azure Container Apps deployment.
+## Why This Works
 
-### Capability Detection
+**Verbatim Source Text (No LLM Processing):**
+- All statute text is ingested from official Indian government sources
+- Provisions are returned **unchanged** from SQLite FTS5 database rows
+- Zero LLM summarization or paraphrasing -- the database contains regulation text, not AI interpretations
 
-Both tiers use the same codebase. At startup, the server detects available SQLite tables and gates tools accordingly:
+**Smart Context Management:**
+- Search returns ranked provisions with BM25 scoring (safe for context)
+- Provision retrieval gives exact text by statute identifier + chapter/section
+- Cross-references help navigate without loading everything at once
 
+**Technical Architecture:**
 ```
-Free tier:     core_legislation, eu_references, cert_in_directions
-Professional:  core_legislation, eu_references, cert_in_directions, supreme_court_judgments, state_acts, subordinate_legislation
+Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
+                     ^                       ^
+              Provision parser         Verbatim database query
 ```
 
-Tools that require professional capabilities return an upgrade message on the free tier.
+### Traditional Research vs. This MCP
 
-## Database Size Estimates
+| Traditional Approach | This MCP Server |
+|---------------------|-----------------|
+| Search official databases by statute number | Search by plain language |
+| Navigate multi-chapter statutes manually | Get the exact provision with context |
+| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
+| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
+| Find EU basis --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
+| No API, no integration | MCP protocol --> AI-native |
 
-| Component | Estimated Size | Notes |
-|-----------|---------------|-------|
-| Central Acts (Parliament) | ~40-60 MB | ~800 Central Acts, full English text |
-| IT Rules and subordinate legislation (key) | ~20-30 MB | SPDI Rules, Intermediary Guidelines, etc. |
-| CERT-In directions and advisories | ~5-10 MB | Incident reporting, compliance requirements |
-| EU cross-references | ~5-10 MB | DPDPA-GDPR, IT Act-NIS2 mappings |
-| FTS5 indexes | ~30-50 MB | Full-text search indexes |
-| **Free tier total** | **~100-200 MB** | |
-| Supreme Court landmark judgments | ~200-400 MB | Privacy, IT Act interpretations |
-| State Acts | ~200-300 MB | Selected State IT and data protection rules |
-| **Professional tier total** | **~500 MB-1 GB** | |
+---
 
-## Data Freshness
+## Data Sources & Freshness
 
-- **SLO:** 30 days maximum data age
-- **Automated checks:** Weekly upstream change detection
-- **Drift detection:** Nightly hash verification of 6 stable provisions (Constitution Art. 21, DPDPA Sec. 2, IT Act Sec. 2, Companies Act Sec. 1, Consumer Protection Act Sec. 1, Aadhaar Act Sec. 1)
-- **Health endpoint:** Returns `status: stale` when data exceeds 30-day SLO
+All content is sourced from authoritative Indian legal databases:
 
-## Language Support
+- **[India Code](https://www.indiacode.nic.in)** -- Official Indian government legal database
 
-The primary language is **English (en)**, which is the principal language of Indian legislation. Hindi (hi) translations are available for most Central Acts. All official law text on India Code is available in English, which is legally authoritative alongside Hindi.
+**Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
+
+---
+
+## Security
+
+This project uses multiple layers of automated security scanning:
+
+| Scanner | What It Does | Schedule |
+|---------|-------------|----------|
+| **CodeQL** | Static analysis for security vulnerabilities | Weekly + PRs |
+| **Semgrep** | SAST scanning (OWASP top 10, secrets, TypeScript) | Every push |
+| **Gitleaks** | Secret detection across git history | Every push |
+| **Trivy** | CVE scanning on filesystem and npm dependencies | Daily |
+| **Socket.dev** | Supply chain attack detection | PRs |
+| **Dependabot** | Automated dependency updates | Weekly |
+
+See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
+
+---
+
+## Important Disclaimers
+
+### Legal Advice
+
+> **THIS TOOL IS NOT LEGAL ADVICE**
+>
+> Statute text is sourced from official Indian government publications. However:
+> - This is a **research tool**, not a substitute for professional legal counsel
+> - **Court case coverage is limited** -- do not rely solely on this for case law research
+> - **Verify critical citations** against primary sources for court filings
+> - **EU cross-references** are extracted from statute text, not EUR-Lex full text
+
+**Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
+
+### Client Confidentiality
+
+Queries go through the Claude API. For privileged or confidential matters, use on-premise deployment.
+
+---
+
+## Development
+
+### Setup
+
+```bash
+git clone https://github.com/Ansvar-Systems/India-law-mcp
+cd India-law-mcp
+npm install
+npm run build
+npm test
+```
+
+### Running Locally
+
+```bash
+npm run dev                                       # Start MCP server
+npx @anthropic/mcp-inspector node dist/index.js   # Test with MCP Inspector
+```
+
+---
+
+## Related Projects: Complete Compliance Suite
+
+This server is part of **Ansvar's Compliance Suite** -- MCP servers that work together for end-to-end compliance coverage:
+
+### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
+**Query 49 EU regulations directly from Claude** -- GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
+
+### [@ansvar/us-regulations-mcp](https://github.com/Ansvar-Systems/US_Compliance_MCP)
+**Query US federal and state compliance laws** -- HIPAA, CCPA, SOX, GLBA, FERPA, and more. `npx @ansvar/us-regulations-mcp`
+
+### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
+**Query 261 security frameworks** -- ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
+
+### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
+**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
+
+**30+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Kenya, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
+
+---
 
 ## Contributing
 
-Contributions are welcome. Please read [SECURITY.md](./SECURITY.md) before submitting issues or pull requests.
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-For data accuracy issues (wrong text, missing sections, stale provisions), use the [data error report template](https://github.com/Ansvar-Systems/india-law-mcp/issues/new?template=data-error.md).
+Priority areas:
+- Court case law expansion
+- EU cross-reference improvements
+- Historical statute versions and amendment tracking
+- Additional statutory instruments and regulations
+
+---
+
+## Roadmap
+
+- [x] Core statute database with FTS5 search
+- [x] EU/international law cross-references
+- [x] Vercel Streamable HTTP deployment
+- [x] npm package publication
+- [ ] Court case law expansion
+- [ ] Historical statute versions (amendment tracking)
+- [ ] Preparatory works / explanatory memoranda
+- [ ] Lower court and tribunal decisions
+
+---
+
+## Citation
+
+If you use this MCP server in academic research:
+
+```bibtex
+@software{india_law_mcp_2025,
+  author = {Ansvar Systems AB},
+  title = {Indian Law MCP Server: AI-Powered Legal Research Tool},
+  year = {2025},
+  url = {https://github.com/Ansvar-Systems/India-law-mcp},
+  note = {Indian legal database with full-text search and EU cross-references}
+}
+```
+
+---
 
 ## License
 
-Apache-2.0
+Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
-The law text itself is public domain under Indian government open data policy. This project's code and database structure are licensed under Apache-2.0.
+### Data Licenses
+
+- **Statutes & Legislation:** Indian Government (Government Open Data License)
+- **EU Metadata:** EUR-Lex (EU public domain)
+
+---
+
+## About Ansvar Systems
+
+We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
+
+So we're open-sourcing it.
+
+**[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
+
+---
+
+<p align="center">
+  <sub>Built with care in Stockholm, Sweden</sub>
+</p>
