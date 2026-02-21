@@ -123,6 +123,73 @@ Once connected, just ask naturally:
 
 ---
 
+## Laws Covered
+
+| Law | Year | Key Topic |
+|-----|------|-----------|
+| **Digital Personal Data Protection Act (DPDPA)** | 2023 | India's comprehensive data protection law |
+| **Information Technology Act** | 2000 (amended 2008) | Cybercrime, intermediary liability, electronic records |
+| **IT (SPDI) Rules** | 2011 | Sensitive personal data protection for body corporates |
+| **IT (Intermediary Guidelines) Rules** | 2021 | Platform obligations, content moderation, grievance redressal |
+| **Companies Act** | 2013 | Corporate governance, director duties, compliance |
+| **Consumer Protection Act** | 2019 | Consumer rights, e-commerce, unfair trade practices |
+| **Aadhaar Act** | 2016 | Biometric identity system, authentication, data protection |
+| **Constitution (selected provisions)** | 1950 (amended) | Fundamental rights, Article 21 (right to privacy) |
+
+Additionally includes key subordinate legislation and directions:
+
+- CERT-In Directions (April 2022) — 6-hour mandatory incident reporting
+- DPDPA Rules (as notified)
+- Network Data Security Management rules
+
+---
+
+## Deployment Tiers
+
+| Tier | Content | Database Size | Platform |
+|------|---------|---------------|----------|
+| **Free** | All Central Acts + IT Rules + CERT-In directions + EU cross-references | ~100-200 MB | Vercel (bundled) or local |
+| **Professional** | + State Acts + Supreme Court landmark judgments + regulatory guidance + full subordinate legislation | ~500 MB-1 GB | Azure Container Apps / Docker / local |
+
+### Deployment Strategy: MEDIUM - Dual Tier, Bundled Free
+
+The free-tier database containing Central Acts and key subordinate legislation is estimated at 100-200 MB, within the Vercel 250 MB bundle limit. The free-tier database is bundled directly with the Vercel deployment. The professional tier with Supreme Court judgments and expanded subordinate legislation requires local Docker or Azure Container Apps deployment.
+
+### Capability Detection
+
+Both tiers use the same codebase. At startup, the server detects available SQLite tables and gates tools accordingly:
+
+```
+Free tier:     core_legislation, eu_references, cert_in_directions
+Professional:  core_legislation, eu_references, cert_in_directions, supreme_court_judgments, state_acts, subordinate_legislation
+```
+
+Tools that require professional capabilities return an upgrade message on the free tier.
+
+---
+
+## Database Size Estimates
+
+| Component | Estimated Size | Notes |
+|-----------|---------------|-------|
+| Central Acts (Parliament) | ~40-60 MB | ~800 Central Acts, full English text |
+| IT Rules and subordinate legislation (key) | ~20-30 MB | SPDI Rules, Intermediary Guidelines, etc. |
+| CERT-In directions and advisories | ~5-10 MB | Incident reporting, compliance requirements |
+| EU cross-references | ~5-10 MB | DPDPA-GDPR, IT Act-NIS2 mappings |
+| FTS5 indexes | ~30-50 MB | Full-text search indexes |
+| **Free tier total** | **~100-200 MB** | |
+| Supreme Court landmark judgments | ~200-400 MB | Privacy, IT Act interpretations |
+| State Acts | ~200-300 MB | Selected State IT and data protection rules |
+| **Professional tier total** | **~500 MB-1 GB** | |
+
+---
+
+## Language Support
+
+The primary language is **English (en)**, which is the principal language of Indian legislation. Hindi (hi) translations are available for most Central Acts. All official law text on India Code is available in English, which is legally authoritative alongside Hindi.
+
+---
+
 ## Available Tools (13)
 
 ### Core Legal Research Tools (8)
