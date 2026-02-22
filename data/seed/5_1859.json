@@ -1,0 +1,24 @@
+{
+  "id": "act-5-1859",
+  "type": "statute",
+  "title": "The Bengal Ghatwali Land Act, 1859",
+  "short_name": "BGL1 1859",
+  "status": "in_force",
+  "issued_date": "1859-03-04",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19042?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Ghatwals of Beerbhoom to have the same right of granting leases as is allowed to other proprietors of lands.",
+      "content": "Ghatwals holding lands in the District of Beerbhoom under the provisions of the aforesaid Regulation, shall have the same power of granting leases for any period which they may deem most conducive to the improvement of their tenures, as is allowed by law to the proprietors of other lands. Proviso. ----Provided that no lease of Ghatwalee lands for any period extending beyond the life-time or incumbency of the grantor of the lease shall be valid and binding on the successors of the grantor, unless the same shall be granted for the working of mines, or for the clearing of jungle, or for the erection of dwelling houses or manufactories, or for tanks, canals, and similar works; and shall be approved by the Commissioner of the Division, such approval being certified by an endorsement on the lease under the signature of the Commissioner"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Court of Wards and Revenue authorities to have the like power in certain causes.",
+      "content": "If any of the said Ghatwalee lands be at any time under the superintendence of the Court of Wards, or otherwise subject to the direct control of the Officers of Government, it shall be lawful for the Court of Wards or the Commissioner to grant leases for any such purpose as aforesaid; and every lease so granted shall be valid and binding on all future possessors of the said lands, anything in the existing law to the contrary notwithstanding."
+    }
+  ],
+  "language": "en"
+}

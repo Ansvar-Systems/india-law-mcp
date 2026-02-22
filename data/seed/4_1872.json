@@ -1,0 +1,396 @@
+{
+  "id": "act-4-1872",
+  "type": "statute",
+  "title": "The Punjab Laws Act, 1872",
+  "short_name": "PL1 1872",
+  "status": "in_force",
+  "issued_date": "1872-03-28",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19137?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called “The Panjab Laws Act, 1872."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Local extent.",
+      "content": "It extends to the territories 1which immediately before the 1st November, 1956, were comprised in the States of Panjab and Delhi, but not so as to alter the effect of any regulations made for any parts of the said territories under the 2Statute 33 Vict, Section 1; And it shall come into force on the first day of June, 1872.\n\n[Footnote] 1. Subs. for \"constituting the States of Punjab and Delhi\" by 2 A.L.O., 1956 (w.e.f. 1-11-1956). 2. Rep. by the Government of India Act, 1915."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Enactments in force.",
+      "content": "The Regulations, Acts and orders specified in the First Schedule hereto annexed are in force in the 1territories to which this Act extends to the extent specified in the third column of the said Schedule.\n\n[Footnote] 1. Subs. for “States of Punjab and Delhi” by 2 A.L.O., 1956 (w.e.f. 1-11-1956)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "[Repealed.].",
+      "content": "[Repealed by the Second Repealing and Amending Act, 1914 (17 of 1914), Section 3 and Schedule II.]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Decisions in certain cases to be according to Native law.",
+      "content": "1[5. Decisions in certain cases to be according to Native law.---In questions regarding succession, special property of females, betrothal, marriage, divorce, dower, adoption, guardianship, minority, bastardy, family relations, wills, legacies, gifts, partitions, or any religious usage or institution, the rule of decision shall be--- (1) any custom applicable to the parties concerned, which is not contrary to justice, equity or good conscience, and has not been by this or any other enactment altered or abolished and has not been declared to be void by any competent authority; (2) the Muhammadan law, in cases where the parties are Muhammadans, and the Hindu law, in cases where the parties are Hindus, except in so far as such law has been altered or abolished by legislative enactment, or is opposed to the provisions of this Act, or has been modified by any such custom as is above referred to].\n\n[Footnote] 1. Subs. by Act 12 of 1878, s. 1, for the section 5."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Decisions in cases not specially provided for.",
+      "content": "In cases not otherwise specially provided for, the Judges shall decide according to justice, equity and good conscience."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Local customs and mercantile usages when valid.",
+      "content": "All local customs and mercantile usages shall be regarded as valid, unless they are contrary to justice, equity or good conscience, or have, before the passing of this Act, been declared to be void by any competent authority."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "[Repealed.].",
+      "content": "Subs. by the Punjab Descent of Jaghirs Act, 1900 (Pun. 4 of 1900), s. 2."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "-A.  Repealed..",
+      "content": "Subs. by the Punjab Descent of Jaghirs Act, 1900 (Pun. 4 of 1900), s. 2."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "-B.  Repealed..",
+      "content": "Subs. by the Punjab Descent of Jaghirs Act, 1900 (Pun. 4 of 1900), s. 2."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "-C.  Repealed..",
+      "content": "Subs. by the Punjab Descent of Jaghirs Act, 1900 (Pun. 4 of 1900), s. 2."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "[Repealed.].",
+      "content": "[Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section2(1). ."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "[Repealed.].",
+      "content": "[Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Pre-emption Act, 1905 (Punjab Act 2 of 1905), Section 2(1)."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Land Revenue Act, 1887 (17 of 1887)."
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Provincial Insolvency Act, 1907 (3 of 1907)."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Amending Act, 1891 (12 of 1891)."
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Court of Wards Act, 1903 (Punjab Act 2 of 1903), Section 2(1)."
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Court of Wards Act, 1903 (Punjab Act 2 of 1903), Section 2(1)."
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Court of Wards Act, 1903 (Punjab Act 2 of 1903), Section 2(1)."
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Court of Wards Act, 1903 (Punjab Act 2 of 1903), Section 2(1)."
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "[Repealed.].",
+      "content": "Repealed by the Punjab Court of Wards Act, 1903 (Punjab Act 2 of 1903), Section 2(1)."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Indian Penal Code to apply to offences committed previous to 1st January, 1862.",
+      "content": "The provisions of the Indian Penal Code (45 of 1860), with the exception of Chapter VI, shall be applicable to all offences committed before first January, 1862, in territory which was, at the time of the commission of such offence, subject to the State Government of the Punjab:--- Saving of privileges conferred on certain Chiefs.--Provided that nothing contained in this section shall affect any privilege conferred on certain Chiefs in the Punjab by the Central Government, or by the Board of Administration for the affairs of the Punjab, nor any indemnity or pardon granted by competent authority."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "-A. Power to establish system of village-watchmen, and municipal-watchmen and to make rules",
+      "content": "1[Power to establish system of village-watchmen, and municipal-watchmen and to make rules.----The State Government may establish a system of village-watchmen or municipal-watchmen in any part of the territories under its administration, and in furtherance of this object may, from time to time, make rules to provide for the following matters: (a) the definition of the limits of watchmen's beats; (b) the determination of the several grades of watchmen, and the number of each grade to be appointed to each beat; (c) the appointment, suspension, dismissal and resignation of watchmen of each grade; (d) the equipment and discipline of, and the control and supervision over, such watchmen; (e) the conferring upon them, and the exercise by them, of any powers and the enjoyment by them of any protection or privilege, which may be exercised and enjoyed by a police-officer under any law for the time being in force; (f) the performance by them of such duties relating to police, sanitation or statistics, or for the benefit of the village communities or municipalities within their respective beats, as the State Government thinks fit; (g) the exercise of authority over, and the rendering of aid to, such watchmen by headmen of the villages or members of the Municipal Committees of the towns comprised in their respective beats; (h) the performance, by the headmen of villages comprised in the beat of any watchmen, of any of the duties of a village-watchman in aid of, or substitution for, such watchman; (i) the exercise, by such village-headmen for the purposes referred to in clauses (g) and (h), or by members of Municipal Committees for the purposes referred to in clause (g) of this section, of any of the powers, and the enjoyment by such headmen or members of any privilege or protection, of a villagewatchman, or a municipal-watchman, as the case may be; (j) the determination of the rate at which, and the mode in which, watchmen shall be paid, and, in the case of village-watchmen, of the mode in which their pay, the expenses of their equipment, and other charges connected with the village-watchman-system shall be provided for, whether out of cesses or funds already leviable or available in the villages comprised in the beat, or by a special tax in money or kind to be imposed on any class of persons residing or owning property in, or resorting to, such villages, or partly in one of these ways and partly in the other; (k) the collection with or without the aid of the village-headmen, and by any process available for the realisation of the land-revenue, of any tax imposed under clause (j) of this section, and the application of, and the mode of accounting for, the same; and generally for (l) the efficient working of the system of village-watchmen or municipal-watchmen: Provided--- first, that the rules to be made regarding the appointment of village-watchmen shall allow to the headmen of the villages comprised in the beat to which such a watchman is to be appointed a power of nomination to be exercised in such manner and subject to such reasonable conditions as may be prescribed by such rules; secondly, that the rules to be made under clause (j) of this section with regard to village-watchmen shall include provisions for recording and securing due consideration of the views and opinions on the matters therein referred to of the headmen of the villages comprised in each beat."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "-B. Obligation to assist watchmen and headmen. Person obstructing watchman or headman may be arrested without warrant",
+      "content": "39-B. Obligation to assist watchmen and headmen.— Every person is bound to render to a villagewatchman, or municipal watchman, or village-headman discharging the duties of a police-officer under the rules made hereunder, all the assistance which he is bound to render to a police-officer. Person obstructing watchman or headman may be arrested without warrant.—Any person who obstructs such watchman or headman in the discharge of such duties may be arrested without warrant by a police-officer or by any watchman or village-headman empowered in this behalf by the State Government."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "-C. Power to direct local taxation for payment of police enrolled under Act 5 of 1861.",
+      "content": "1[39-C. Power to direct local taxation for payment of police enrolled under Act 5 of 1861.— Whenever it seems to the State Government expedient that the duties of watch-and-ward and other internal police-service of any town or village not comprised within the limits of a municipality or within the limits of a village-watchman's beat as defined under the power conferred by section 39-A should be performed by police-officers enrolled under 2Act 5 of 1861, the State Government may direct that the said service shall be so performed, and may also 3*** direct that the charges for the time being fixed by such Government on account of such service shall be defrayed by taxes to be levied in such town or village.\n\n[Footnote] 1. Ins. by Act 15 of 1875, s. 2. 2. The Police Act. 3. The words “subject to the control of the G.G. in C.” repealed by the A.O. 1937."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "-D. Notice of taxes proposed to be levied. Objections to taxation. Procedure thereon.",
+      "content": "39-D. Notice of taxes proposed to be levied.-- When the State Government has, under section 39-C, directed that taxes shall be levied in any town or village, the Deputy Commissioner may from time to time issue a public notice in such town or village explaining the nature of the taxes he proposes to levy. Objections to taxation.--- Any inhabitant of such town or village objecting to the taxation thus proposed may, within fifteen days from the publication of such notice, send his objection in writing to the Deputy Commissioner. Procedure thereon.--- After the expiry of fifteen days from the publication of the notice, the Deputy Commissioner may submit for the information of the State Government a report of the proposal made by him. Such report shall contain specific mention of the objections (if any) urged to his proposal and his opinion on such objections. No such tax shall be levied until it has, upon such report, been approved by the State Government."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "-E. Power to fix rates of tax.",
+      "content": "When any such tax has been so approved by the State Government, the Deputy Commissioner may from time to time, subject to such rules consistent with this Act as the State Government may from time to time prescribe, determine the rates at which it is to be levied."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "-F. Power to make rules for collection of taxes",
+      "content": "The State Government may from time to time make rules to provide for the collection of such taxes by any process available for the realisation of the landrevenue and to regulate the application and mode of accounting for the same."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "-G.  Repealed..",
+      "content": "Repealed by the Amending Act, 1891 (12 of 1891)."
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "State Government may confer powers of police-officer.",
+      "content": "The State Government may, if it thinks fit, confer on any person any of the powers which may be exercised by a police-officer under any Act for the time being in force, 1and may withdraw any powers so conferred.\n\n[Footnote] 1. Ins. by Act 12 of 1878, s. 5."
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Trackers may call for assistance in carrying on tracks.",
+      "content": "When an offence is, has been, or may reasonably be supposed to have been committed, and the tracks of the persons who may reasonably be supposed to have committed such offence, or of any animal or other property reasonably supposed to be connected with such offence, are followed to a spot within the immediate vicinity of a village, the person following such tracks may call upon any headman or village-watchman in such village to assist in carrying on the tracks."
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Penalty for withholding assistance or conniving at offence or escape.",
+      "content": "If such headman or watchman do not forthwith give such assistance, or if the inhabitants of such village do not afford full opportunity for search in their houses for the offenders, or, if from the circumstances of the case, there shall appear good reason to believe that the inhabitants of such village, or any of them were conniving at the offence or at the escape of the offenders, and such offenders cannot be traced beyond the village, the Magistrate of the district may, with the previous sanction of the Commissioner of the Division inflict a fine upon such village not exceeding five hundred rupees, except in the case of stolen property over five hundred rupees in value, in which case the fine shall not exceed the value of such property. Appeal to High Court.—An appeal against all convictions under this section shall lie to the High Court of Punjab 1and Haryana. Fine may be awarded to injured parties, and fee to tracker.—The Magistrate may direct that the fine imposed under this section or any part thereof shall be awarded to any persons injured by such offence in compensation for such injury; and, in the case of stolen property recovered through the agency of a tracker, may direct that such property be not restored to its owner until he has paid to such tracker such fee, not exceeding one-fourth part of the value of the stolen property, as the said Magistrate seems fit.\n\n[Footnote] 1. Ins. by Punjab Adaptations of Laws (State and Concurrent Subjects) Order, 1968 (w.e.f. 1-11-1966)."
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Control of slaughter of kine and sale of beef.",
+      "content": "The slaughter of kine and the sale of beef shall not take place except 1* * * subject to rules to be from time to time, either generally or in any particular instance, prescribed by the State Government.\n\n[Footnote] 1. The words “with the consent and” omitted by Act 12 of 1878, s. 6."
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Control of entry into towns of bands of armed men.",
+      "content": "No band of armed men shall enter into any city or town, except 1* * * subject to rules to be from time to time, either generally or in any particular instance, prescribed by the State Government.\n\n[Footnote] 1. The words “with the consent and” omitted by Act 12 of 1878, s. 6"
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Powers of Magistrate of district as to foreign vagrants.",
+      "content": "The Magistrate of the district may, if he considers that any band of foreign vagrants is likely to occasion a breach of the peace or to commit any offence under the Indian Penal Code (45 of 1860), prohibit such band from entering his district; or, if they are already in his district, may require them within a given time to leave it."
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Surveillance, etc., of band failing to comply with Magistrate's order.",
+      "content": "If any such band fail to comply with the orders of the said Magistrate within the prescribed period, he shall report the matter to the State Government, and the State Government may give such directions for the surveillance, control or deportation of such band as to it seems fit."
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Crossing of streams on buoys or skins.",
+      "content": "No person shall cross any river or stream on a buoy or inflated skin, nor shall have in his possession or custody any buoy or skin for the purpose of being used in crossing any river or stream, except 1* * * subject to rules to be from time to time, either generally or in any particular instance, prescribed by the State Government.\n\n[Footnote] 1. The words “with the consent and” omitted by Act 12 of 1878, s. 6."
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Use of pasturage or natural product of Government land.",
+      "content": "No person shall make use of the pasturage or other natural product of any land being the property of the Government, except with the consent and subject to rules to be from time to time, either generally or in any particular instance, prescribed by 1the Government concerned.\n\n[Footnote] 1. Subs. by the A.O. 1950 for “the Govt. for whose purposes the land is vested in His Majesty”."
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "[Replead.].",
+      "content": "Repealed by the Opium Act, 1878 (1 of 1878), Section 2 and Schedule."
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Power to make rules as to matters mentioned in Sections 43 to 48.",
+      "content": "1[50. Power to make rules as to matters mentioned in sections 43 to 48.—The State Government may from time to time make rules as to the matters mentioned in 2sections 43 to 48 inclusive. Existing rules.—All existing rules upon such matters, which might have been made under this section had it been in force, shall be deemed to have been made hereunder.\n\n[Footnote] 1. Subs. by Act 15 of 1875,s. 3, for section 50. 2. Subs. by Act 12 of 1891, s. 2 and Schedule II, for “sections forty-three to forty-nine”."
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "-A. Conditions of validity of rules hereafter made under this Act",
+      "content": "50-A. Conditions of validity of rules hereafter made under this Act.--1[(1)] 2[Rules made under this Act shall not be valid unless:]--- (a) they are consistent with the laws for the time being in force in the 3[territories to which this Act extends]; (b) they are published in the Official Gazette; 4[* * *] 5[(2) Every rule made by the State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.]\n\n[Footnote] 1. Ins. by Act 4 of 2005, s. 2 and Schedule. 2. Subs. by the A.O. 1937 for All rules hereafter made by the L.G. under any power conferred by this Act shall be subject to the control of the G.G. in C. and no such rules shall be valid unless. 3. Subs. by for States of Punjab and Delhi by 2 A.L.O., 1956 (w.e.f. 1-11-1956). 4. Clause (c) of Section 50-A repealed by Act 4 of 1914. 5. Ins. by Act 4 of 2005, Section 2 and Schedule."
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "-B. Penalties for breach of such rules",
+      "content": "50-B. Penalties for breach of such rules.—The State Government may, in making any rule under any of the powers conferred by this Act, attach to the breach of it, in addition to any other consequences that would ensue from such breach, a punishment on conviction before a Magistrate not exceeding six months' imprisonment, or three hundred rupees fine, or both."
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "Republication of rules and orders.",
+      "content": "1[51. Republication of rules and orders. All rules which the State Government is empowered to issue under this Act, and all circulars issued by the High Court of Punjab 2and Haryana, shall be republished from time to time by the State Government, and upon such republication, shall be arranged in the order of their subject-matter, and all such alterations or amendments as may have been made since the last preceding publication thereof, or may have become necessary or advisable, shall be embodied therewith, and upon such republication all such rules and circulars previously issued shall be repealed.]\n\n[Footnote] 1. Subs. by Punjab Act 1 of 1910, for the original Section 51."
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "[Repealed.].",
+      "content": "[Repealed by the Northern India Takkavi Act, 1879 (10 of 1879).]"
+    }
+  ],
+  "language": "en"
+}

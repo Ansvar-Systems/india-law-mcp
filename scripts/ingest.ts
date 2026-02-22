@@ -2,9 +2,10 @@
 /**
  * India Law MCP — Ingestion Pipeline
  *
- * Two-phase ingestion of Indian legislation from indiacode.nic.in:
- *   Phase 1 (Discovery): Fetch act listing pages from India Code
- *   Phase 2 (Content): Fetch HTML for each act, parse, and write seed JSON
+ * Three-phase ingestion of Indian legislation from indiacode.nic.in:
+ *   Phase 1 (Discovery): Fetch act listing pages from India Code browse
+ *   Phase 2 (Act Pages): Fetch each act page, extract section references
+ *   Phase 3 (Content):   Fetch section content via AJAX endpoint
  *
  * Usage:
  *   npm run ingest                    # Full ingestion
@@ -17,8 +18,18 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchActListPage, fetchActHtml } from './lib/fetcher.js';
-import { parseActListPage, parseActHtml, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { fetchActListPage, fetchActHtml, fetchSectionContent } from './lib/fetcher.js';
+import {
+  parseActListPage,
+  extractSectionRefs,
+  extractActMetadata,
+  parseSectionContentJson,
+  buildProvision,
+  buildShortName,
+  type ActIndexEntry,
+  type ParsedAct,
+  type ParsedProvision,
+} from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -49,7 +60,7 @@ function parseArgs(): { limit: number | null; skipDiscovery: boolean } {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Phase 1: Discovery — Build act index from India Code listing pages
+// Phase 1: Discovery — Build act index from India Code browse pages
 // ─────────────────────────────────────────────────────────────────────────────
 
 async function discoverActs(): Promise<ActIndexEntry[]> {
@@ -60,7 +71,7 @@ async function discoverActs(): Promise<ActIndexEntry[]> {
   let hasMore = true;
 
   while (hasMore) {
-    process.stdout.write(`  Fetching listing page ${page}...`);
+    process.stdout.write(`  Fetching listing page ${page} (offset ${(page - 1) * 50})...`);
 
     const result = await fetchActListPage(page);
 
@@ -72,14 +83,20 @@ async function discoverActs(): Promise<ActIndexEntry[]> {
     const listResult = parseActListPage(result.body);
     allEntries.push(...listResult.entries);
 
-    console.log(` ${listResult.entries.length} entries`);
+    const totalStr = listResult.totalResults ? ` (total: ${listResult.totalResults})` : '';
+    console.log(` ${listResult.entries.length} entries${totalStr}`);
+
+    // Stop if no entries returned or no next page
+    if (listResult.entries.length === 0) {
+      break;
+    }
 
     hasMore = listResult.hasNextPage;
     page++;
 
-    // Safety limit to avoid infinite loops
-    if (page > 500) {
-      console.log('  WARNING: Hit page limit of 500, stopping discovery.');
+    // Safety limit
+    if (page > 100) {
+      console.log('  WARNING: Hit page limit of 100, stopping discovery.');
       break;
     }
   }
@@ -106,12 +123,12 @@ async function discoverActs(): Promise<ActIndexEntry[]> {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// Phase 2: Content — Fetch and parse each act
+// Phase 2+3: Fetch act pages, extract sections, fetch content
 // ─────────────────────────────────────────────────────────────────────────────
 
 async function fetchAndParseActs(acts: ActIndexEntry[], limit: number | null): Promise<void> {
   const toProcess = limit ? acts.slice(0, limit) : acts;
-  console.log(`Phase 2: Fetching content for ${toProcess.length} acts...\n`);
+  console.log(`Phase 2+3: Fetching content for ${toProcess.length} acts...\n`);
 
   fs.mkdirSync(SEED_DIR, { recursive: true });
 
@@ -119,64 +136,135 @@ async function fetchAndParseActs(acts: ActIndexEntry[], limit: number | null): P
   let skipped = 0;
   let failed = 0;
   let totalProvisions = 0;
+  let totalSectionsWithContent = 0;
 
   for (const act of toProcess) {
-    const seedFile = path.join(SEED_DIR, `${act.year}_${act.actNumber}.json`);
+    const seedFile = path.join(SEED_DIR, `${act.actNumber}_${act.year}.json`);
 
-    // Incremental: skip if seed already exists
+    // Incremental: skip if seed already exists and has provisions with content
     if (fs.existsSync(seedFile)) {
-      skipped++;
-      processed++;
-      if (processed % 100 === 0) {
-        console.log(`  Progress: ${processed}/${toProcess.length} (${skipped} skipped, ${failed} failed)`);
+      try {
+        const existing: ParsedAct = JSON.parse(fs.readFileSync(seedFile, 'utf-8'));
+        if (existing.provisions.length > 0 && existing.provisions.some(p => p.content.length > 0)) {
+          skipped++;
+          processed++;
+          totalProvisions += existing.provisions.length;
+          if (processed % 10 === 0) {
+            console.log(`  Progress: ${processed}/${toProcess.length} (${skipped} cached, ${failed} failed, ${totalProvisions} provisions)`);
+          }
+          continue;
+        }
+      } catch {
+        // Corrupt seed file, re-fetch
       }
-      continue;
     }
 
     try {
-      const result = await fetchActHtml(act.url);
+      // Phase 2: Fetch act page
+      const actResult = await fetchActHtml(act.url);
 
-      if (result.status !== 200) {
-        if (result.status === 404 || result.status === 301 || result.status === 302) {
-          // Write a minimal seed so we don't retry
-          const minimalSeed: ParsedAct = {
-            id: `act-${act.actNumber}-${act.year}`,
-            type: 'statute',
-            title: act.title,
-            short_name: '',
-            status: 'in_force',
-            issued_date: `${act.year}-01-01`,
-            url: act.url,
-            provisions: [],
-          };
-          fs.writeFileSync(seedFile, JSON.stringify(minimalSeed, null, 2));
-          failed++;
-        } else {
-          console.log(`  ERROR: HTTP ${result.status} for ${act.year}/${act.actNumber}`);
-          failed++;
-        }
-      } else {
-        const parsed = parseActHtml(result.body, act.year, act.actNumber, act.title, act.url);
-        fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
-        totalProvisions += parsed.provisions.length;
+      if (actResult.status !== 200) {
+        // Write a minimal seed so we don't retry
+        const minimalSeed: ParsedAct = {
+          id: `act-${act.actNumber}-${act.year}`,
+          type: 'statute',
+          title: act.title,
+          short_name: buildShortName(act.title, act.year),
+          status: 'in_force',
+          issued_date: `${act.year}-01-01`,
+          url: act.url,
+          provisions: [],
+        };
+        fs.writeFileSync(seedFile, JSON.stringify(minimalSeed, null, 2));
+        console.log(`  WARN: HTTP ${actResult.status} for ${act.title} (${act.year})`);
+        failed++;
+        processed++;
+        continue;
       }
+
+      // Extract metadata and section references
+      const metadata = extractActMetadata(actResult.body);
+      const { sections } = extractSectionRefs(actResult.body);
+
+      if (sections.length === 0) {
+        // Some acts may have no sections (very old acts, or different format)
+        const minimalSeed: ParsedAct = {
+          id: `act-${act.actNumber}-${act.year}`,
+          type: 'statute',
+          title: metadata.shortTitle || act.title,
+          short_name: buildShortName(metadata.shortTitle || act.title, act.year),
+          status: 'in_force',
+          issued_date: metadata.enactmentDate || `${act.year}-01-01`,
+          url: act.url,
+          provisions: [],
+        };
+        fs.writeFileSync(seedFile, JSON.stringify(minimalSeed, null, 2));
+        processed++;
+        continue;
+      }
+
+      // Phase 3: Fetch content for each section
+      const provisions: ParsedProvision[] = [];
+      let sectionsFetched = 0;
+
+      for (const section of sections) {
+        try {
+          const contentResult = await fetchSectionContent(section.actId, section.sectionId);
+
+          if (contentResult.status === 200 && contentResult.body.length > 0) {
+            const { content, footnote } = parseSectionContentJson(contentResult.body);
+            const fullContent = footnote ? `${content}\n\n[Footnote] ${footnote}` : content;
+
+            provisions.push(buildProvision(section.sectionNo, section.title, fullContent));
+            if (fullContent.length > 0) {
+              totalSectionsWithContent++;
+            }
+          } else {
+            // Still record the section even without content
+            provisions.push(buildProvision(section.sectionNo, section.title, ''));
+          }
+          sectionsFetched++;
+        } catch (error) {
+          // Record section without content on error
+          provisions.push(buildProvision(section.sectionNo, section.title, ''));
+        }
+      }
+
+      const parsedAct: ParsedAct = {
+        id: `act-${act.actNumber}-${act.year}`,
+        type: 'statute',
+        title: metadata.shortTitle || act.title,
+        short_name: buildShortName(metadata.shortTitle || act.title, act.year),
+        status: 'in_force',
+        issued_date: metadata.enactmentDate || `${act.year}-01-01`,
+        url: act.url,
+        provisions,
+        language: 'en',
+      };
+
+      fs.writeFileSync(seedFile, JSON.stringify(parsedAct, null, 2));
+      totalProvisions += provisions.length;
+
+      process.stdout.write(`  ${act.title} — ${provisions.length} sections (${sectionsFetched} fetched)\n`);
+
     } catch (error) {
       const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR parsing ${act.year}/${act.actNumber}: ${msg}`);
+      console.log(`  ERROR: ${act.title} (${act.year}): ${msg}`);
       failed++;
     }
 
     processed++;
-    if (processed % 100 === 0) {
-      console.log(`  Progress: ${processed}/${toProcess.length} (${skipped} skipped, ${failed} failed, ${totalProvisions} provisions)`);
+    if (processed % 10 === 0 && !process.stdout.isTTY) {
+      console.log(`  Progress: ${processed}/${toProcess.length} (${skipped} cached, ${failed} failed, ${totalProvisions} provisions)`);
     }
   }
 
-  console.log(`\nPhase 2 complete:`);
+  console.log(`\nIngestion complete:`);
   console.log(`  Processed: ${processed}`);
   console.log(`  Skipped (already cached): ${skipped}`);
   console.log(`  Failed/No content: ${failed}`);
   console.log(`  Total provisions extracted: ${totalProvisions}`);
+  console.log(`  Sections with content: ${totalSectionsWithContent}`);
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -205,7 +293,7 @@ async function main(): Promise<void> {
 
   await fetchAndParseActs(acts, limit);
 
-  console.log('\nIngestion complete.');
+  console.log('\nDone.');
 }
 
 main().catch(error => {

@@ -1,8 +1,8 @@
 {
   "name": "@ansvar/india-law-mcp",
-  "mcpName": "io.github.Ansvar-Systems/india-law-mcp",
+  "mcpName": "eu.ansvar/india-law-mcp",
   "version": "1.0.0",
-  "description": "India Law MCP — Indian legislation via Model Context Protocol",
+  "description": "India Law MCP \u2014 Indian legislation via Model Context Protocol",
   "type": "module",
   "main": "dist/index.js",
   "bin": {

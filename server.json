@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.Ansvar-Systems/india-law-mcp",
-  "description": "Indian law database covering data protection (DPDPA), information technology, cybercrime, corporate law, consumer protection, and Aadhaar legislation with full-text search",
+  "name": "eu.ansvar/india-law-mcp",
+  "description": "Indian legislation via MCP \u2014 full-text search across statutes and provisions",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/india-law-mcp",
     "source": "github"

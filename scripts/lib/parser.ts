@@ -1,9 +1,12 @@
 /**
  * HTML parser for India Code legislation pages.
  *
- * India Code (indiacode.nic.in) uses dynamic HTML with section navigation.
- * This parser extracts act metadata and section text from the HTML pages
- * using cheerio for DOM manipulation.
+ * India Code (indiacode.nic.in) uses a DSpace-based system with:
+ *   - Browse pages: table rows with Enactment Date, Act Number, Short Title, View link
+ *   - Act pages: accordion-style sections with lazy-loaded content via AJAX
+ *   - Section content: fetched from /SectionPageContent endpoint (JSON)
+ *
+ * This parser extracts act metadata and section references from HTML pages.
  */
 
 import * as cheerio from 'cheerio';
@@ -28,44 +31,143 @@ export interface ActListResult {
 
 /**
  * Parse the India Code act listing page to extract act entries.
+ *
+ * The browse page uses a table with columns:
+ *   t1=Enactment Date, t2=Act Number, t3=Short Title, t4=View link
  */
 export function parseActListPage(html: string): ActListResult {
   const $ = cheerio.load(html);
   const entries: ActIndexEntry[] = [];
 
-  // India Code lists acts in a table/list format
-  $('table.table tbody tr, .artifact-title a, .ds-artifact-item').each((_i, el) => {
+  // Extract total results from "Showing items X to Y of Z"
+  let totalResults: number | undefined;
+  const showingText = $('.panel-heading1').text();
+  const totalMatch = showingText.match(/of\s+(\d+)/);
+  if (totalMatch) {
+    totalResults = parseInt(totalMatch[1], 10);
+  }
+
+  // Parse table rows — each <tr> has td[headers="t1..t4"]
+  $('table.table.table-bordered tr').each((_i, el) => {
     const $el = $(el);
-    const linkEl = $el.find('a').first().length ? $el.find('a').first() : $el;
-    const title = linkEl.text().trim();
-    const href = linkEl.attr('href') ?? '';
 
-    if (!title || !href) return;
+    // Skip header row
+    if ($el.find('th').length > 0) return;
 
-    // Extract year and act number from title pattern: "Act Name, Year (No. X of Year)"
-    const yearMatch = title.match(/,?\s*(\d{4})\s*$/);
-    const actNoMatch = title.match(/\(?(?:No\.?\s*)?(\d+)\s+of\s+(\d{4})\)?/i);
+    const dateCell = $el.find('td[headers="t1"]').text().trim();
+    const actNumCell = $el.find('td[headers="t2"]').text().trim();
+    const titleCell = $el.find('td[headers="t3"]').text().trim();
+    const viewLink = $el.find('td[headers="t4"] a').attr('href') ?? '';
 
-    const year = yearMatch ? parseInt(yearMatch[1], 10) : (actNoMatch ? parseInt(actNoMatch[2], 10) : 0);
-    const actNumber = actNoMatch ? parseInt(actNoMatch[1], 10) : 0;
+    if (!titleCell || !viewLink) return;
 
-    if (year === 0) return;
+    // Parse act number (may be zero-padded like "05")
+    const actNumber = parseInt(actNumCell, 10) || 0;
 
-    const fullUrl = href.startsWith('http') ? href : `https://www.indiacode.nic.in${href}`;
+    // Extract year from title (e.g., "The Fatal Accidents Act, 1855")
+    const yearMatch = titleCell.match(/(\d{4})/);
+    const year = yearMatch ? parseInt(yearMatch[1], 10) : 0;
+
+    // Parse enactment date for more precise year if available
+    const dateYearMatch = dateCell.match(/(\d{4})$/);
+    const dateYear = dateYearMatch ? parseInt(dateYearMatch[1], 10) : 0;
+
+    const effectiveYear = year || dateYear;
+    if (effectiveYear === 0) return;
+
+    const fullUrl = viewLink.startsWith('http')
+      ? viewLink
+      : `https://www.indiacode.nic.in${viewLink}`;
 
     entries.push({
-      title: title.replace(/\s+/g, ' ').trim(),
-      year,
+      title: titleCell.replace(/\s+/g, ' ').trim(),
+      year: effectiveYear,
       actNumber,
       url: fullUrl,
       updated: new Date().toISOString().slice(0, 10),
     });
   });
 
-  // Check for next page link
-  const hasNextPage = $('a.next-page-link, .pagination .next a, a:contains("Next")').length > 0;
+  // Check for next page link (nextPage.gif image or offset link)
+  const hasNextPage = $('a[href*="offset"]').filter((_i, el) => {
+    const href = $(el).attr('href') ?? '';
+    return href.includes('offset=') && $(el).find('img[src*="nextPage"]').length > 0;
+  }).length > 0;
 
-  return { entries, hasNextPage };
+  return { entries, hasNextPage, totalResults };
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Section Reference Types (extracted from act pages)
+// ─────────────────────────────────────────────────────────────────────────────
+
+export interface SectionRef {
+  actId: string;
+  sectionId: string;
+  sectionNo: string;
+  title: string;
+}
+
+/**
+ * Extract section references from an act page.
+ * Sections are rendered as accordion items with IDs in the format:
+ *   actId#sectionId#orgActId
+ */
+export function extractSectionRefs(html: string): { actId: string; sections: SectionRef[] } {
+  const $ = cheerio.load(html);
+  const sections: SectionRef[] = [];
+  let actId = '';
+
+  // Extract act ID from the preamble title anchor
+  const preambleAnchor = $('a.preambletitle');
+  if (preambleAnchor.length) {
+    actId = preambleAnchor.attr('id') ?? '';
+  }
+
+  // If no preamble anchor, try extracting from first section link
+  if (!actId) {
+    const firstSectionLink = $('div.hideshowsection a.title').first();
+    const firstId = firstSectionLink.attr('id') ?? '';
+    const parts = firstId.split('#');
+    if (parts.length >= 1) {
+      actId = parts[0];
+    }
+  }
+
+  // Extract section references from accordion links
+  $('div.hideshowsection a.title').each((_i, el) => {
+    const $el = $(el);
+    const id = $el.attr('id') ?? '';
+    const href = $el.attr('href') ?? '';
+
+    // ID format: actId#sectionId#orgActId
+    const idParts = id.split('#');
+    if (idParts.length < 2) return;
+
+    const sectionId = idParts[1];
+
+    // Extract section number from the span.label-info text
+    const labelText = $el.find('span.label-info').text().trim();
+    const sectionNoMatch = labelText.match(/Section\s+([\w.]+)/i);
+    const sectionNo = sectionNoMatch ? sectionNoMatch[1].replace(/\.$/, '') : '';
+
+    // Extract title (text after the span, before end of anchor)
+    const fullText = $el.text().trim();
+    // Remove the "Section X." prefix to get the title
+    const titleMatch = fullText.match(/Section\s+[\w.]+\.?\s*(.*)/i);
+    const title = titleMatch ? titleMatch[1].trim() : fullText;
+
+    if (!sectionId || !sectionNo) return;
+
+    sections.push({
+      actId: idParts[0] || actId,
+      sectionId,
+      sectionNo,
+      title,
+    });
+  });
+
+  return { actId, sections };
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -92,9 +194,53 @@ export interface ParsedAct {
 }
 
 /**
+ * Extract metadata from an act page.
+ */
+export function extractActMetadata(html: string): {
+  actId: string;
+  shortTitle: string;
+  longTitle: string;
+  enactmentDate: string;
+  year: number;
+  actNumber: number;
+  ministry: string;
+} {
+  const $ = cheerio.load(html);
+
+  const getMetaField = (label: string): string => {
+    let value = '';
+    $('table.itemDisplayTable tr').each((_i, el) => {
+      const labelCell = $(el).find('td.metadataFieldLabel').text().trim();
+      if (labelCell.replace(/[:\s]/g, '').toLowerCase().includes(label.toLowerCase())) {
+        value = $(el).find('td.metadataFieldValue').text().trim();
+      }
+    });
+    return value;
+  };
+
+  const actIdStr = getMetaField('ActID');
+  const actNumberStr = getMetaField('ActNumber');
+  const enactmentDate = getMetaField('EnactmentDate');
+  const shortTitle = getMetaField('ShortTitle');
+  const longTitle = getMetaField('LongTitle');
+  const yearStr = getMetaField('ActYear');
+  const ministry = getMetaField('Ministry');
+
+  return {
+    actId: actIdStr,
+    shortTitle,
+    longTitle,
+    enactmentDate,
+    year: parseInt(yearStr, 10) || 0,
+    actNumber: parseInt(actNumberStr, 10) || 0,
+    ministry,
+  };
+}
+
+/**
  * Strip HTML tags and normalize whitespace.
  */
-function cleanText(html: string): string {
+export function cleanText(html: string): string {
   return html
     .replace(/<br\s*\/?>/gi, '\n')
     .replace(/<\/p>/gi, '\n')
@@ -110,6 +256,21 @@ function cleanText(html: string): string {
 }
 
 /**
+ * Parse section content JSON from /SectionPageContent endpoint.
+ */
+export function parseSectionContentJson(json: string): { content: string; footnote: string } {
+  try {
+    const data = JSON.parse(json);
+    return {
+      content: cleanText(data.content ?? ''),
+      footnote: cleanText(data.footnote ?? ''),
+    };
+  } catch {
+    return { content: '', footnote: '' };
+  }
+}
+
+/**
  * Build a section provision_ref like "s4", "s43A", "s66(1)"
  */
 function buildProvisionRef(sectionNum: string): string {
@@ -120,7 +281,7 @@ function buildProvisionRef(sectionNum: string): string {
 /**
  * Build a short name abbreviation from title, e.g. "DPDPA 2023"
  */
-function buildShortName(title: string, year: number): string {
+export function buildShortName(title: string, year: number): string {
   const words = title.replace(/[(),]/g, '').split(/\s+/);
   if (words.length <= 3) return `${title} ${year}`;
 
@@ -139,7 +300,30 @@ function buildShortName(title: string, year: number): string {
 }
 
 /**
+ * Build a ParsedProvision from section ref + content.
+ */
+export function buildProvision(
+  sectionNo: string,
+  title: string,
+  content: string,
+): ParsedProvision {
+  return {
+    provision_ref: buildProvisionRef(sectionNo),
+    section: sectionNo,
+    title,
+    content,
+  };
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Legacy compatibility — parseActHtml
+// (For cases where content is inline rather than AJAX-loaded)
+// ─────────────────────────────────────────────────────────────────────────────
+
+/**
  * Parse an India Code act page HTML to extract provisions.
+ * Note: On the live site, section content is loaded via AJAX.
+ * This function extracts section titles and any inline content.
  */
 export function parseActHtml(
   html: string,
@@ -148,56 +332,13 @@ export function parseActHtml(
   actTitle: string,
   actUrl: string,
 ): ParsedAct {
-  const $ = cheerio.load(html);
-  const provisions: ParsedProvision[] = [];
-
-  // India Code renders sections in various HTML structures
-  // Try multiple selectors for section content
-  const sectionSelectors = [
-    '.akn-section',
-    '.section-content',
-    'div[id^="section"]',
-    '.act-section',
-    'table.section-table tr',
-  ];
-
-  for (const selector of sectionSelectors) {
-    $(selector).each((_i, el) => {
-      const $el = $(el);
-
-      // Extract section number
-      const numEl = $el.find('.akn-num, .section-num, .section-number, td:first-child').first();
-      const sectionNum = cleanText(numEl.html() ?? '').replace(/[\[\]]/g, '');
-
-      if (!sectionNum || !/\d/.test(sectionNum)) return;
-
-      // Extract heading/title
-      const headingEl = $el.find('.akn-heading, .section-heading, .section-title, h4, h5').first();
-      const heading = cleanText(headingEl.html() ?? '');
-
-      // Extract content
-      const contentEl = $el.find('.akn-content, .section-text, .section-body, td:last-child').first();
-      let content = cleanText(contentEl.html() ?? '');
-
-      // If no specific content element, use the whole section text
-      if (!content) {
-        content = cleanText($el.html() ?? '');
-      }
-
-      if (content.length < 10) return;
-
-      const provRef = buildProvisionRef(sectionNum);
-
-      provisions.push({
-        provision_ref: provRef,
-        section: sectionNum.replace(/\.\s*$/, '').trim(),
-        title: heading,
-        content,
-      });
-    });
-
-    if (provisions.length > 0) break;
-  }
+  const { sections } = extractSectionRefs(html);
+  const provisions: ParsedProvision[] = sections.map(s => ({
+    provision_ref: buildProvisionRef(s.sectionNo),
+    section: s.sectionNo,
+    title: s.title,
+    content: '', // Content must be fetched separately via fetchSectionContent
+  }));
 
   return {
     id: `act-${actNumber}-${year}`,

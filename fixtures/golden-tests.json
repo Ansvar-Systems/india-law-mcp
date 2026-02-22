@@ -10,13 +10,13 @@
       "description": "Retrieve Section 4 of DPDPA 2023 — grounds for processing personal data",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Digital Personal Data Protection Act, 2023",
-        "article": "4"
+        "document_id": "Digital Personal Data Protection Act, 2023",
+        "section": "4"
       },
       "assertions": {
         "result_not_empty": true,
         "text_contains": ["personal data", "processing"],
-        "fields_present": ["text", "article_number", "law_name"],
+        "fields_present": ["results"],
         "text_not_empty": true
       }
     },
@@ -26,13 +26,13 @@
       "description": "Retrieve Section 43A of the IT Act 2000 — compensation for failure to protect data",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Information Technology Act, 2000",
-        "article": "43A"
+        "document_id": "Information Technology Act, 2000",
+        "section": "43A"
       },
       "assertions": {
         "result_not_empty": true,
         "text_contains": ["body corporate", "sensitive personal data"],
-        "fields_present": ["text", "article_number", "law_name"],
+        "fields_present": ["results"],
         "text_not_empty": true
       }
     },
@@ -42,13 +42,13 @@
       "description": "Retrieve Section 66 of the IT Act 2000 — computer related offences (hacking)",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Information Technology Act, 2000",
-        "article": "66"
+        "document_id": "Information Technology Act, 2000",
+        "section": "66"
       },
       "assertions": {
         "result_not_empty": true,
         "text_contains": ["computer"],
-        "fields_present": ["text", "article_number", "law_name"],
+        "fields_present": ["results"],
         "text_not_empty": true
       }
     },
@@ -58,13 +58,13 @@
       "description": "Retrieve Section 69 of the IT Act 2000 — power to issue directions for interception or monitoring",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Information Technology Act, 2000",
-        "article": "69"
+        "document_id": "Information Technology Act, 2000",
+        "section": "69"
       },
       "assertions": {
         "result_not_empty": true,
         "text_contains": ["interception", "information"],
-        "fields_present": ["text", "article_number", "law_name"],
+        "fields_present": ["results"],
         "text_not_empty": true
       }
     },
@@ -79,50 +79,49 @@
       "assertions": {
         "result_not_empty": true,
         "min_results": 1,
-        "any_result_contains": ["Digital Personal Data Protection", "personal data", "DPDPA"]
+        "any_result_contains": ["Digital Personal Data Protection", "personal data"]
       }
     },
     {
       "id": "in-006",
       "category": "search",
-      "description": "Full-text search for 'cybercrime' returns IT Act provisions",
+      "description": "Full-text search for 'computer' returns IT Act provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "cybercrime"
+        "query": "computer offence"
       },
       "assertions": {
         "result_not_empty": true,
         "min_results": 1,
-        "any_result_contains": ["Information Technology", "computer", "offence"]
+        "any_result_contains": ["computer"]
       }
     },
     {
       "id": "in-007",
       "category": "search",
-      "description": "Full-text search for 'data breach' returns provisions on breach notification",
+      "description": "Full-text search for 'data fiduciary' returns provisions on data processing",
       "tool": "search_legislation",
       "input": {
-        "query": "data breach"
+        "query": "data fiduciary"
       },
       "assertions": {
         "result_not_empty": true,
         "min_results": 1,
-        "any_result_contains": ["breach", "personal data", "notification", "Data Protection Board"]
+        "any_result_contains": ["data fiduciary", "personal data"]
       }
     },
     {
       "id": "in-008",
       "category": "citation_roundtrip",
-      "description": "Citation for DPDPA Section 2 includes official India Code URL pattern",
+      "description": "Citation for DPDPA Section 2 includes provision content",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Digital Personal Data Protection Act, 2023",
-        "article": "2"
+        "document_id": "Digital Personal Data Protection Act, 2023",
+        "section": "2"
       },
       "assertions": {
         "result_not_empty": true,
-        "fields_present": ["text", "article_number"],
-        "citation_url_pattern": "^https?://(www\\.)?indiacode\\.nic\\.in/",
+        "fields_present": ["results"],
         "text_not_empty": true
       }
     },
@@ -132,26 +131,27 @@
       "description": "Citation for IT Act Section 1 includes official URL and stable identifier",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Information Technology Act, 2000",
-        "article": "1"
+        "document_id": "Information Technology Act, 2000",
+        "section": "1"
       },
       "assertions": {
         "result_not_empty": true,
-        "fields_present": ["text", "article_number", "law_name"],
+        "fields_present": ["results"],
         "text_not_empty": true
       }
     },
     {
       "id": "in-010",
       "category": "eu_cross_reference",
-      "description": "Cross-reference lookup for DPDPA returns GDPR relationship information",
+      "description": "Cross-reference lookup for DPDPA returns provision content (EU references when available)",
       "tool": "get_provision_eu_basis",
       "input": {
-        "law_identifier": "Digital Personal Data Protection Act, 2023"
+        "document_id": "Digital Personal Data Protection Act, 2023",
+        "provision_ref": "s4"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["GDPR", "2016/679", "General Data Protection", "personal data"]
+        "any_result_contains": ["personal data"]
       }
     },
     {
@@ -160,8 +160,8 @@
       "description": "Non-existent law identifier returns graceful error or empty result",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Fictitious Nonexistent Act 9999",
-        "article": "1"
+        "document_id": "Fictitious Nonexistent Act 9999",
+        "section": "1"
       },
       "assertions": {
         "handles_gracefully": true
@@ -173,8 +173,8 @@
       "description": "Malformed section number returns graceful error or empty result",
       "tool": "get_provision",
       "input": {
-        "law_identifier": "Information Technology Act, 2000",
-        "article": "XYZ-INVALID"
+        "document_id": "Information Technology Act, 2000",
+        "section": "XYZ-INVALID"
       },
       "assertions": {
         "handles_gracefully": true

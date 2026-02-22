@@ -1,0 +1,24 @@
+{
+  "id": "act-25-1850",
+  "type": "statute",
+  "title": "The Forfeited Deposits Act, 1850",
+  "short_name": "FD1 1850",
+  "status": "in_force",
+  "issued_date": "1850-06-14",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19030?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Repeals.",
+      "content": "Rep. by the Repealing Act, 1870 (14 of 1870), s. 1 and Sch. Pt. II."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application of forfeited deposits.",
+      "content": "Any such forfeited deposit shall be applied to defray the expenses of the sale, and the surplus shall be forfeited to Government."
+    }
+  ],
+  "language": "en"
+}

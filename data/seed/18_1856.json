@@ -1,0 +1,30 @@
+{
+  "id": "act-18-1856",
+  "type": "statute",
+  "title": "The Calcutta Land-Revenue Act, 1856",
+  "short_name": "CL1 1856",
+  "status": "in_force",
+  "issued_date": "1856-08-23",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19028?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Regulations modified.",
+      "content": "Such part of Section VI, Regulation XII, 1826 of the Bengal Code, and such part of Section VI of a Rule Ordinance and Regulation for the Town of Calcutta, made and passed on the 14th day of June 1827, as prescribe that an Officer being a Civil Servant of the Honorable Company shall be specially appointed by the Governor General in Council to take charge of the collection of the Stamp Duty within the City of Calcutta, are declared subject to the following modification."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Collection of Stamp Duty in Calcutta to be ordinarily in charge of the Collector.",
+      "content": "The collection of the Stamp Duty within the Town of Calcutta shall ordinarily, and unless the Lieutenant Governor of Bengal shall otherwise direct, be in the charge of the Collector of Calcutta."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Collector may entrust any part of his duties to his Deputy.",
+      "content": "It shall be lawful for the Collector of Calcutta to employ any Deputy Collector subordinate to him, in the performance of any part of the duties of his office under the said Regulation, or under Act XI of 1849, or Act XXIII of 1850; and all Rules, Regulations, and Acts relating to the office of Deputy Collector, shall be of the same force within the Town of Calcutta as in other parts of the territories subject to the Presidency of Fort William in Bengal."
+    }
+  ],
+  "language": "en"
+}

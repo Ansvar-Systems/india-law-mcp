@@ -38,7 +38,7 @@ export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<F
     const response = await fetch(url, {
       headers: {
         'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/xhtml+xml, */*',
+        'Accept': 'text/html, application/xhtml+xml, application/json, */*',
       },
     });
 
@@ -63,10 +63,13 @@ export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<F
 }
 
 /**
- * Fetch the act listing page from India Code
+ * Fetch the act listing page from India Code (DSpace browse by short title).
+ * Uses offset-based pagination, 50 items per page.
+ * Page 1 => offset=0, page 2 => offset=50, etc.
  */
 export async function fetchActListPage(page: number): Promise<FetchResult> {
-  const url = `https://www.indiacode.nic.in/handle/123456789/1362/browse?type=actno&sort_by=2&order=ASC&rpp=50&page=${page}`;
+  const offset = (page - 1) * 50;
+  const url = `https://www.indiacode.nic.in/handle/123456789/1362/browse?type=shorttitle&sort_by=1&order=ASC&rpp=50&etal=-1&offset=${offset}`;
   return fetchWithRateLimit(url);
 }
 
@@ -78,7 +81,16 @@ export async function fetchActHtml(actUrl: string): Promise<FetchResult> {
 }
 
 /**
- * Fetch a specific section/provision from India Code
+ * Fetch section content from the India Code AJAX endpoint.
+ * Returns JSON with { content, footnote } fields.
+ */
+export async function fetchSectionContent(actId: string, sectionId: string): Promise<FetchResult> {
+  const url = `https://www.indiacode.nic.in/SectionPageContent?actid=${encodeURIComponent(actId)}&sectionID=${encodeURIComponent(sectionId)}`;
+  return fetchWithRateLimit(url);
+}
+
+/**
+ * Fetch a specific section/provision from India Code (legacy)
  */
 export async function fetchSectionHtml(sectionUrl: string): Promise<FetchResult> {
   return fetchWithRateLimit(sectionUrl);
