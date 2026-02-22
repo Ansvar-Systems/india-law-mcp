@@ -1,8 +1,8 @@
 {
   "name": "@ansvar/india-law-mcp",
   "mcpName": "eu.ansvar/india-law-mcp",
-  "version": "1.1.0",
-  "description": "India Law MCP \u2014 Indian legislation via Model Context Protocol",
+  "version": "1.1.1",
+  "description": "India Law MCP — Indian legislation via Model Context Protocol",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -26,7 +26,8 @@
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm test && npm run test:contract",
     "prepublishOnly": "npm run build",
-    "postinstall": "test -d dist || npm run build || true"
+    "postinstall": "test -d dist || npm run build || true",
+    "lint": "tsc --noEmit"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.3",
