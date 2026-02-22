@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "jurisdiction": "IN",
+  "portal": "indiacode.nic.in",
+  "generated": "2026-02-22",
+  "total_laws": 56,
+  "total_provisions": 1296,
+  "laws": [
+    {
+      "id": "act-1-1869",
+      "title": "The Oudh Estates Act, 1869",
+      "provisions": 33
+    },
+    {
+      "id": "act-1-1871",
+      "title": "The Cattle-Trespass Act, 1871",
+      "provisions": 31
+    },
+    {
+      "id": "act-10-1836",
+      "title": "The Bengal Indigo Contracts Act, 1836",
+      "provisions": 0
+    },
+    {
+      "id": "act-10-1849",
+      "title": "The Madras Board of Revenue,1849",
+      "provisions": 0
+    },
+    {
+      "id": "act-11-1851",
+      "title": "The Bombay Rent-free Estates Act, 1851",
+      "provisions": 0
+    },
+    {
+      "id": "act-11-1853",
+      "title": "The Shore Nuisances (Bombay and Kotaba) Act, 1853",
+      "provisions": 0
+    },
+    {
+      "id": "act-11-1859",
+      "title": "The Bengal Land Revenue Sales Act, 1859",
+      "provisions": 62
+    },
+    {
+      "id": "act-12-1851",
+      "title": "The Madras City Land Revenue Act, 1851",
+      "provisions": 0
+    },
+    {
+      "id": "act-12-1855",
+      "title": "The Legal Representatives Suits Act, 1855",
+      "provisions": 2
+    },
+    {
+      "id": "act-13-1842",
+      "title": "The Revenue, Bombay, 1842",
+      "provisions": 0
+    },
+    {
+      "id": "act-13-1855",
+      "title": "The Fatal Accidents Act, 1855",
+      "provisions": 5
+    },
+    {
+      "id": "act-14-1852",
+      "title": "The Extending certain Acts to Straits Settlement , 1852",
+      "provisions": 0
+    },
+    {
+      "id": "act-14-1869",
+      "title": "The Bombay Civil Courts Act, 1869",
+      "provisions": 42
+    },
+    {
+      "id": "act-15-1864",
+      "title": "The Indian Tolls Act, 1864",
+      "provisions": 4
+    },
+    {
+      "id": "act-15-1872",
+      "title": "The Indian Christian Marriage Act, 1872",
+      "provisions": 88
+    },
+    {
+      "id": "act-16-1854",
+      "title": "The Police, Agra Act, 1854",
+      "provisions": 3
+    },
+    {
+      "id": "act-16-1861",
+      "title": "The Stage-Carriages Act, 1861",
+      "provisions": 24
+    },
+    {
+      "id": "act-17-1842",
+      "title": "The Revenue Commissioners, Bombay Act, 1842",
+      "provisions": 0
+    },
+    {
+      "id": "act-18-1856",
+      "title": "The Calcutta Land-Revenue Act, 1856",
+      "provisions": 3
+    },
+    {
+      "id": "act-18-2013",
+      "title": "The Companies Act, 2013",
+      "provisions": 4
+    },
+    {
+      "id": "act-18-2016",
+      "title": "The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016",
+      "provisions": 5
+    },
+    {
+      "id": "act-19-1838",
+      "title": "The Coasting vessels Act, 1838",
+      "provisions": 15
+    },
+    {
+      "id": "act-19-1863",
+      "title": "The Partition of Revenue-Paying Estates Act, 1863",
+      "provisions": 59
+    },
+    {
+      "id": "act-20-1848",
+      "title": "The Bengal Land Holder's Attendance Act, 1848",
+      "provisions": 0
+    },
+    {
+      "id": "act-20-1863",
+      "title": "The Religious endowments act, 1863",
+      "provisions": 24
+    },
+    {
+      "id": "act-21-1860",
+      "title": "The Societies Registration Act, 1860",
+      "provisions": 20
+    },
+    {
+      "id": "act-21-1871",
+      "title": "The Dehra Dun Act, 1871",
+      "provisions": 4
+    },
+    {
+      "id": "act-21-2000",
+      "title": "The Information Technology Act, 2000",
+      "provisions": 5
+    },
+    {
+      "id": "act-22-1867",
+      "title": "The Sarais' Act, 1867",
+      "provisions": 18
+    },
+    {
+      "id": "act-22-2023",
+      "title": "The Digital Personal Data Protection Act, 2023",
+      "provisions": 20
+    },
+    {
+      "id": "act-23-1863",
+      "title": "The WASTE-LANDS (CLAIMS) ACT, 1863",
+      "provisions": 25
+    },
+    {
+      "id": "act-23-1871",
+      "title": "The Pensions Act, 1871",
+      "provisions": 16
+    },
+    {
+      "id": "act-24-1859",
+      "title": "The Madras District Police Act, 1859",
+      "provisions": 55
+    },
+    {
+      "id": "act-24-1870",
+      "title": "The Oudh Taluqdar's Relief Act, 1870",
+      "provisions": 25
+    },
+    {
+      "id": "act-25-1850",
+      "title": "The Forfeited Deposits Act, 1850",
+      "provisions": 2
+    },
+    {
+      "id": "act-26-1850",
+      "title": "The Improvements in Towns Act, 1850",
+      "provisions": 0
+    },
+    {
+      "id": "act-3-1846",
+      "title": "The Boundary-Marks, Bombay 1846",
+      "provisions": 0
+    },
+    {
+      "id": "act-3-1867",
+      "title": "The Public Gambling Act, 1867",
+      "provisions": 18
+    },
+    {
+      "id": "act-3-1873",
+      "title": "The Madras Civil Courts Act, 1873",
+      "provisions": 31
+    },
+    {
+      "id": "act-32-1855",
+      "title": "The Bengal Embankment Act, 1855",
+      "provisions": 0
+    },
+    {
+      "id": "act-35-2019",
+      "title": "The Consumer Protection Act, 2019",
+      "provisions": 4
+    },
+    {
+      "id": "act-4-1857",
+      "title": "The Tobacco Duty (Town of Bombay) Act, 1857",
+      "provisions": 21
+    },
+    {
+      "id": "act-4-1869",
+      "title": "The Divorce Act, 1869",
+      "provisions": 64
+    },
+    {
+      "id": "act-4-1872",
+      "title": "The Punjab Laws Act, 1872",
+      "provisions": 52
+    },
+    {
+      "id": "act-45-2023",
+      "title": "Bharatiya Nyaya Sanhita, 2023",
+      "provisions": 4
+    },
+    {
+      "id": "act-5-1838",
+      "title": "The Bengal Bonded Warehouse Association Act, 1838",
+      "provisions": 39
+    },
+    {
+      "id": "act-5-1854",
+      "title": "The Bengal Bonded Warehouse Association Act, 1854",
+      "provisions": 0
+    },
+    {
+      "id": "act-5-1859",
+      "title": "The Bengal Ghatwali Land Act, 1859",
+      "provisions": 2
+    },
+    {
+      "id": "act-5-1861",
+      "title": "The Police Act, 1861",
+      "provisions": 46
+    },
+    {
+      "id": "act-5-1873",
+      "title": "The Government Savings Promotion Act, 1873",
+      "provisions": 19
+    },
+    {
+      "id": "act-6-1853",
+      "title": "The Rent Recovery Act, 1853",
+      "provisions": 0
+    },
+    {
+      "id": "act-7-1839",
+      "title": "The Madras Rent and Revenue Sales Act, 1839",
+      "provisions": 6
+    },
+    {
+      "id": "act-7-1870",
+      "title": "The Court-Fees Act, 1870",
+      "provisions": 44
+    },
+    {
+      "id": "act-8-1851",
+      "title": "The Indian Tolls Act, 1851",
+      "provisions": 9
+    },
+    {
+      "id": "act-8-1873",
+      "title": "The Northern India Canal and Drainage Act, 1873",
+      "provisions": 75
+    },
+    {
+      "id": "act-9-1872",
+      "title": "The Indian Contract Act, 1872",
+      "provisions": 268
+    }
+  ]
+}
