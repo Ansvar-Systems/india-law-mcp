@@ -1,0 +1,258 @@
+{
+  "id": "act-14-1877",
+  "type": "statute",
+  "title": "The Broach and Kaira Incumbered Estates Act, 1877",
+  "short_name": "BKIE1 1877",
+  "status": "in_force",
+  "issued_date": "1877-06-28",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19231?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Act No. XV of 1871 repealed.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Interpretation-clause.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for benefit of Act.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Order to enquire.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Verified statement to be submitted.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Report of enquiry and proceedings thereon.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "“Order of management” to what it extends.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Effect of order of management.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Manager to have powers of owner and to receive rents and profits: to have powers of Collector for their recovery.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Manager to pay therefrom-- costs of management and repairs,  Government revenue, &c.,  rent due to superior holder,  allowance for maintenance and expenses of debtor and family,  cost of improvements, &c.  Residue how disposed of.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Notice to claimants against debtor.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Claim to contain full particulars.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Claim not duly notified to be barred.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Determination of debts and liabilities.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Power to rank debts and to fix interest.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Scheme for liquidation.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Proceedings of Commissioner on submission of scheme.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Power to relinquish management.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Effects of sanctioning scheme.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Power to remove mortgagee in possession.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Power to inquire into consideration given for leases.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Power to lease.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Power to raise money by mortgage or sale.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Manager’s receipt a discharge.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Termination of management.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Death of debtor during management.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Mortgages, &c., made by restored Thakur valid only for his life.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Appeal.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Power to call for proceedings and pass order thereon.",
+      "content": ""
+    },
+    {
+      "provision_ref": "sVII",
+      "section": "VII",
+      "title": "MISCELLANEOUS.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Power to make rules.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Power to appoint new manager.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Managers and their agents to be public servants.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Investigation, a judicial proceeding.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Power to summon witnesses and compel production of documents.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Bar of suits.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Saving of jurisdiction of Courts in Broach and Kaira in respect of certain suits.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Exemption of certain Thakurs from certain provisions of Act.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Amendment of Bombay Act VI of 1862.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Acts of Taluqdari Settlement officer valid.",
+      "content": ""
+    }
+  ],
+  "language": "en"
+}

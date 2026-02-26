@@ -1,0 +1,30 @@
+{
+  "id": "act-50-1973",
+  "type": "statute",
+  "title": "The Authoritative Texts (Central Laws) Act, 1973",
+  "short_name": "ATCL1 1973",
+  "status": "in_force",
+  "issued_date": "1973-12-05",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1388?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement.",
+      "content": "(1) This Act may be called the 1 [Authoritative Texts] (Central Laws) Act, 1973. (2) It shall come into force on such date2 as the Central Government may, by notification in the Official Gazette, appoint.\n\n[Footnote] 1. Subs. by s. 3, ibid., for \"Authorised Translations\" (w.e.f. 31-3-1988). 2. 1st July, 1981, vide notification No. S.O. 482(E), dated 15th June, 1981, see Gazette of India, Extraordinary, Part II, sec. 3(ii)."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Authoritative texts of Central laws in certain languages.",
+      "content": "1[Authoritative texts] of Central laws in certain languages.--A translation in any language (other than Hindi) specified in the Eighth Schedule to the Constitution, published under the authority of the President in the Official Gazette,-- (a) of any Central Act or of any Ordinance promulgated by the President, or (b) of any order, rule, regulation or bye-law issued under the Constitution or under any Central Act, shall be deemed to be the 1[authoritative text] thereof in such language.\n\n[Footnote] 1. Subs. by Act 18 of 1988, s. 4, for \"authorised translation\" (w.e.f. 31-3-1988)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to make rules.",
+      "content": "(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act. (2) Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+    }
+  ],
+  "language": "en"
+}

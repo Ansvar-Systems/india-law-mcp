@@ -1,0 +1,30 @@
+{
+  "id": "act-72-1976",
+  "type": "statute",
+  "title": "The Life Insurance Corporation (Modification of Settlements) Act, 1976",
+  "short_name": "LICMS 1976",
+  "status": "in_force",
+  "issued_date": "1976-05-29",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1433?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Life Insurance Corporation (Modification of Settlements) Act, 1976."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"Corporation\" means the Life Insurance Corporation of India established under section 3 of the Life Insurance Corporation Act, 1956 (31 of 1956); (b) \"salary\" means basic pay and includes-- (i) special pay, if any; (ii) dearness allowance; and (iii) additional dearness allowance; (c) \"settlements\" means,-- (i) the settlement which was arrived at between the Corporation and their workmen on the 24th day of January, 1974, under section 18, read with clause (p) of section 2, of the Industrial Disputes Act, 1947 (14 of 1947); and (ii) the settlement which was arrived at between the Corporation and their workmen on the 6th day of February, 1974, under section 18, read with clause (p) of section 2, of the said Act and in respect of the terms of which there was no approval as provided for in sub-clause (2) of clause 12 thereof."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Modification of settlements.",
+      "content": "Notwithstanding anything contained in the Industrial Disputes Act, 1947 (14 of 1947),the provisions of each of the settlements, in so far as they relate to the payment of an annual cash bonus to every Class III and Class IV employee of the Corporation at the rate of fifteen per cent. of his annual salary, shall not have any force or effect and shall not be deemed to have had any force or effect on and from the 1st day of April, 1975."
+    }
+  ],
+  "language": "en"
+}

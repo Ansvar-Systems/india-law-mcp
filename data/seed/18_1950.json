@@ -1,0 +1,42 @@
+{
+  "id": "act-18-1950",
+  "type": "statute",
+  "title": "The Special Criminal Courts (Jurisdiction) Act, 1950",
+  "short_name": "SCCJ1 1950",
+  "status": "in_force",
+  "issued_date": "1950-03-10",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2041?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and extent.",
+      "content": "(1) This Act may be called the Special Criminal Courts (Jurisdiction) Act, 1950. (2) It extends to the whole of India except 1 [the territories which, immediately before the 1st November, 1956, were comprised in Part B States].\n\n[Footnote] 1. Subs. by the Adaptation of Laws (No. 3) Order, 1956, for \"Part B States\"."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition.",
+      "content": "In this Act, \"special Criminal Court\" means any special Court of criminal jurisdiction constituted by or under any law included in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Jurisdiction of special Criminal Courts to try offences with respect to matters in the Union List.",
+      "content": "Notwithstanding anything contained in law for the time being in force, it shall be lawful for any special Criminal Court to try offences against laws with respect to any of the matters enumerated in List I in the Seventh Schedule to the Constitution, if such court is otherwise competent to try such offence under the law constituting it."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to add to Schedule.",
+      "content": "The Central Government may, by notification in the Official Gazette, add to the Schedule any other State law providing for the trial of offences by special Criminal Courts, and any such addition shall take effect as if such law had been included in the Schedule by this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Repeal of Ordinance.",
+      "content": "(1) The Special Criminal Courts (Jurisdiction) Ordinance, 1950 (7 of 1950), is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken in the exercise of any power conferred by or under the said Ordinance shall be deemed to have been done or taken in the exercise of the powers conferred by or under this Act as if this Act were in force on the day on which such thing was done or action was taken."
+    }
+  ],
+  "language": "en"
+}

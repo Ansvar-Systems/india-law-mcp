@@ -1,0 +1,24 @@
+{
+  "id": "act-15-1919",
+  "type": "statute",
+  "title": "The Calcutta High Court (Jurisdictional Limits) Act, 1919",
+  "short_name": "CHCJL 1919",
+  "status": "in_force",
+  "issued_date": "1919-09-17",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2364?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Calcutta High Court (Jurisdictional Limits) Act, 1919."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Limits of ordinary original civil jurisdiction.",
+      "content": "The ordinary original civil jurisdiction of the High Court of Judicature at Fort William in Bengal shall be exercised within the limits set out in the Schedule; Provided that nothing in this Act shall affect any suit or other legal proceeding pending in any Court at the date of the commencement of this Act."
+    }
+  ],
+  "language": "en"
+}

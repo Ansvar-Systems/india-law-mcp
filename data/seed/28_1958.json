@@ -1,0 +1,42 @@
+{
+  "id": "act-28-1958",
+  "type": "statute",
+  "title": "The Armed Forces (Special Powers) Act, 1958",
+  "short_name": "AFSP1 1958",
+  "status": "in_force",
+  "issued_date": "1958-09-11",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1527?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"armed forces\" means the military forces and the air forces operating as land forces, and includes any other armed forces of the Union so operating; (b) \"disturbed area\" means an area which is for the time being declared by notification under section 3 to be a disturbed area; (c) all other words and expressions used herein, but not defined and defined in the Air Force Act, 1950 (45 of 1950), or the Army Act, 1950 (46 of 1950), shall have the meanings respectively assigned to them in those Acts."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Special powers of the armed forces.",
+      "content": "Any commissioned officer, warrant officer, non-commissioned officer or any other person of equivalent rank in the armed forces may, in a disturbed area,― (a) if he is of opinion that it is necessary so to do for the maintenance of public order, after giving such due warning as he may consider necessary, fire upon or otherwise use force, even to the causing of death, against any person who is acting in contravention of any law or order for the time being in force in the disturbed area prohibiting the assembly of five or more persons or the carrying of weapons or of things capable of being used as weapons or of fire-arms, ammunition or explosive substances; (b) if he is of opinion that it is necessary so to do, destroy any arms dump, prepared or fortified position or shelter from which armed attacks are made or are likely to be made or are attempted to be made, or any structure used as a training camp for armed volunteers or utilised as a hide-out by armed gangs or absconders wanted for any offence; (c) arrest, without warrant, any person who has committed a cognizable offence or against whom a reasonable suspicion exists that he has committed or is about to commit a cognizable offence and may use such force as may be necessary to effect the arrest; (d) enter and search without warrant any premises to make any such arrest as aforesaid or to recover any person believed to be wrongfully restrained or confined or any property reasonably suspected to be stolen property or any arms, ammunition or explosive substances believed to be unlawfully kept in such premises, and may for that purpose use such force as may be necessary."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Arrested persons to be made over to the police.",
+      "content": "Any person arrested and taken into custody under this Act shall be made over to the officer in charge of the nearest police station with the least possible delay, together with a report of the circumstances occasioning the arrest."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Protection to persons acting under Act.",
+      "content": "No prosecution, suit or other legal proceeding shall be instituted, except with the previous sanction of the Central Government, against any person in respect of anything done or purported to be done in exercise of the powers conferred by this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Repealed.",
+      "content": "[Repeal and Saving.] Rep. by the Repealing and Amending Act, 1960 (58 of 1960), s. 2 and the First Schedule (w.e.f. 26-12-1960)."
+    }
+  ],
+  "language": "en"
+}

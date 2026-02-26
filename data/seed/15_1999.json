@@ -1,0 +1,42 @@
+{
+  "id": "act-15-1999",
+  "type": "statute",
+  "title": "The Urban Land (Ceiling and Regulation) Repeal Act, 1999",
+  "short_name": "ULCRR 1999",
+  "status": "in_force",
+  "issued_date": "1999-03-18",
+  "url": "https://www.indiacode.nic.in/handle/123456789/18941?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement.",
+      "content": "(1) This Act may be called the Urban Land (Ceiling and Regulation) Repeal Act, 1999. (2) It applies in the first instance to the whole of the States of Haryana and Punjab and to all the Union territories; and it shall apply to such other State which adopts this Act by resolution passed in that behalf under clause (2) of article 252 of the Constitution. (3) It shall be deemed to have come into force in the States of Haryana and Punjab and in all the Union territories on the 11th day of January, 1999 and in any other State which adopts this Act under clause (2) of article 252 of the Constitution on the date of such adoption; and the reference to repeal of the Urban Land (Ceiling and Regulation) Act, 1976 shall, in relation to any State or Union territory, mean the date on which this Act comes into force in such State or Union territory."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Repeal of Act.",
+      "content": "The Urban Land (Ceiling and Regulation) Act, 1976 (hereinafter referred to as the principal Act) is hereby repealed."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Savings.",
+      "content": "(1) The repeal of the principal Act shall not affect-- (a) the vesting of any vacant land under sub-section (3) of section 10, possession of which has been taken over by the State Government or any person duly authorised by the State Government in this behalf or by the competent authority; (b) the validity of any order granting exemption under sub-section (1) of section 20 or any action taken thereunder, notwithstanding any judgment of any court to the contrary; (c) any payment made to the State Government as a condition for granting exemption under sub-section (1) of section 20. (2) Where-- (a) any land is deemed to have vested in the State Government under sub-section (3) of section 10 of the principal Act but possession of which has not been taken over by the State Government or any person duly authorised by the State Government in this behalf or by the competent authority; and (b) any amount has been paid by the State Government with respect to such land, then, such land shall not be restored unless the amount paid, if any, has been refunded to the State Government."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Abatement of legal proceedings.",
+      "content": "All proceedings relating to any order made or purported to be made under the principal Act pending immediately before the commencement of this Act, before any court, tribunal or other authority shall abate: Provided that this section shall not apply to the proceedings relating to section 11, 12, 13 ad 14 of the principal Act in so far as such proceedings are relatable to the land, possession of which has been taken over by the State Government or any person duly authorised by the State Government in this behalf or by the competent authority."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Repeal and saving.",
+      "content": "(1) The Urban Land (Ceiling and Regulation) Repeal Ordinance, 1999 (Ord. 5 of 1999) is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act."
+    }
+  ],
+  "language": "en"
+}

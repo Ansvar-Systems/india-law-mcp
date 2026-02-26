@@ -1,0 +1,36 @@
+{
+  "id": "act-23-2020",
+  "type": "statute",
+  "title": "The Jammu and Kashmir Official Languages Act, 2020.",
+  "short_name": "JKOL2 2020",
+  "status": "in_force",
+  "issued_date": "2020-09-26",
+  "url": "https://www.indiacode.nic.in/handle/123456789/15512?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the Jammu and Kashmir Official Languages Act, 2020. (2) It extends to the Union territory of Jammu and Kashmir. (3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint: Provided that the Administrator may appoint different dates for different areas in the Union territory.\n\n[Footnote] 1. 29th September, 2020, vide notification No. S.O. 3394(E), dated 29th September, 2020 see Gazette of India, Extraordinary, Part II, sec. 3 (ii)."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"Administrator\" means the Lieutenant Governor of the Union territory of Jammu and Kashmir appointed by the President under article 239 of the Constitution; (b) \"Union territory\" means the Union territory of Jammu and Kashmir."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Official languages of Union territory.",
+      "content": "With effect from such date as the Administrator may, by notification in the Official Gazette, appoint in this behalf, the Kashmiri, Dogri, Urdu, Hindi and English languages shall be the official languages to be used for all or any of the official purposes of the Union territory: Provided that the English language may continue to be used, for those administrative and legislative purposes, in the Union territory for which it was being used before the commencement of this Act: Provided further that the business in the Legislative Assembly of the Union territory shall be transacted in the official language or languages of the Union territory."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Promotion and development of regional languages.",
+      "content": "(1) The Administrator may, for the promotion and development of regional languages of the Union territory, take necessary steps to strengthen the existing institutional mechanisms such as the Academy of Art, Culture and languages in the Union territory. (2) The institutional mechanisms referred to in sub-section (1) shall make special efforts for the promotion and development of Gojri, Pahari and Punjabi languages."
+    }
+  ],
+  "language": "en"
+}

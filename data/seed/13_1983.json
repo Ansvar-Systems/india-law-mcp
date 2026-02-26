@@ -1,0 +1,54 @@
+{
+  "id": "act-13-1983",
+  "type": "statute",
+  "title": "The African Development Bank Act, 1983",
+  "short_name": "ADB1 1983",
+  "status": "in_force",
+  "issued_date": "1983-05-26",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1839?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the African Development Bank Act, 1983. (2) It extends to the whole of India. (3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint.\n\n[Footnote] 1. 15th December, 1983, vide notification No. G.S.R. 889(E), dated 14th December, 1983, see Gazette of India, Extraordinary, Part II, sec. 3(i)."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"Agreement\" means the agreement for the establishment of the African Development Bank; (b) \"Bank\" means the African Development Bank established under the Agreement."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Payments to Bank.",
+      "content": "(1) There shall be paid out of the Consolidated Fund of India, after due appropriation made by Parliament by law in this behalf, all such sums as may, from time to time, be required for the purpose of paying,-- (a) the subscriptions payable by the Central Government to the Bank under Articles 6, 7, 10 and 21 of the Agreement; (b) any sums payable by the Central Government to the Bank under Article 28 of the Agreement; (2) The Central Government may, if it thinks fit so to do, create and issue to the Bank, in such form as it thinks fit, any non-interest bearing and non-negotiable notes or other obligations."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Reserve Bank to be depository for Bank.",
+      "content": "The Reserve Bank of India shall be the depository of the Indian currency holdings of the Bank."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Conferment of status and certain immunities, exemptions and privileges on Bank and conferment  of certain immunities, exemptions and privileges on its officers and employees.",
+      "content": "(1) Notwithstanding anything to the contrary contained in any other law, the provisions of the Agreement set out in the Schedule shall have the force of law in India; Provided that nothing in Article 57 of the Agreement shall be construed as-- (a) entitling the Bank to import into India goods free of any duty of customs without any restriction on their subsequent sale therein; or (b) conferring on the Bank any exemption from duties or taxes which form part of the price of goods sold; or (c) conferring on the Bank any exemption from duties or taxes which are in fact no more than charges for services rendered. (2) The Central Government may, by notification in the Official Gazette, amend the Schedule in conformity with any amendments, duly made and adopted, of the provisions of the Agreement set out therein."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to make rules.",
+      "content": "The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Notifications issued under section 5 and rules made under section 6 to be laid before Parliament.",
+      "content": "Every notification issued under sub-section (2) of section 5 and every rule made under section 6 shall be laid, as soon as may be after it is issued or made, before each of the House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or, as the case may be, in the rule or both Houses agree that the notification or rule should not be issued or made, the notification or rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification or rule."
+    }
+  ],
+  "language": "en"
+}

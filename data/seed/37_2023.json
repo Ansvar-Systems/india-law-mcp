@@ -1,0 +1,36 @@
+{
+  "id": "act-37-2023",
+  "type": "statute",
+  "title": "The Repealing and Amending Act, 2023",
+  "short_name": "RA2 2023",
+  "status": "in_force",
+  "issued_date": "2023-12-17",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19719?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Repealing and Amending Act, 2023."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Repeal of certain enactments.",
+      "content": "The enactments specified in the First Schedule and the Second Schedule are hereby repealed."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Amendment of enactments.",
+      "content": "The enactment specified in the Third Schedule is hereby amended to the extent and in the manner specified in the fourth column thereof."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Savings.",
+      "content": "The repeal by this Act of any enactment shall not affect any other enactment in which the repealed enactment has been applied, incorporated or referred to; and this Act shall not affect the validity, invalidity, effect or consequences of anything already done or suffered, or any right, title, obligation or liability already acquired, accruedor incurred, or any remedy or proceeding in respect thereof, or any release or discharge of or from any debt, penalty, obligation, liability, claim or demand, or any indemnity already granted, or the proof of any past act or thing; nor shall this Act affect any principle or rule of law, or established jurisdiction, form or course of pleading, practice or procedure, or existing usage, custom, privilege, restriction, exemption, office or appointment, notwithstanding that the same respectively may have been in any manner affirmed or recognised or derived by, in or from any enactment hereby repealed; nor shall the repeal by this Act of any enactment revive or restore any jurisdiction, office, custom, liability, right, title, privilege, restriction, exemption, usage, practice, procedure or other matter or thing not now existing or in force."
+    }
+  ],
+  "language": "en"
+}

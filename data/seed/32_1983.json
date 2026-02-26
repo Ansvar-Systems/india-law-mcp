@@ -1,0 +1,54 @@
+{
+  "id": "act-32-1983",
+  "type": "statute",
+  "title": "The Punjab Disturbed Areas Act, 1983",
+  "short_name": "PDA1 1983",
+  "status": "in_force",
+  "issued_date": "1983-12-08",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1800?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called The Punjab Disturbed Areas Act, 1983. (2) It extends to the whole of the State of Punjab. (3) It shall be deemed to have come into force on the 7th day of October, 1983."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition.",
+      "content": "In this Act, \"disturbed area\" means an area which is for the time being declared by notification under section 3 to be a disturbed area."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Powers to declare areas to be disturbed areas.",
+      "content": "The State Government may, by notification in the Official Gazette, declare that the whole or any part of any district of Punjab as may be specified in the notification, is a disturbed area."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to fire upon persons contravening certain orders.",
+      "content": "Any Magistrate or Police Officer not below the rank of Sub-Inspector or Havildar in case of the Armed Branch of the Police may, if he is of opinion that it is necessary so to do for the maintenance of public order, after giving such due warning, as he may consider necessary, fire upon, or otherwise use force, even to the causing of death, against any person who is acting in contravention of any law or order for the time being in force in the disturbed area, prohibiting the assembly of five or more persons or the carrying of weapons or of things capable of being used as weapons or of fire-arms, ammunition or explosive substances."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Powers to destroy arms dump, fortified positions, etc.",
+      "content": "Any Magistrate or Police Officer not below the rank of a Sub-Inspector may, if he is of the opinion that it is necessary so to do, destroy any arms dump, prepared or fortified position or shelter from which armed attacks arc made or are likely to be made or are attempted to be made or any structure used as training camp for armed volunteers or utilized as a hide-out by armed gangs or absconders wanted for any offence."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Protection of persons acting under sections 4 and 5.",
+      "content": "No suit, prosecution or other legal proceedings shall be instituted except with the previous sanction of the1 [Central Government] against any person in respect of anything done or purporting to be done in exercise of the powers conferred by sections 4 and 5.\n\n[Footnote] 1 Subs. by President Act 2 of 1989, s. 2, for \"State Government\" (w.e.f. 3-4-1989)."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Repeal and saving.",
+      "content": "(1) The Punjab Disturbed Areas Ordinance, 1983 (5 of 1983), is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act."
+    }
+  ],
+  "language": "en"
+}

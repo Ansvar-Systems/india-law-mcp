@@ -1,0 +1,612 @@
+{
+  "id": "act-11-1898",
+  "type": "statute",
+  "title": "The Central Provinces Tenancy Act, 1898",
+  "short_name": "CPT1 1898",
+  "status": "in_force",
+  "issued_date": "1898-10-21",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19250?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the Central Provinces Tenancy Act, 1898. (2) It extends to all the territories for the time being administered by the Chief Commissioner of the Central Provinces ; and (3) It shall come into force at once."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless there is anything repugnant in the subject or context,-- (1) the expressions \"agricultural year,\" \"malik makbuza,\" \"sir-land,\" \"survey-number,\" \"record-of-rights\" and \"village\" have the meanings assigned to them, respectively, in the Central Provinces Land-revenue Act, 1881(XVIII of 1881) as from time to time amended : (2) \"arrear\" means an installment or part of an installment of rent which is not paid on or before the date on which it is payable: (3) \"holding\" means a parcel of land held by a tenant of a landlord under one lease or one set of conditions: (4) \"improvement\" means, with reference to a holding, any work which adds to the letting-value of the holding, which is suitable to the holding and consistent with the purpose for which it was let, and which, if not executed on the holding, is either executed directly for its benefit, or is, after execution, made directly beneficial to it: Explanation I.--It includes the reclaiming, enclosing or clearing of lands for agricultural purposes; but it does not include such embankments, temporary wells and water-channels as arc made by tenants in the ordinary course of agriculture; and no work executed by the tenant of a holding is an improvement if it substantially diminishes the value of any other part of the estate of his landlord: Explanation II.--A work which benefits several holdings may be deemed to be, with respect to each of them, an improvement: (5) \"land\" means land which is let or occupied for agricultural purposes or for purposes subservient to agriculture, and includes the sites of buildings appurtenant to such land: (6) \"landlord\" means the person of whom a tenant holds land, and to whom the tenant is, or, but for special contract, would be, liable to pay rent for that land : (7) \"pay,\" \"payable\" and \"payment,\" used with reference to rent, include \"deliver,\" \"deliverable\" and \"delivery\" : (8) \"rent\" means whatever is paid, delivered or rendered, in money, kind or service, by a tenant on account of the use or occupation of land let to him : (9) \"Revenue-officer\" and \"Settlement-officer,\" in any provision of this Act, mean, respectively, such Revenue-officer or Settlement-officer appointment under the Central Provinces Land-Revenue Act, 1881 (XVIII of 1881) as from time to time amended, as the Local Government may, by notification in the local official Gazette, direct to discharge the functions of a Revenue-officer or Settlement-officer (as the case may be) under that provision : and (10) \"tenant\" means a person who holds land of another person, and is, or, but for a special contract, would be, liable to pay rent for that land to that other person. But it does not include a farmer, mortgagee or thikadar of proprietary rights: Explanation I.--An inferior proprietor is not, as such, a tenant : Explanation II.-- The holder of a survey-number in a village let in farm by the Government, or held by a gaontia in the Sambalpur District, is a tenant of the farmer or gaontia for the time being."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Classes of tenants.",
+      "content": "There shall be five classes of tenants, namely :-- (1) absolute occupancy-tenants; (2) occupancy-tenants; (3) village-service-tenants; (4) sub-tenants; and (5) ordinary tenants."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Presumption as to amount of rent payable.",
+      "content": "In all suits and proceedings between landlord and tenant, the rent payable for any agricultural year by a tenant in respect of his holding shall be resumed, until the contrary is proved, to be the rent payable in respect of the holding in the agricultural year immediately preceding that year."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Date from which order fixing rent operates.",
+      "content": "Save as provided in sections 66 and 78, an order fixing, altering or commuting the rent of a holding on an application under this Act may, as the officer making the order thinks fit, take effect from the commencement of the agricultural year next following the date of the application, or from any subsequent day, or, if it is made on the ground of increase, diminution or deterioration of the holding, from the date of that increase, diminution or deterioration, or from any subsequent day."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Time for payment of rents.",
+      "content": "Rent shall be payable in such instalments and on such dates as the Local Government may, by notification in the local official Gazette, prescribe, and, in the absence of any such notification applicable to the case, according to the contract between the parties, or, where there is no such contract, according to local usage."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Rents payable to a number of landlords.",
+      "content": "When two or more persons are landlords of a tenant in respect of the same holding, the tenant, subject to any rule which the Local Government may, by notification in the local official Gazette, make in this behalf, and to any contract between the parties, shall not be bound to pay part of the rent of his holding to one of those persons and part to another or others ; and, subject as aforesaid, those persons shall, if the tenant so desires, appoint one of their number or some other person to receive the rent."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power to deposit rent in certain cases with Revenue officer.",
+      "content": "(a) When a landlord refuses to accept any instalment of rent payable in money when tendered to him by a tenant, (b) when a tenant, in the case mentioned in section 7, desires the appointment of a person to receive rent payable in money and the appointment is not made within a reasonable time, and, (c) when a tenant in any case is doubtful as to the person entitled to receive rent payable in money, the tenant may apply to a Revenue-officer for permission to deposit in his Court the amount of rent which he believes to be due; and that officer shall receive the deposit, if it appears to him, after examining the applicant, that he had reasonable grounds for making the application, and that it was made in good faith, and if the applicant pays the fee (if any) chargeable for the issue of the notice next hereinafter referred to."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Effect of depositing rent.",
+      "content": "(1) When a deposit has been so received, it shall be deemed to be a payment made by the tenant to his landlord in respect of rent due. (2) The officer receiving the deposit shall give notice of the receipt thereof to every person who he has reason to believe claims, or is entitled to, the deposit, and may pay the amount thereof to any person appearing to him to be entitled to the same, or may, if he thinks fit, retain the deposit pending the decision of a Civil Court as to the person so entitled. (3) No suit or other proceeding shall be instituted against the Secretary of State for India in Council, or against any officer of the Government, in respect or anything done by a Revenue-officer under this section; but nothing in this section shall prevent any person entitled to receive the amount of any such deposit from recovering the same from a person to whom it has been paid by a Revenue-officer."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Penalty for levy of anything in excess of rent by landlord.",
+      "content": "A landlord who, except under any special enactment for the time being in force, levies from a tenant anything in excess of the rent legally payable shall, on the application of the tenant, be liable under the order of a Revenue-officer, not below the class of Deputy Commissioner, to pay as penalty such sum as the Revenue-officer thinks fit, not exceeding five hundred rupees, or, when double the amount or value of what is so levied exceeds five hundred rupees, not exceeding double that amount or value. Such sum shall be awarded to the tenant as compensation."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Presumption as to payments by tenant to landlord.",
+      "content": "Where rent is due, every payment by a tenant to his landlord shall, unless the tenant otherwise agrees, be presumed to be a payment on account of rent."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Penalty for refusing receipt or giving defective receipt.",
+      "content": "A landlord who refuses to grant a receipt for rent paid by a tenant, or grants a receipt but refuses or neglects to specify therein the holding, and the period or crop, in respect of which the payment is made, or the amount paid, shall, on the application of the tenant, be liable, under the order of a Revenue-officer, to pay as penalty such sum, not exceeding double the amount or value of the rent so paid, as the Revenue-officer thinks fit. Such sum shall be awarded to the tenant as compensation."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Enhancement of rent when productive power of holding increased by landlord.",
+      "content": "Notwithstanding anything in the record-of-rights, but subject to any contract in writing between the parties, the rent payable in money by any tenant may, on the application of his landlord, be enhanced by a Revenue-officer on the ground that an improvement has been made since the present rent was fixed and in accordance with this Act by or at the expense of the landlord whereby the productive power of the holding has been increased."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Reduction of rent when effect of improvement ceases.",
+      "content": "When the rent of any tenant has been enhanced under section 13 or was fixed at the current settlement with regard to an improvement made by or at the expense of the landlord, a Revenue-officer may at any time, on the application of the tenant, modify or cancel the order for enhancement, or reduce such rent, on the ground that the effect of the improvement in increasing the productive power of the holding has diminished or ceased since the date of the order for enhancement or of the last modification of such order made under this section, or since the rent was fixed by the Settlement-officer, as the case may be."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Power to alter rent when holding is increased, diminished or deteriorated.",
+      "content": "When the area of a holding the rent of which is payable in money is increased or diminished by the encroachment of the tenant or the landlord, or by, fluvial action or otherwise, or the soil of a holding is, without the fault of the tenant, permanently deteriorated by a deposit of sand or by any other calamity, a Revenue-officer may, notwithstanding anything in the record-of-rights or any contract between the parties, by order, on the application of the landlord or of the tenant, alter the rent with reference to that increase, diminution or deterioration."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Power to alter rent in case of new assessment.",
+      "content": "When a landlord grants a lease, or makes any other contract fixing the rent of any holding, and, while the lease or contract is in force,-- (a) land-revenue is for the first time made payable in respect of the holding, or (b) land-revenue having been previously payable in respect of it, the revenue payable when the lease or other contract was granted or made is increased or diminished, a Revenue-officer may, notwithstanding anything in the record-of-rights or any contract between the parties, by order, on the application of the landlord or of the tenant, alter the rent with reference to the revenue."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Commutation of rent payable in kind.",
+      "content": "(1) In all cases in which a tenant, other than an ordinary tenant whose holding consists entirely of sir-land, or than a sub-tenant, pays rent for a holding in kind, or on the estimated value of a portion of the crop or at rates varying with the crop or partly in one of those ways and partly in another or others, the landlord or tenant may, notwithstanding anything in the record-of-rights or any contract between the parties, other than a contract whereby waste-land is let for the purpose of reclamation, apply during the progress of a settlement to a Settlement-officer, or at any other time to a Revenue-officer, to commute the rent to a fixed money-rent. (2) On the receipt of the application, the officer, after giving notice of the application to the other party and hearing him, if he appears, may fix the sum to be paid as money-rent, and may, for reasons to be recorded by him in writing, order that the tenant shall, in lieu of paying his rent in kind, or otherwise as aforesaid, pay the sum so fixed. (3) If the application is opposed, the officer may, for reasons to be recorded by him in writing, refuse to grant the same."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Remission and suspension of rent consequent on like treatment of land-revenue.",
+      "content": "Whenever from any cause the payment of the whole or any part of the land-revenue payable in respect of any land is remitted or suspended, a Revenue-officer may, by general or special order, remit or suspend, as the case may be, the payment of the rent of that land to an amount which may bear the same proportion to the whole of the rent payable in respect of the land as the land-revenue of which the payment has been remitted or suspended bears to the whole of the land-revenue payable in respect of the land, and may distribute the amount so remitted or suspended amongst the tenants holding such land as may seem to him to be equitable, having regard to the effect on their holdings of the cause which has led to the remission or suspension of the land-revenue : Provided that, where the rent is taken by actual division of the produce, no portion of it shall be suspended under this section.: (2) An order passed under sub-section (1) shall not be liable to be contested by suit in any Court.: (3) No suit shall lie for the recovery of any rent of which the payment has been remitted, or, during the period of suspension, of any rent of which the payment has been suspended, and, so long as a suit does not lie, such rent shall not be legally payable within the meaning of section 10.: (4) Where the payment of rent has been suspended, the period of suspension shall be excluded in the computation of the period of limitation prescribed for bringing a suit for the recovery of the rent.: (5) The provisions of this section relating to the remission and suspension of the payment of rent may be applied, as far as may be, to land of which the land-revenue has been wholly or in part released, compounded for or redeemed, in any case in which, if the land-revenue in respect of the land had not been released, compounded for or redeemed, the whole or any part of it might, in the opinion of the Revenueofficer, have been remitted or suspended.: (6) The provisions of this section relating to rent shall apply also, as far as may be, to revenue payable by malik-makbuzas, to revenue and malikana payable by inferior proprietors, and to thika-jamas payable by thikadars of proprietary rights, and the provisions of section 10 apply in cases where revenue, malikana or thika-jama has been collected in contravention of this section.:"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Commission for dividing or estimating crops.",
+      "content": "Whenever rent is taken by division of the produce, or by estimate or appraisement of the crop, if either the landlord or the tenant neglects to attend, either personally or by agent, at the proper time for making the division, estimate or appraisement, or if there is a dispute about the division of the produce or the quantity or value of the crop, a Revenue-officer may, on the application of either party, issue a commission to such person as the officer thinks fit, directing him to divide, estimate or appraise the crop."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Appointment of assessors, etc.",
+      "content": "(1) When a Revenue-officer appoints a Commissioner for any of the purposes mentioned in section 19, the officer may, in his discretion, direct the Commissioner to associate with himself any other persons as assessors, and may give him instructions regarding the number, qualifications and mode of selecting those assessors (if any), and the procedure to be followed in making the division, estimate or appraisement. (2) The Commissioner so appointed shall make the division, estimate or appraisement in accordance with those instructions."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Remedy for error in division.",
+      "content": "(1) If in any division under the foregoing provisions either party receives less than the share to which he is entitled, he may, within three months from the date on which the division is completed, institute a suit against the other party to recover the value of the additional portion of the crop due to him at the price which prevailed on that date. (2) If no such suit is instituted within the said period of three months, the division shall for all purposes be deemed as between the parties thereto to have been rightly made."
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Procedure when crop has been estimated or appraised.",
+      "content": "(1) When a crop has been estimated or appraised under the foregoing provisions, the estimate or appraisement shall be reduced to writing and signed by the commissioner making the same, and shall be submitted to the Revenue-officer by whom the commission was issued. (2) The Revenue-officer shall consider the commissioner's report, and, after such hearing and inquiry (if any) as he may think necessary, shall pass an order thereon either confirming or varying the estimate or appraisement, and that order shall be final."
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Definition of “produce of a holding.",
+      "content": "In sections 24 to 30 (both inclusive) the produce of a holding means-- (a) crops and other products of the earth standing or ungathered on the holding; (b) crops and other products of the earth which have been grown on the holding and have been reaped or gathered and are deposited on the holding or on a threshing-ground, or are stored, by a tenant of the land on which they have been grown, within the village in which the holding is situate or the tenant resides."
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Power of landlord, by notice, to prohibit removal of produce.",
+      "content": "Where an arrear of rent is due in respect of holding, the landlord may, by notice served as hereinafter provided, prohibit the removal of the produce of the holding : first, such a prohibition shall not be made on account of an arrear which has been due for a longer period than one year, or in respect of any produce which is under attachment by order of any Court ; and secondly, such a prohibition shall not be made more than once in respect of the same produce on account of the same arrear."
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Effect of instituting suit for rent while notice is in force.",
+      "content": "If, while the notice is in force, the landlord institutes a suit for the recovery of the rent, the notice shall continue in force until the Court trying the suit otherwhile directs; and, if the landlord obtains a decree in the suit, the amount of that decree shall be the first charge upon the produce."
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Right to reap, etc., produce not affected.",
+      "content": "A notice under section 24 shall not prevent any person from reaping, gathering or storing any produce, or doing any other act necessary for its due preservation."
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Content and service of notice; time for which it remains in force.",
+      "content": "(1) Every notice under section 24 shall be in writing, and shall specify the amount of the arrear claimed, the period for which, and the holding in respect of which, it is claimed, and, when an amount in excess of the rent payable by the tenant in the last preceding agricultural year is claimed, the decree, order or agreement, as the case may be, for the payment of that amount. (2) The notice shall be served on the person in charge of the produce, and shall, subject to the provisions of section 25, remain in force until the expiration of thirty-five days from the date of service of the notice, or, if the rent specified in the notice is paid previously to the expiration of such thirty-five days, until such rent is paid."
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Procedure when produce is under attachment.",
+      "content": "(1) If the produce of the holding on which the arrear is due is under attachment by order of a Civil Court, the landlord may apply to the Court to sell the produce and pay to him out of the proceeds of the sale thereof the amount or value of-- (a) any rent which has fallen due to him in respect of the holding within the year immediately preceding the application ; and (b) the instalment of rent falling due next after the time at which in the ordinary course of agriculture the produce would be harvested. And the Court, if on inquiry it finds the landlord’s claim to the whole or any part of the rent to be proved, shall sell the produce or such portion thereof as it may deem necessary, and shall apply the proceeds of the sale, in the first instance, to satisfy the claim. (2) The finding of a Court on an inquiry under this section shall have the force of a decision in a suit between the parties."
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Conflict between rights of superior and inferior landlord.",
+      "content": "Where land is sublet and any conflict arises under sections 24 to 28 (both inclusive) between the rights of a superior and of an inferior landlord, the right of the superior landlord shall prevail."
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Penalty for illegal distraint by landlord, and for illegal removal of produce.",
+      "content": "(1) Any landlord of a holding who distrains or attempts to distrain the produce of the holding, or prevents or attempts to prevent, otherwise than in accordance with this Act, any person from reaping, gathering, storing, removing or otherwise dealing with any produce of the holding, and, where a notice in respect of the produce of a holding has been served under section 27 and is in force, any person who, knowing or having reason to believe that the notice is in force, removes, attempts to remove or abets the removal of the produce, except for any of the purposes mentioned in section 26, shall, on the application of either landlord or tenant, be liable under the order of a Revenue-officer to fine which may extend to five hundred rupees. (2) Nothing in this section, and, except as provided in section 546 of the Code of Criminal Procedure, 1898, no proceeding under this section, shall affect the right of any person to recover compensation in a civil suit."
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Right to make improvements.",
+      "content": "(1) In respect of the holding of an absolute occupancy-tenant or occupancy-tenant, or of the holding of an ordinary tenant which does not consist entirely of sir-land, the tenant shall be entitled to make Improvements. (2) If the landlord of any such holding as is referred to in sub section (1) desires that any improvement be made in respect of the holding, he may deliver, or cause to be delivered, to the tenant a request in writing calling upon him to make the improvement within a reasonable time, and, if the tenant is unable or neglects to comply with that request, may, subject to such rules of procedure as the Local Government may, by notification in the local official Gazette, prescribe in this behalf, make the improvement himself. (3) In respect of the holding of an ordinary tenant which consists entirely of sir-land, the landlord shall be entitled to make improvements."
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Liability to pay to tenant on ejectment compensation for improvements.",
+      "content": "—(1) If a tenant, or the person under whom he claims, has made an improvement in respect of his holding in accordance with this Act or with the landlord’s consent otherwise than in accordance with this Act, he shall not be ejected until he has received compensation for the improvement, unless the improvement was begun by him after the institution of the proceedings which resulted in the decree or order for his ejectment. (2) A Civil Court making a decree for the ejectment of a tenant, or a Revenue-officer ordering ejectement in execution of a decree for arrears or otherwise, shall determine the amount of compensation (if any) due to him under this section, and shall stay execution until the landlord deposits the amount less any arrears of rent or costs that have been ascertained by the proceedings for such ejectment to be die to him from the tenant. (3) No compensation shall be claimable under this section for an improvement where the tenant has made the improvement in pursuance of a contract binding him, in consideration of some substantial advantage to be obtained by him, to make the improvement without compensation, and has obtained that advantage. (4) Improvements made by a tenant before the commencement of this Act, in lands other than sirland, shall be deemed to have been made in accordance with this Act, unless it is shown that the landlord forbade the tenant to make the improvement, and was ready to make it himself."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Assessment of compensation.",
+      "content": "(1) The Local Government may, by notification in the local official Gazette, make rules requiring the Civil Court to associate with itself, for the purpose of estimating the compensation to be awarded under section 32 for an improvement such number of assessors as the Local Government determining the qualifications of those assessors and the mode of selecting them. (2) In estimating the compensation to be awarded under section thirty for an improvement, regard shall be had.-- (a) to the amount by which the letting value, or the produce, of the holding, or the value of that produce, is increased by the improvement; (b) to the labour and capital required for the making of such an improvement; and (c) to any reduction or remission of rent or other advantage given by the landlord to the tenant in consideration of the improvement. (3) When the amount of the compensation has been assessed, the landlord and tenant may, if they think fit, agree that, instead of being paid wholly in money, it shall be made wholly or partly in some other way."
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Avoidance of provisions barring right to make, or be compensated for, improvements.",
+      "content": "An entry in the record-of-rights of any village or a stipulation in a contract providing.— (a) that a landlord shall be entitled to prevent a tenant from making, or to eject him for making, such improvements on his holding as he entitled to make under this Act, or (b) that a tenant ejected from his holding shall not be entitled to compensation for improvements in any case in which he would, under this Act, be entitled to such compensation, shall be void."
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Surrender of holdings.",
+      "content": "(1) Any tenant not bound by a lease or other agreement for a fixed period may, at the end of any agricultural year, surrender his holding : Provided that, notwithstanding such surrender, the tenant shall continue to be liable for the agricultural year next following the date of the surrender for the rent of the holding, unless he gives to his landlord, at least thirty days before he surrenders, notice of his intention to surrender. (2) In the following cases the Court shall presume that such notice was duly given as required by the proviso to sub-section (1), that is to say :-- (a) if the tenant takes a new holding in the same village from the same landlord during the agricultural year next following the surrender; (b) if the tenant ceases, at least thirty days before the end of the agricultural year at the end of which the surrender is made, to reside in the village in which the surrendered holding is situate; and (c) if the landlord himself, at any time during the agricultural year next following the surrender, cultivate lets to another tenant the holding or any part thereof. (3) A tenant of a survey-number in a village let in farm by the Government, or held by a gaontia in the Sambalpur District, shall be deemed to have surrendered his holding if he refuses to agree to the rent fixed under this Act for the holding, but shall not continue liable under sub-section (1) for the rent of his holding. (4) Any tenant other than an absolute occupancy-tenant who leaves his holding uncultivated and the rent of it unpaid for a period of two years shall, at the expiration of that period, be deemed to have surrendered the holding : Provided that, in reckoning that period, any time during which, owing to an inundation or any other accident to the land beyond the tenant’s control, It may have been impossible to cultivate the land shall be excluded."
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Surrender of occupancy-tenant’s holding.",
+      "content": "(1) If an occupancy-tenant surrender his holding under section 35, any such person as would be entitled to inherit his right in the holding in the event of his death without nearer heirs may, on application to a Revenue-officer, made at any time within two years after the date of the surrender, be placed in possession of the holding, subject, so far as the Revenueofficer may, in accordance with rules made by the Local Government, determine, to his acceptance of the liabilities of the surrendering tenant for arrears of rent and for advances made by the landlord or other persons for the necessary expenses of cultivation. (2) As among several persons so entitled and desirous of being placed in possession of the holding, the right to be so placed shall accrue in the order in which such persons would have inherited the right of the tenant in the holding if the tenant had died. (3) when any such application as aforesaid is made, the Revenue-officer shall issue a notice to all persons who seem to him prima-facie to have a right equal or prior to that of the applicant, and shall also cause local proclamation to issue in the village in or from which the holding was cultivated, inviting all the surrender to appear before him on a date to be fixed ; and shall, after hearing such of the persons to whom notice was issued as may appear, and any other persons who may apply to be heard in the matter, decide who from among such of them as desired to be placed in possession is first entitled to be so placed. (4) Sub-sections (1), (2) and (3) shall not apply in cases where, subject to any rules made by the Local Government in this behalf, a Revenue-officer has decided, after an enquiry made on the application of either landlord or tenant, that the surrender is bona fide and has not been made with the object of evading the provisions of section 45 or section 46."
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Tenant taking thika or farm.",
+      "content": "When a person, at the time of taking a thika or farm, is a tenant of any land comprised therein, his interest as tenant shall not be affected by reason only of his taking the thika or farm."
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Provisions regarding tenant-right not applicable to tenant of land in reserved forests.",
+      "content": "Nothing in this Act regarding the rights of an absolute occupancy-tenant, an occupancy-tenant or an ordinary tenant shall be deemed to apply to the tenant of any land situate within the limits of any forest-land or waste-land which has been declared to be a reserved forest under the Indian Forest Act, 1878 (III of 1878)."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Definition of absolute occupancy-tenant.",
+      "content": "Every person who, at the commencement of this Act, is the tenant of any holding in respect of which he, or a person whose rights he has acquired, had been recorded in any record-of-rights made before the first day of January, 1884, as an \"absolute occupancy-raiyat\", or in terms equivalent thereto, shall, unless he has parted with his rights, be deemed to be an absolute occupancy-tenant of that holding."
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Rents fixed for period of settlement.",
+      "content": "(1) The rent of the holding of every absolute occupancytenant shall be fixed by the Settlement-officer at each settlement of the area in which the holding is comprised, and the rent so fixed shall not be altered during the currency of the settlements, except under the provisions of section thirteen, section fourteen, section fifteen or section seventeen. (2) The rent payable by any such tenant in respect of his holding at the commencement of this Act shall be deemed to have been fixed at the current settlement of the area in which his holding is comprised."
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Right heritable and transferable after notice to landlord, who may claim to purchase.",
+      "content": "(1) The right of an absolute occupancy-tenant in his holding shall on his death devolve as if it were land, and shall be transferable subject to the conditions contained in this section. (2) If an absolute occupancy-tenant intends to transfer any right in his holding by sale or gift, or, by mortgaging the same for a sum which, together with the interest payable thereon during the five years immediately succeeding the mortgage and the previous sums (if any) secured by mortgage of it, would exceed eight times the annual rent of the holding, or by sub-letting the same in consideration of a fine or premium exceeding five times that rent, he shall give to his landlord a written notice of his intention, and shall defer proceeding with the transfer for a period of one month from the date on which the notice is given. (3) If the intended transfer is by sale or gift, the landlord may, within the said period of one month.-- (a) claim to purchase the absolute occupancy right at such value as a Revenue-officer may, on application made to him in this behalf, fix; or (b) permit the sale or gift, in which case he shall be entitled to a sum equal to the rent for one year, and that sum shall be a first charge on the holding. (4) If the intended transfer is by mortgage or sub-lease, the landlord may, within the said period of one month, claim to purchase the absolute occupancy-right at such value as a Revenue-officer may, on application made to him in this behalf, fix. (5) When the right of an absolute occupancy-tenant in his holding is sold or is foreclosed by order of a Civil Court in execution of a decree other than a decree obtained by his landlord, the landlord shall have the same right of pre-emption as is given in the case of a sale by clause (a) of sub-section (3). (6) When an application is made to a Revenue-officer under this section to fix the value of an absolute occupancy-right which is already mortgaged, he shall fix the value of the right as if it were not mortgaged ; and, if the landlord purchases the right, the mortgage-debt shall be a charge on the purchase-money in exoneration of the land. (7) Any transfer made in contravention of this section shall be voidable at the instance of the landlord. (8) If a person to whom an absolute occupancy-tenant has transferred possession of his holding in contravention of the provisions of this section be ejected by the landlord, the tenant may apply to a Revenue-officer within one year of the ejectment of such person to be reinstated in possession of the holding, and the Revenue-officer may order him to be reinstated in possession on his depositing within a stated period, for payment to the landlord, the costs incurred by the landlord in procuring the ejectment. If the tenant fails to make such application within one year of the ejectment, or if he fails to deposit such cost within the period stated, his tenancy shall be deemed to have lapsed."
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Absolute occupancy-tenant not liable to ejectement.",
+      "content": "Notwithstanding any contract to the contrary, or any provision of a record-of-rights, an absolute occupancy-tenant shall not be ejected from his holding by his landlord as such for any cause."
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Rent first charge on holding and holding saleable in execution of decree for arrears of rent.",
+      "content": "The rent of the holding of an absolute occupancy-tenant shall be the first charge on that holding, which shall, subject to the other provisions of this Act, be liable to sale in execution of a decree for arrears of the rent thereof."
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Definition of Occupancy-tenant.",
+      "content": "Every tenant who, on the first day of January, 1884, had held the same land continuously for twelve years, otherwise than as an absolute occupancy-tenant or a sub-tenant, and every person who is at the commencement of this Act, or thereafter becomes, a tenant (not being an absolute occupancy-tenant or a sub-tenant) of land in the districts of Chanda, Nimar and Sambalpur, shall be deemed to be an occupancy-tenant of that land : Provided that the land is not.-- (a) sir land, or (b) held in lieu of wages, or (c) held, in any district other than Sambalpur, under a written lease in which it is expressly agreed that a right of occupancy in the land shall not be acquired or that the tenant shall quit the land at the termination of the lease. Explanation I.--The occupation of any person from whom the tenant inherited or lawfully acquired his holding shall, for the purposes of this section, be deemed to be the occupation of the tenant. Explanation II.--Where, by the custom of any village, the holdings of tenants are, or have been, liable to periodical re-distribution, land which a tenant or any person under whom he claims has, in accordance with that custom, from time to time, received in exchange for land previously held by him, is, for the purpose of calculating, under this section, the period of twelve years, deemed to be the same land as the land which he held before the exchange."
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Accrual of occupancy-tenant-right in sir-land on transfer of right to occupy as proprietor.",
+      "content": "(1) Notwithstanding any agreement to the contrary and save where sanction has been given under sub-section (2), a proprietor who, after the commencement of this Act, temporarily or permanently loses (whether under decree or order of a Civil Court or a Revenue-officer or otherwise) or transfers his right to occupy sir-land as a proprietor, shall at the date of such loss or transfer become an occupancytenant of that sir-land, and the rent payable by him as such shall be the sum determined at the current settlement as the rental value of such land, unless and until, on the application of either landlord or tenant, the rent is fixed by a Revenue-officer. (2) Grant of sanction in certain cases to transfer of the right to occupy sir-land.--An application by a proprietor for sanction to transfer his sir-land without reservation of the right of occupancy provided for in sub-section (1) may be made to such Revenue-officer, not being below the class of Deputy Commissioner, as the Local Government may appoint for this purpose. Such officer shall sanction transfer in cases in which he is satisfied that the transferor is not wholly or mainly an agriculturist or that the property is self-acquired or has been acquired otherwise than by inheritance within the twenty years last preceding In other cases he shall transmit the application to the Local Government, which may sanction the transfer in whole or in part, on the ground that-- (a) the transferor, though wholly or mainly an agriculturist, will have other permanent means of subsistence after transferring the right to occupy his sir-land, or (b) that the area of the sir-land is too large for the transferor to manage after he has transferred his proprietary rights, or (c) that for any other reason the transfer ought to be permitted. The Local Government may make rules for the guidance of Revenue-officers dealing with applications under this sub-section. (3) Prohibition in certain cases of registration of documents transferring right to occupy sirland.--Notwithstanding anything contained in the Indian Registration Act, 1877 (III of 1871), no officer empowered to register documents under that Act shall admit to registration any document which purports to transfer or surrender the rights of a proprietor in his sir-land, without reservation of the right of occupancy provided for in sub-section (1), or to be an agreement for such transfer or surrender, unless sanction to such transfer or surrender has been endorsed on the document in such manner and by such authority as the Local Government may direct. (4) Partition of undivided share in sir-land.--If there are two or more shares in any sir-land, and one of them becomes an occupancy-tenant in it under this section, his previous share in such sir-land shall, on application made by him or by his landlord, be divided off by a Revenue-officer, and his rights as occupancy-tenant shall be limited to the land comprised in such share. (5) Saving of rights of ordinary tenants.--The accrual of occupancy-tenant-right under sub-section (1) shall not affect the rights of an ordinary tenant holding any part of the sir-land at the time of such accrual. (6) Saving of prior registered documents.--Nothing in this section shall affect a document expressly providing for the transfer of the right to occupy sir-land as a proprietor, and duly registered before the commencement of this Act or shall apply to a surrender or a transfer made, decreed or ordered in pursuance of such a document. (7) Bar of jurisdiction of Civil Courts.--No Civil Court shall question the validity of an order passed under this section granting or refusing sanction to the transfer of the right to occupy sir-land as a proprietor. (8) Exception of bhogra.--Nothing in this section shall apply to \"bhogra\" land. Explanation.--For the purposes of this section a transfer includes a mortgage and a lease."
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Devolution of occupancy-right.",
+      "content": "(1) When an occupancy-tenant dies his right in his holding shall devolve as if it were land : Provided that, except in the districts of Chanda, Nimar and Sambalpur, a collateral relative of the tenant shall not be entitled to inherit that right, unless at the death of the tenant he was a co-sharer in the holding or unless, failing any such co-sharer, he held land, or was permanently resident, in the village in or from which the holding is cultivated, and is in the male line of descent from an ancestor who occupied the holding. (2) Exemption of occupancy-rights from Court sales.--Save in pursuance of a document duly registered before the commencement of this Act, no decree or order shall be passed for the sale of the right of an occupancy-tenant in his holding, nor shall such right be sold in execution of any decree or order. (3) Prohibition of transfer of occupancy-rights.--No occupancy-tenant shall be entitled to sell, make a gift of, mortgage, sub-let (except for a period not exceeding one year) or otherwise transfer his right in his holding or in any portion thereof, and every such sale, gift, mortgage, sub-lease (other than for a period not exceeding one year) or transfer shall be voidable in the manner and to the extent provided by the two next following sections : Provided that an occupancy-tenant may transfer his right of occupancy to any person who, if he survived the tenant, would inherit the right of occupancy, or to any person in favour of whom as a co-sharer the right of occupancy originally arose, or who has become by succession a co-sharer therein: Provided, also, that nothing in this section shall affect the right of the Government to sell the right of an occupancy-tenant in his holding for the recovery of an advance made to him under the Land Improvement Loans Act, 1883, (XIX of 1883) or the Agriculturists’ Loans Act, 1884, (XII of 1884) or the right of the purchaser at such sale to succeed to the holding. (4) Prohibition of contracts for future sub-leases.--No contract for the sub-lease of holding or any portion thereon shall be entered into or made during the currency of a sub-lease of such holding or such portion thereof ; and every such contract shall be voidable in the manner and to the extent provided by the two next following sections. (5) Prohibition of registration of documents transferring occupancy-rights.--Notwithstanding anything contained in the Indian Registration Act, 1877, (III of 1877) no officer empowered to register documents shall admit to registration any document which purports to transfer the right of an occupancytenant in his holding or in any portion thereof, unless the document recites that the transferee is a person who, if he survived the tenant, would inherit the right of occupancy, or is a person in favour of whom as a co-sharer the right of occupancy originally arose or who became by succession a co-sharer therein."
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Rights of certain persons to apply to set aside transfers.",
+      "content": "(1) If an occupancy-tenant transfers any portion of his right in any land in contravention of the provisions of the last foregoing section, any such person as would be entitled to inherit his right in the holding in the event of his death without nearer heirs, or the landlord from whom the tenant held the land, may, on application to a Revenue-officer, made within two years from the date on which in pursuance of the transfer the tenant parted with possession of the land, be placed in possession, subject, so far as the Revenue-officer may, in accordance with rules made by the Local Government, determine, to his acceptance of the liabilities of the transferring tenant for arrears of rent and for advances made by the landlord or other persons for the necessary expenses of cultivation. (2) As among several persons so entitled and being desirous of being placed in possession, the right to be so placed shall accrue in the order in which such persons would have inherited the right of the tenant in the subject of the transfer if the tenant had died. Failing any such persons, the right shall accrue to the landlord."
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Procedure on application.",
+      "content": "When any such application as aforesaid is made, the Revenue-officer shall issue a notice to all persons who seem to him prima facie to have a right equal or prior to that of the applicant, and shall also cause local proclamation to issue in the village in or from which the holding was cultivated, inviting all persons claiming to be heirs of the tenant who made the transfer to appear before him on a date to be fixed ; and shall, after hearing such of the persons to whom notice was issued as may appear, and any other persons who may apply to be heard in the matter, decide who from among such of them as desire to be placed in possession is first entitled to be so placed : Provided that in the case of a sub-lease, if the tenant who made the sub-lease appears and pays within such period as the Revenue-officer may determine the amount of the consideration, if any has passed, for which the sub-lease was made and the costs of the applicant if he would otherwise have been successful, the Revenue-officer may replace the tenant himself in possession of the land, if he is satisfied that the tenant made the sub-lease in ignorance of the law and is able and willing to cultivate the holding."
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "Rent of occupancy-tenant to be fixed at settlement.",
+      "content": "(1) The rent of the holding of every occupancy-tenant shall be fixed by the Settlement-officer at each settlement of the area in which the holding is comprised."
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Fixation of rents during currency of settlement in Chanda, Nimar and Sambalpur.",
+      "content": "(1) In the districts of Chanda, Nimar and Sambalpur, the rent fixed under section 49 shall not be altered during the currency of any settlement except under section 13, section 14, section 15 or section 17. (2) The rent payable in respect of his holding by a tenant in any of those districts when this Act comes into force shall be deemed to have been fixed at the last preceding settlement. of the area in which that holding is comprised. (3) Subject to the provisions of section 13, 14, 15, and 17, the rent payable by any such tenant in respect of a holding acquired by him after the commencement of this Act shall, pending the recurrence of the settlement of the area in which that holding is comprised, be the rent fixed by agreement between him and his landlord at the time he acquires that holding, or, in the absence of any such agreement, or on the expiration of the term for which any such agreement has been made, a rent fixed by a Revenue-officer on the application of either party at the following rate, that is to say:-- (a) in the districts of Chanda and Nimar, the rate which the Local Government has prescribed for occupancy-tenants and caused to be entered in the record-of-rights at the current settlement; (b) in the district of Sambalpur, the average rate at which at the current settlement the rents of other lands in the same village of similar quality and possessing similar advantages were fixed."
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "Enhancement during settlement in other districts.",
+      "content": "The rate of rent payable in money by an occupancy-tenant in any other district may, during the currency of a settlement on the application of the landlord to a Revenue-officer, be enhanced, subject to any rules made under this Act for the local area in which the holding is situate and for the time being in force : Provided that.-- (a) an appiication under this section shall not be entertained when, within the ten years immediately preceding the application, the rent of the holding has been fixed at any settlement or under any provision of the other provisions of this Act, except those of sections 13,14 or 15, or a suit or application to enhance it has been dismissed on the merits ; and (b) no order shall be made on any such application which is inconsistent with any contract made after the current settlement and still in force, such contract being consistent with this Act."
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Grounds for ejectment.",
+      "content": "Notwithstanding any contract to the contrary or any provision of a record-of-rights, an occupancy-tenant shall not be ejected from his holding by his landlord as such except,-- (a) as hereinafter provided, for arrears of rent; or (b) in execution of a decree of a Civil Court passed on the ground of his having diverted the land to non-agricultural purposes or being chargeable with some other act or omission which, by custom not inconsistent with this Act or with any other enactment for the time being in force, renders him liable to be ejected."
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "Tenant changing land in accordance with village-custom.",
+      "content": "A tenant having a right of occupancy in land situate in a village in which the holdings of tenants are by custom liable to periodical re-distribution, and exchanging that land in accordance with the custom for other land situate in the same village, shall be deemed to have a right of occupancy in the land so taken in exchange."
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "Tenant changing land in other cases.",
+      "content": "If a tenant having a right of occupancy in any land ceases to hold that land, and thereupon commence to hold other land of the same landlord under circumstances from which it may be inferred that the tenant has accepted that other land in lieu of, and on the same conditions as, the land which he has ceased to hold, he shall, in the absence of a written agreement to the contrary, be deemed to have a right of occupancy in the land which he so commences to hold."
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "Definition of “village-service-tenant”.",
+      "content": "A tenant of a holding who is recorded in the papers of the current settlement of the area in which the holding is comprised as holding his land rent-free or on favourable terms on condition of rendering village-service, is a village-service-tenant."
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "Devolution and transfer of village-service-tenant’s right.",
+      "content": "(1) When a village-service tenant dies, resigns or is lawfully dismissed, his right in his village-service-holding shall pass to his village service-holding shall pass to his successor in office : Provided that the Local Government may, by general or special order, direct that, where, on the resignation, dismissal or death of a village watchman or patwari, his successor in office is not his heir, the village-service-tenure shall cease, in which case the holding shall be retained in occupancy-tenant-right by the late village-service tenant or shall devolve in occupancy-tenant-right on his heir, as the case may be, at a rent which for the remainder of the term of the current s (2) A transaction by which a village-service-tenant attempts to effect a transfer of his interest in his village-service-holding by sale, gift, mortgage, sub-lease or otherwise except by a sub-lease for a period not exceeding one year shall be void, and the village-Service-tenant shall be liable to be ejected for such attempt. (3) The right of a village-service-tenant shall not be sold in execution of a decree."
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Obligation of village-service-tenant to provide substitute.",
+      "content": "If a village-service-tenant is unable to render the service which he is bound to render, he shall provide a competent person to render it for him."
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Grounds on which a village-service tenant may be ejected.",
+      "content": "(1) A village-service-tenant shall not be ejected from his holding except in execution of an order for ejectment passed by a Revenue-officer on one of the following grounds, namely :-- (a) that the tenant has attempted to effect a transfer of his holding in contravention of section 56, sub-section (2) ; (b) that the tenant has ceased to render the service which he is bound to render, or has failed to render it properly, or, being unable to render it himself, has failed to provide a competent person to render it as required by section 57 ; (c) that the tenant has diverted his land to non-agricultural purposes or is chargeable with some other act or omission which, by local custom or the provisions of the village wajib-ul-arz, renders him liable to be dismissed from office ; (d) that the tenant has resigned, or been dismissed from, his office. (2) When a village-service-tenant is ejected from his holding under this section, or when he dies or resigns or is dismissed from his office, a Revenue-officer may, subject to any order issued under the proviso to section 56, sub-section (1), place his successor in office in possession of the holding ; and when a village-service-tenant is ejected from, or loses possession of, his holding otherwise than in accordance with his section, a Revenue-officer may reinstate him in the possession of his holding and eject any transferee or trespasser who may be in wrongful possession thereof."
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "Definition of sub-tenant.",
+      "content": "A tenant who is not an absolute occupancy-tenant or an occupancytenant and who holds land from another tenant, or from a malik-makbuza, or from the holder of a surveynumber, is a sub-tenant of that land."
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "Tenure according to agreement.",
+      "content": "A sub-tenant shall, subject to the provisions of sections 6, 15 and 16, hold on such terms as may be agreed upon between him and his landlord : Provided that, notwithstanding any agreement to the contrary, a lease granted to a sub-tenant by an occupancy or an ordinary tenant shall not be valid for a period exceeding one year."
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "Power to declare sub-tenants in certain cases to have rights of ordinary tenants.",
+      "content": "—(1) In any local area in which the Local Government may by notification in the local official Gazette declare this section to be in force, a sub-tenant holding from a tenant who is proved to the satisfaction of a Revenueofficer or Settlement-officer to habitually sub-let the land held by the sub-tenant and to manage it solely with a view to the obtaining of rent may, subject to such rules as the Local Government may prescribe, be declared by such Revenue-officer or Settlement-officer to have all the rights conferred by this Act on an ordinary tenant, and shall thereupon be deemed to have such rights both as against the sub-letting tenant and as against the landlord from whom the letter holds : Provided that no such declaration shall be made within one year after the commencement of this Act or in the case of a sub-tenant holding under a lease registered before the commencement of this Act or until an opportunity has been given to the sub-letting tenant to show cause against it. (2) When a sub-tenant has been declared under this section to have the rights of an ordinary tenant, so much of the rent payable by him as is equal to the rent payable to the proprietor by the tenant from whom he holds on account of the land sub-let to him shall be rendered by him to the proprietor direct, and the balance shall be rendered by him to the tenant from whom he holds. (3) If a tenant regarding whose land a declaration under this section has been made dies without heirs or surrenders his holding, the sub-tenant shall be deemed to hold direct from the landlord at the total rent paid by him for the land at the time of such death or surrender."
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "Definition of “ordinary tenant”.",
+      "content": "(1) Every tenant who is not an absolute occupancy-tenant, or an occupancy-tenant, or a village-service-tenant or a sub-tenant, is an ordinary tenant. (2) In any local area in which the Local Government may, by notification in the local official Gazette, declare that the provisions of this sub-section are in force, where a person cultivates land not being sir-land under an agreement made with the proprietor of the land and purporting to be an agreement for the cultivation of the land by such person and such proprietor in partnership, such person is an ordinary tenant of the land so cultivated by him, and, notwithstanding any contract to the contrary, the rent payable by him for the land shall be fixed by a Revenue-officer on application made by him or his landlord."
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "Landlord’s right to recover rents determined at settlement as payable by ordinary tenants.",
+      "content": "(1) A Settlement-officer shall, unless the Local Government otherwise directs, fix the rents payable by the ordinary tenants of a mahal other than ordinary tenants whose holdings consist entirely of sir-land, and, on and from the date on which the land-revenue assessment takes effect, the landlord shall be entitled to recover only the rents so fixed. (2) The rents fixed under sub-section (1) shall be recorded in the proceedings of the Settlement-officer, and a copy of the record shall be granted free of expense to the landlord. (3) When by reason of the receipt by the land-lord of any consideration, whether in money or otherwise, a tenant is holding at a rent lower than that fixed by the Settlement-officer under sub-section (1), the Settlement-officer may, notwithstanding anything in this Act, declare him to be entitled to hold at such lower rent,-- (a) if the term is fixed by contract, for the term so fixed or for any shorter period ; (b) in other cases, for such term as the Settlement-officer, having regard to the circumstances, fixed as fair and equitable ; and the term for which the tenant is declared to be so entitled shall be entered in the record made under sub-section (2) : Provided that in no case shall the tenant be entitled to hold at such lower rent for a period longer than that for which the settlement is being made, and, at the expiry of the settlement, he shall not be entitled to a continuance of the privilege."
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Notice of enhancement to be served through Revenue-officer.",
+      "content": "When a landlord wishes to enhance the rent of an ordinary tenant whose holding does not consist entirely of sir-land and whose rent is not fixed by an agreement in writing, and the tenant does not agree to the enhancement, the landlord may cause to be served on the tenant through a Revenue-officer a notice of the enhancement not less than six months or more than twelve months before the commencement of the agricultural year in which the landlord desires the enhancement to take effect."
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "Liability of tenant to ejectment in default of his agreeing to enhancement.",
+      "content": "(1) If, within the period of one month from the service of a notice under the last foregoing section, the tenant on whom the notice has been served presents to the Revenue-officer issuing the notice a statement in writing declaring his willingness to pay the enhanced rent, he shall be deemed to have agreed to pay that rent from the commencement of the agricultural year next following. (2) If the tenant does not, within the said period of one month, present to the Revenue-officer a statement as aforesaid, the landlord may, not less than ten weeks before the commencement of the agricultural year next following, apply to the Revenue-officer to eject the tenant."
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Procedure in ejectment suit.",
+      "content": "(1) If, when an application has been made under sub-section (2) of the last foregoing section, the tenant appears and agrees to pay the enhanced rent demanded, his agreement shall thereupon be recorded, and he shall not be ejected but shall be liable to pay that rent from the commencement of the agricultural year next following the date of the land lords application under section 65, sub-section (2). (2) If the tenant fails to appear, or if, on appearing, he does not agree to pay the enhanced rent demanded, the Revenue-officer shall determine what rent is fair and equitable for the holding : provided that, save where in the Revenue-officers opinion the existing rent is merely nominal, the rent so determined shall not exceed the existing rent by more than thirty-three percent. (3) If the tenant agrees to pay the rent so determined, he shall be entitled to remain in occupation of the holding at that rent from the commencement of the agricultural year next following the date of the landlords application under section 65, sub-section (2). (4) If the tenant does not agree to pay the rent determined under sub-section (2), the Revenue-officer may make an order for his ejectment, subject to the provisions of section 88 and 89 and subject to the deposit by the landlord, within a month from the date of the order, of the amount of compensation (if any) determined as due to the tenant under section 32, If such amount is not so deposited, the order for ejectment shall become void."
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "Rent of ordinary tenant regulated by agreement.",
+      "content": "An ordinary tenant shall, subject to the provisions of sections 13, 14, 15,16, 63, 66 and 78, pay such rent as may, from time to time, be fixed by agreement between him and his landlord."
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "Fresh proceedings not to be taken for seven years.",
+      "content": "When the rent of a tenant has been fixed by a Settlement-officer under section 63, or where a tenant has agreed to pay an enhanced rent for his holding under section 65, or when a tenant is holding at a rent fixed as fair and equitable under section 66 or section 78, or when a rent has been agreed upon by contract or consent between the landlord and his tenant in respect of any holding, or when an order under section 66 to eject a tenant from his holding has become void from failure of the landlord to deposit the amount of compensation (if any) determined as due to the tenant under section 32, no notice of enhancement under section 64 shall be served on such tenant in respect of such holding, nor shall any further enhancement, by contract or consent or otherwise, in respect of such holding be permissible, for a period of seven years from the date on which the settlement made by the Settlement-officer took effect, or from the date of such fixation, agreement, contract or consent, or from the date of such order for ejectment becoming void, as the case may be : Provided that, where a tenant is holding land under a special contract with his landlord at a favourable rent for a term of years in consideration of temporary deterioration, or of the labour or expense involved in the reclamation by such tenant of the land from waste, nothing in this section shall be constructed to prevent a fair rent being fixed or agreed upon after the expiration of the term of such contract."
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "Grounds on which an ordinary tenant may be ejected.",
+      "content": "Notwithstanding any contract to the contrary or any provision of a record-of-rights, an ordinary tenant shall not be ejected from his holding by his landlord as such except-- (a) as provided in the case of an occupancy tenant by section 52 ; (b) in accordance with the provisions of section 66 ; (c) in execution of a decree for ejectement passed on the ground that his holding consists entirely of sir-land."
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "Devolution of ordinary tenancy.",
+      "content": "(1) When an ordinary tenant dies, his right in his holding shall devolve as if it were land : Provided that a collateral relative of the tenant shall not be entitled to inherit his right unless at the death of the tenant he was a co-sharer in the holding. (2) Exemption of ordinary tenant-rights from Court sales.--Save in pursuance of a document duly registered before the commencement of this Act, no decree or order shall be passed for the sale of the right of an ordinary tenant in his holding, nor shall such right be sold in execution of any decree or order. (3) Prohibition of transfer of ordinary tenant-rights.--No ordinary tenant shall be entitled to sell, make a gift of, mortgage, sub-let (except for a period not exceeding one year) or otherwise transfer his right or holding or any portion thereof; and every such sale, gift, mortgage, sub-lease (other than for a period not exceeding one year) or transfer shall be voidable in the manner and to the extent provided by the two next following sections : Provided that nothing in this sub-section shall affect the right of the Government to sell the right of an ordinary tenant in his holding for the recovery of an advance made to him under the Land Improvement Loans Act, 1883, (XIX of 1883) or the Agriculturists’ Loans Act, 1884 (XII of 1884) or the right of the purchase at such sale to succeed to the holding. (4) Prohibition of contracts for future sub-leases.--No contract for the sub-lease of a holding or any portion thereof shall be entered into or made during the currency of a sub-lease of such holding or such portion thereof ; and every such contract shall be voidable in the manner and to the extent provided by the two next following sections. (5) Prohibition of registration of documents transferring ordinary tenantrights.--Notwithstanding anything contained in the Indian Registration Act, 1877, (III of 1877) no officer empowered to register documents under that Act shall admit to registration any document which purports to transfer the right of any ordinary tenant in his holding or in any portion thereof."
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "Right of certain persons to apply to set aside transfers.",
+      "content": "—(1) If an ordinary tenant transfers any portion of his rights in any land in contravention of the provisions of the last foregoing section, any such person as would be entitled to inherit his right in the holding in the event of his death without nearer heirs, or the landlord from whom the tenant held the land, may, on application to a Revenue-officer made within two years from the date on which, in pursuance of the transfer, the tenant parted with possession of the land, be placed in possession, subject, so far as the Revenue-officer may, in accordance with rules made by the Local Government, determine, to his acceptance of the liabilities of the transferring tenant for arrears of rent and for advances made by the landlord or other persons for the necessary expenses of cultivation. (2) As among several persons so entitled and being desirous of being placed in possession, the right to be so placed shall accrue in the order in which such persons would have inherited the right of the tenant in the subject of the transfer if the tenant had died failing any such persons, the right shall accrue to the landlord."
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "Procedure on application.",
+      "content": "When any such application as aforesaid is made the Revenue-officer shall issue a notice to all persons who seem to him prima facie to have a right equal or prior to that of the applicant, and shall also cause local proclamation to issue in the village in or from which the holding was cultivated, inviting all persons claiming to be heirs of the tenant who made the transfer to appear before him on a date to be fixed ; and shall, after hearing such of the persons to whom notice was issued as may appear, and any other persons who may apply to be heard in the matter, decide who from among such of them as desire to be placed in possession is first entitled to be so placed : Provided that in the case of a sub-lease, if the tenant who made the sub-lease appears and pays within such period as the Revenue-officer may determine the amount of the consideration, if any has passed, for which the sub-lease was made, and the costs of the applicant if he would otherwise have been successful, the Revenue-officer may replace the tenant himself in possession of the land, if he is satisfied that the tenant made sub-lease in ignorance of the law and is able and willing to cultivate the holding."
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "Obligation of landlord to confer occupancy-rights on ordinary tenant.",
+      "content": "(1) Notwithstanding any contract to the contrary, the landlord of any holding held by an ordinary tenant shall, at the request of the tenant and on the tender by the tenant to him of a sum equal to two and-a-half times the annual rent payable in respect of the holding, together with the cost of preparing any instrument required for this purpose, confer upon the tenant the rights of an occupancy-tenant in respect of the holding ; and, when those rights have so been conferred, the rent of the tenant shall be deemed to be fixed under this Act, within the meaning of section 51, at the rate at which rent was payable by the tenant at the date of the request and tender : Provided that the tenant may, for the purposes of any such request and tender, and the landlord may, upon any such request and tender being made to him, apply to a Revenue-officer, or during the progress of settlement-operations to a Settlement-officer, to fix the rent of the holding for the purposes of this section; and, if it is proved to the satisfaction of the officer that the rate of rent payable in respect of the holding is greater or less than the rate usually paid by ordinary tenants of holdings situate in the village or vicinity for land of similar quality with like advantages, the officer may fix the rent at the latter rate, and the rent so fixed shall for the purposes of this section be deemed to be, and to have been at the date of the request and tender, the rent payable by the tenant :/ Provided, further, that, if the application is made otherwise than during the progress of settlementoperations, nothing in this section shall be construed to empower a Revenue-officer to alter a rent within seven years of its having been fixed under any of the provisions of this Act, except on the ground that some such change as is described in section 15 has since occurred so as to render the rent so fixed no longer a fair rent. (2) If a landlord to whom a request and tender are made by a tenant under sub-section (1), refuses or neglects for a period of one month to confer the rights of an occupancy-tenant on the tenant, the tenant may deposit the sum aforesaid in the Court of a Revenue-officer, or, during the progress of settlementoperations, of a Settlement-officer, and apply to that officer to confer upon him the rights of an occupancy-tenant in respect of the holding. (3) The officer so applied to, after giving notice of the application to the landlord and hearing him, if he appears, and after making such inquiry as he thinks necessary, may execute any instrument required for conferring the rights of an occupancy-tenant in respect of the holding upon the tenant, and the execution shall have the same effect as an execution by the landlord. (4) Every person upon whom the rights of an occupancy-tenant are conferred under this section shall be deemed to be an occupancy-tenant for the purposes of this Act. (5) Nothing in this section shall apply to a holding consisting entirely of sir-land."
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "Power to direct that suits between landlords and tenants be entered in separate registers.",
+      "content": "The Local Government may direct that all suits, or any specified class of suits, between landlords and tenants as such, shall not be registered in the registers of civil suits kept under the Code of Civil Procedure, 1882 (XIV of 1882), but in such other registers as it may prescribe."
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "Plaint in such suits.",
+      "content": "(1) In suits between landlords and tenants as such, the plaint shall, in addition to the matters mentioned in section 50 of the Code of Civil Procedure, 1882 (XIV of 1882), specify the area of the land to which the suit relates, and, where the fields comprised in that land have been numbered in a Government survey, the number of each such field ; and, in the case of suits for an arrear, the amount of the yearly rent and the instalments in which it is payable. (2) When the land to which the suit relates comprises parts of numbered fields or has not been divided into numbered fields, an accurate and sufficient description of the land and its boundaries shall be given in the plaint."
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "Legal Practitioners’ fees not allowed unless for special reasons.",
+      "content": "In suit between landlords and tenants as such, the fees of a legal practitioner shall not be allowed as costs unless the Court considers, for reasons to be recorded by it in writing, that those fees ought to be allowed."
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "Set-off when allowed in suits for arrears.",
+      "content": "No set-off shall be allowed in any suit for arrears unless the amount claimed as a set-off has been determined by a decree or order of a competent Court or of a Revenue-officer or Settlement-officer."
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "Procedure when ordinary tenant in suit pleads excessive rent.",
+      "content": "(1) If in any suit in which the defendant is an ordinary tenant whose holding does not consist entirely of sir-land the tenant appears and, at any times before a decree is passed, pleads that his rent is excessive, the Court shall inquire into the circumstances of the rent. (2) If the Court finds that the rent payable by the tenant has been enhanced by contract or consent above the rent determined by a Settlement-officer at the current settlement or by a Revenue-officer under this Act, or, when not so determined, above the rent at which the holding was first taken up by the tenant, or, if the rent payable was determined by a Settlement-officer in proceedings taken before the commencement of this Act only after the landlord had refused to comply with the request of the Settlement-officer to reduce it, the Court may stay proceedings and refer the case to a Revenue-officer, who shall thereupon fix what rent is fair and equitable for the holding. If the rent so fixed is equal to or more than the rent previously payable, the Court shall decree the arrears claimed and proved. If the rent so fixed is less than the rent previously payable, the Court shall decree against the tenant arrears of rent on account of any year only to the extent of the amount (if any) by which his payments for that year fell short of the rent so fixed. The tenant shall be entitled to remain in occupation at a rent fixed under this subsection from the commencement of the agricultural year next following the date of the institution of the suit. (3) If the Court finds that the rent, in respect of which the plea is made by the tenant, was not enhanced or determined in the manner describe in sub-section (2) but was the rent at which the tenant first took up the holding from the landlord, the Court shall pass a decree for such sum as may be due at the rent so payable, but may, before or after passing the decree, refer the case to a Revenue-officer, who shall there upon fix what is a fair and equitable rent for the holding, and, if the tenant pays the amount decreed within one month of the date on which the rent is so fixed, he shall be entitled to remain in occupation of his holding at the rent so fixed with effect from the commencement of the agricultural year next following the date of the institution of the suit. Explanation I.--Nothing in this section shall be construed to authorize a Revenue-officer to determine a rent higher than that payable by the tenant at the date of the institution of the suit except from the commencement of the agricultural year next following the date of the institution of the suit, and on the formal application of the landlord. Explanation II.--A statement made during the progress of settlement-operations by the Settlementofficer, and contained in any return or report prescribed by the Local Government, to the effect that a landlord refused to reduce any rent, shall be conclusive proof of such refusal."
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "Tenants’ improvements how to be treated in fixing rents.",
+      "content": "When the land in respect of which an application is made under section 50 or section 51, or for which a fair rent is to be determined under section 66 or section 78, has been improved, in accordance with the provisions of this Act, by the agency, or at the expense, of the tenant, and such improvement was made during the term of the current settlement or the term of the settlement immediately preceding it, the quality and advantages of the land, as cultivated land, shall, notwithstanding anything contained in any contract or record-of-rights to the contrary, be deemed, for the purposes of any such section as aforesaid, to be the quality and advantages which the land would have had and enjoyed if the improvement had not been made."
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "Interest on arrears.",
+      "content": "In suits for arrears, interest on the arrears may be allowed up to date of institution, at such rate, not exceeding twelve per cent. per annum, as the Court thinks fir."
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "No appeal in certain suits for arrears.",
+      "content": "A decree or order passed in a suit for arrears, whether on appeal or otherwise, by a Judge of a Civil Court exercising powers not less than those of an Assistant Commissioner of the first class as defined in the Central Provinces Civil Courts Act, 1885 (XVI of 1885), shall not be subject to appeal, unless-- (a) the amount or value of the subject-matter of the suit exceeds one hundred rupees ; or (b) a question relating to a title to land or some interest in land, has been determined as between parties having conflicting claims thereto."
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "Application for execution by sale of holding or by ejectment.",
+      "content": "An application for the execution of a decree for an arrear of rent by sale of the holding in respect of which the arrear accrued or by ejectment of the tenant shall contain a statement showing the tahsil and village in which the holding is situate, the numbers borne in the village rent-roll by the fields constituting the holding, the rent annually payable, and the years in which the decreed arrears accrued."
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "Arrears decreed not to be on current year’s account.",
+      "content": "No such application as is referred to in foregoing section shall be admitted until after the expiration of the year in which the arrear, or any part of the arrear, accrued."
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "Procedure in execution by sale of holding.",
+      "content": "(1) A decree for arrears of rent due in respect of an absolute occupancy-holding shall, if sale of such holding be ordered in execution, be executed as if it ordered sale in pursuance of a contract specifically affecting the holding, and shall under section 320 of the Code of Civil Procedure, 1882 (XIV of 1882), be transferred to the Collector for execution. (2) The Collector executing the decree may, not withstanding anything contained in section 305 of the Code of Civil Procedure, 1882 (XIV of 1882), allow the tenant time in which to pay the amount due : Provided that any period, or the aggregate of any periods, so allowed shall, subject to any general or special orders which may be issued by the Local Government, not exceed two months."
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "Procedure in execution by ejectment.",
+      "content": "(1) A decree for an arrear of rent due in respect of an occupancy or ordinary holding or a holding held by a sub-tenant may be executed by the ejectment of the tenant : Provided that, notwithstanding anything contained in the Code of Civil Procedure 1882 (XIV of 1882), an order for the ejectment of a tenant in execution of such a decree shall be transferred to a Revenue-officer for execution.. (2) The Revenue-officer on receiving the decree shall cause a notice to be served upon the tenant stating the date of the decree, the amount due there under and the numbers borne in the village rent-roll by the fields constituting the holding, and informing him that if he does not pay into Court within a month from date the amount due he will be ejected from his holding. (3) If the amount due is not paid within the period appointed, the Revenue-officer may, subject to the Provisions of sections 32, 88 and 89, eject the tenant or may, after such enquiry as he deems necessary, postpone ejectment in order to allow the tenant time for payment : provided that any period, or the aggregate of any periods, so allowed shall, subject to any general or special orders which may be issued by the Local Government, not exceed in the case of an occupancy-holding or an ordinary holding not consisting entirely of sir-land four months, or in the case of an ordinary holding consisting entirely of sirland or a holding held by a sub-tenant one month. (4) The Local Government may make rules for the guidance of Revenue-officer executing decrees under this section."
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "Power of Court to deal with cases of drought or other calamity in suits for arrears.",
+      "content": "(1) Where, in answer to a suit for an arrear, the tenant admits that the arrear is due, but pleads that the produce of his holding during the period in respect of which the arrear is claimed has been diminished or destroyed by drought, hail or other extraordinary calamity beyond his control, the Court in its discretion may, notwithstanding any contract to the contrary, allow in its decree any deduction from the arrear, and direct payment of the amount decreed (if any) in such instalments (if any) as it thinks fit. (2) In any such case the Court may order that the provisions of sections 84 and 85 shall not apply to the decree. (3) In making a decree under this section the Court shall have regard to.-- (a) the value of the produce of the holding for the whole agricultural year in respect of which the arrear accrued ; and (b) the proportion which the amount of rent payable for that year by the tenant bears to that value. (4) If in any such suit it appears that the land-revenue of the village in which the holding is situate has been, wholly or in part, suspended or remitted on account of drought, hail or other extraordinary calamity in respect of the period for which the arrear is claimed, the Court shall presume, until shown, that the diminution or destruction alleged by the tenant has taken place."
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "Relief against forfeitures.",
+      "content": "—(1) A suit for the ejectment of tenant on the ground that he has done or omitted to do something for doing or omitting to do which he is liable to ejectment, or that he has broken a condition on breach of which he is, under the terms of a contract between him and the landlord, liable to ejectement, shall not be entertained unless the landlord has requested the tenant, where the damage or breach is capable of remedy, to remedy the same, and, in any case, to pay reasonable compensation for the damage or breach, and the tenant has failed to comply within a reasonable time with that request. (2) A decree passed in favour of a landlord in any such suit shall declare the amount of compensation which would reasonably be payable to the plaintiff for the damage or breach, and whether, in the opinion of the Court, the damage or breach is capable of remedy, and shall fix a period during which it shall be open to the defendant to pay that amount to the plaintiff, and, where the damage or breach is declared to be capable of remedy, to remedy the same. (3) The Court may, from time to time, extend a period fixed by it under sub-section (2) for remedying a damage or breach. (4) If the defendant, within the period or extended period (as the case may be) fixed by the Court under this section, pays the compensation mentioned in the decree, and, where the damage or breach is declared by the Court to be capable of remedy, remedies the damage or breach to the satisfaction of the Court, the decree shall not be executed."
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "Rights of ejected tenants in respect of crops and land prepared for sowing.",
+      "content": "The following rules shall be applicable in the case of every tenant ejected from a holding :-- (1) When the tenant has, before the date of his ejectment, sown or planted crops in any land comprised in the holding, he shall be entitled, at the option of the landlord, either to retain possession of that land and to use it for the purpose of tending and gathering in the crops, or to receive from the landlord the estimated value of the labour and capital expended by the tenant in preparing the land and sowing, planting and tending the crops, together with reasonable interest thereon. (2) When the tenant has, before the date of his ejectment, prepared for sowing any land comprised in his holding, but has not sown or planted crops on that land, he shall be entitled to receive from the landlord the estimated value of the labour and capital expended by him in so preparing the land, together with reasonable interest thereon : Provided that a tenant shall not be entitled to retain possession of any land or receive of any land or receive any sum in respect thereof under this section when, after the commencement of proceedings by a landlord for his ejectment, he has cultivated or prepared the land contrary to local usage : Provided, also, that the rent, if any, payable to the landlord by the tenant at the time of ejectment may be set off against any sums payable to the tenant under this section."
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "Payment by tenant for occupation of land under section 88.",
+      "content": "When a landlord elects, under clause (1) of the last foregoing section, to allow a tenant to retain possession of any land for the purpose specified in that clause, the tenant shall pay to the landlord, for the use and occupation of the land during the period for which he is allowed to retain possession of the same, such rent as the Court or Revenueofficer may deem reasonable."
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "In suits for arrears all claims between landlord and tenant to be determined.",
+      "content": "In all suits for arrears of rent, the Court shall inquire into and determine all claims under this Act by the landlord against the tenant as such, or by the tenant against the landlord as such."
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "Procedure when, on sale or ejectment, money is due by the land-lord to the tenant.",
+      "content": "(1) When it appears to a Court making an inquiry under the last foregoing section that the amount payable by the landlord to the tenant as such exceeds the amount payable by the tenant to the landlord as such, the decree or order for sale or ejectment (if any) shall, unless the landlord and tenant come to an arrangement regarding the payment of the excess sum, specify a time within which it must be paid into Court. (2) If it is so paid within the time specified, the Court shall, subject to the other provisions of this Act, make an order for the sale of the holding or the ejectment of the tenant ; and, if it is not so paid, the Court shall refuse to make such order."
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "Reinstatement of tenant illegally ejected.",
+      "content": "Any tenant who has been ejected from his holding or from any portion thereof otherwise than in accordance with the provisions of this Act, may, on application to a Revenue-officer made within one year from the date of his ejectment, be reinstated in possession of such holding or portion : Provided that no order passed under this section shall prejudice the right of the landlord to eject the tenant so reinstated, or the right of a tenant whose application for reinstatement is rejected to establish his title to his holding and to recover possession thereof by means of a regular suit : Provided, also, that possession of a tenancy, or of any portion thereof, shall not be recoverable under section 9 of the specific Relief Act, 1877 (I of 1877), by a tenant dispossessed thereof."
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "Applications to measure or ascertain condition of holdings.",
+      "content": "(1) If any landlord or tenant of a holding desires that the extent of that holding be ascertained, or that evidence relating to any improvement made in respect thereof or to the state of the holding at any specified time, be recorded, he may apply to a Revenue-officer ; and that officer shall thereupon, in presence of the parties,-- (a) make or cause to be made such inquiry as he thinks fit, with a view to ascertaining the extent of the holding, and record his finding thereon, or (b) (where the applicant seeks to have evidence recorded) record that evidence : Provided that no action shall be taken by any Revenue-officer under this section if he considers that there are no reasonable grounds for making the application, or if the subject-matter thereof is under inquiry in a Civil Court. (2) When any matter has been recorded under this section, the record thereof shall be admissible in evidence in any subsequent proceedings between the landlord and tenant or any persons claiming under them."
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "Limitation is suits under the Act.",
+      "content": "(1) The period of limitation for a suit instituted by a tenant other than an absolute occupancy-tenant to recover possession of land from which he has been ejected, shall be two years from the date on which he is ejected. (2) Whenever rent is taken by division of the produce or by estimate or appraisement of the crop, and no application is made under section 19, no suit by the landlord for the recovery of the share of the produce claimed by him as rent, or the value thereof, shall lie unless such suit is instituted within a period of one year reckoned from the date on which the rent instalment on account of the harvest to which the (3) In all other cases the limitation of every suit brought under this Act shall be governed by Indian Limitation Act, 1877 (XV of 1877) : Provided that nothing in section 7, 8 and 9 of the said Act shall apply to suits for arrears of rent or for the ejectment of a tenant, or to suits for recovery of possession by a tenant against his landlord."
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "Jurisdiction of Civil Courts barred in certain cases.",
+      "content": "Save where it is expressly provided to the contrary, no Court other than the Court of a Revenue-officer or Settlement-officer shall fix, alter or commute any rent or call in question any rent fixed by a Revenue-officer or Settlement-officer, or shall take cognizance of any dispute or matter in respect of which authority is given by this Act to a Revenueofficer or Settlement-officer."
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "Procedure on applications to Revenue and Settlement Officers, and appeals from their orders.",
+      "content": "In fixing rents and disposing of the matters referred to in the last foregoing section, Revenueofficers and Settlement-officers shall, as nearly as may be practicable, subject to the Provisions of this Act and any rules made thereunder, exercise the same powers and follow the same procedure as they exercise and follow under the Central Provinces Land-revenue Act, 1881 (XIII of 1881) as from time to time amended. (2) From every decision or order of a Revenue-officer or Settlement-officer fixing rent or disposing of any matter referred to in the last foregoing section, an appeal shall lie as if that decision or order had been passed by that officer under the said Act."
+    },
+    {
+      "provision_ref": "s97",
+      "section": "97",
+      "title": "Jurisdiction of Civil Courts in suits between landlords and tenants.",
+      "content": "Except as provided in section 95, the Civil Courts shall have jurisdiction in all suits between landlords and tenants as such : Provided that.-- (a) a Judge of a Civil Court of original jurisdiction shall not, unless he is also a Revenue-officer or Settlement-officer, hear any such suit ; and (b) the Local Government may, subject to the other provisions of this Act, direct that all or any class of such suits shall be heard and determined only in such Courts competent to try the same as it thinks fit, and not otherwise."
+    },
+    {
+      "provision_ref": "s98",
+      "section": "98",
+      "title": "Recovery of fines and penalties.",
+      "content": "Any sum due as fine or penalty under this Act shall be recoverable as if it were an arrear of land-revenue."
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "Power to Local Government to make rules.",
+      "content": "The Local Government may, by notification in the local official Gazette, make rules for the purpose of carrying out the objects of this Act and prescribing the practice thereunder."
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "Repeals.",
+      "content": "The enactments mentioned in the schedules are repealed to the extent specified in the fourth column thereof."
+    }
+  ],
+  "language": "en"
+}

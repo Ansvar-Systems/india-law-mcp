@@ -1,0 +1,276 @@
+{
+  "id": "act-27-2009",
+  "type": "statute",
+  "title": "The Prevention and Control of Infectious and Contagious Diseases in Animals Act, 2009",
+  "short_name": "PCICD 2009",
+  "status": "in_force",
+  "issued_date": "2009-03-20",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2101?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the Prevention and Control of Infectious and Contagious Diseases in Animals 1[Act, 2009]. (2) It shall come into force on such date2 as the Central Government may, by notification, appoint; and different dates may be appointed for different States or for different areas therein as well as for different provisions of this Act, and any reference in any such provision of this Act to the commencement of this Act shall be construed in relation to any State or area or provision as a reference to the coming into force of this Act or, as the case may be, of that provision, in such State or area.\n\n[Footnote] 1. Subs. by Act 2 of 2018, s. 3 and the Second Schedule, for \"Bill, 2009\" (w.e.f. 5-1-2018). 2. 25th August, 2009, vide notification No S.O. 2158(E), dated 24th August, 2009, see Gazette of India, Extraordinary, Part II, sec. 3(ii). This Act shall come into force in all the States and Union territories except the State of Uttar Pradesh."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"animal\" means,-- (i) cattle, buffalo, sheep, goat, yak, mithun; (ii) dog, cat, pig, horse, camel, ass, mule, poultry, bees; and (iii) any other animal or bird as the Central Government may, by notification, 1 specify; (b) \"Check Post\" means any place established as such by the Director to carry out checking of animals for the purpose of this Act; (c) \"Competent Officer\" means any person or officer of the Government notified as a Competent Officer under section 17; (d) \"compulsory vaccination\" means vaccination of any animal against any scheduled disease in respect of which vaccination is made mandatory under the provisions of this Act; (e) \"controlled area\" means any local area which has been declared as such by the State Government under sub-section (1) of section 6; (f) \"defective vaccine\" means any vaccine which is expired, breach in seal, contaminated, improperly stored, unlabelled or with mutilated label; (g) \"Director\", in relation to a State, means any officer in charge of the Department of Animal Husbandry or Veterinary Services, or both, notified by the State Government as such for the purpose of this Act; (h) \"free area\" means any controlled area which has been declared as such under sub-section (5) of section 6; (i) \"infected animal\" means an animal which is infected with any scheduled disease; (j) \"infected area\" means an area declared as such under section 20; (k) \"notification\" means notification published in the Official Gazette; (l) \"prescribed\" means prescribed by rules made under this Act; (m) \"publication\" includes propagation of information through the media or newspaper or any other mass media and the means of local communication such as declaration in loud voice and by beating drums in the area; (n) \"Quarantine Camp\" means any place declared to carry out quarantine of animals and birds for the purpose of this Act; (o) \"scheduled disease\" means any disease included in the Schedule; (p) \"Veterinarian\" means a person having a recognised veterinary qualification who, under the law for the time being in force, is allowed to treat animal diseases; (q) \"Veterinary Officer\" means any officer, appointed as such by the State Government under clause (b) of section 3; (r) \"Village Officer\", in relation to a village, means any person who is authorised or designated as such in accordance with the qualifications prescribed by the State Government.\n\n[Footnote] 1. The \"fish, molluse, crustacean and amphibian\" shall be aquatic animals within the definition of \"animal\" defined under clause (a) vide notification No. S.O. 995(E), dated 1st April, 2014."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Appointment of Veterinary Officers.",
+      "content": "The State Government may, by notification, appoint-- (a) such number of persons, as it deems proper, to be Veterinarians to undertake inspection and specifying the local limits of their respective jurisdiction; and (b) such number of Veterinarians, as it deems proper, to be Veterinary Officers, who shall exercise their powers and discharge their duties within the local limits of their jurisdiction as may be specified in the said notification."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Reporting scheduled diseases obligatory.",
+      "content": "(1) Every owner, or any other person, non-governmental organisation, public bodies or the village panchayat, in charge of any animal which he or it has reason to believe to be infective of a scheduled disease shall report the fact to the Village Officer or village panchayat in-charge, who may report the same in writing to the nearest available Veterinarian. (2) The Village Officer shall visit the area falling within his jurisdiction for reporting any outbreak of the disease. (3) Every Veterinarian shall, on receipt of a report under sub-section (1), or otherwise, if he has reason to believe that any animal is infected with a scheduled disease, report the matter to the Veterinary Officer. (4) Where in any State there is any occurrence of scheduled disease in relation to any animal, the Director shall send an intimation to the Directors of the States which are in the immediate neighbourhood of the place where there is such occurrence, for taking appropriate preventive measures against the spread of the disease."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Duty to segregate infected animals.",
+      "content": "(1) Every owner or person in charge of an animal, which he has reason to believe is infective of a scheduled disease, shall segregate such animal and have it kept in a place away from all other animals which are healthy, and take all possible steps to prevent the infected animal from coming in contact with any other animal. (2) The owner or other person in charge of, or having control over, the animal referred to in sub-section (1) shall confine that animal and prevent it from grazing in a common place or to drink water from any common source including a vessel, pond, lake or river. (3) All other infected animals shall be segregated by the Municipality, Panchayat or other local administration."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Notification of controlled areas and free areas.",
+      "content": "(1) The State Government may, with the object of preventing, controlling or eradicating any scheduled disease, by notification, declare any area to be a controlled area in respect of any scheduled disease affecting any species of animal and any other species that may be susceptible to the disease specified in the said notification. (2) The State Government shall also cause the substance of the notification issued under sub-section (1) to be published in a local newspaper in the vernacular language and by declaration in loud voice and by beating drums in the area. (3) Where a notification has been issued under sub-section (1), all animals of the species in the controlled area shall be subjected to compulsory vaccination against that disease, and be subjected to such other measures against the disease, in such manner and within such time as the State Government, may, by public notice, direct. (4) The State Government shall make available necessary vaccine and it shall be obligatory on the part of every owner, or the person in charge of an animal which is required to be vaccinated under sub-section (3), to get the animal compulsorily vaccinated. (5) Where the State Government is satisfied, on a report received from the Director or otherwise, that, in any controlled area, any of the scheduled diseases affecting any species of animal is no longer prevalent, it may, by notification, declare the area to be a free area in respect of that disease in relation to the particular species of animal. (6) Where a notification has been issued under sub-section (5), no animal of the species or of any other susceptible species with regard to which it is a free area shall be allowed to enter the free area unless duly immunized by vaccination against that particular disease."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Prohibition of movement of animals from controlled area.",
+      "content": "(1) Where a notification has been issued under sub-section (1) of section 6 declaring any area as a controlled area in relation to any disease affecting any species of animals, no animal belonging to that species shall be moved from the place where it is kept. (2) The Director may, for the purpose of control, prevention or eradication of any scheduled disease, in respect of any area, by order published in the Official Gazette, prohibit the movement of all animals belonging to any species specified therein, from the place where it is kept, to any other place. (3) Nothing contained in sub-sections (1) and (2) shall be deemed to prohibit-- (a) the movement of any animal referred to therein, from the place where it is kept, to the nearest place where it can be got vaccinated, so long as the animal is being moved for the purpose of its immunization by vaccination; or (b) the movement of any such animal, so long as it is accompanied by a valid certificate of vaccination to indicate that the animal is duly immunized against the particular disease and it bears proper mark of such vaccination."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Vaccination, marking and issue of vaccination certificate.",
+      "content": "(1) The vaccine to an animal may be administered by any person competent under the law for the time being in force to administer it, and issue a certificate of administration of vaccination. (2) Where any animal has been vaccinated for any scheduled disease in compliance with the provisions of sub-section (1), the person vaccinating the animal shall cause to put a mark by branding, tattooing or ear tagging, or in such other manner as the Director may, by general or special order, direct and the same shall, unless otherwise specified by the Director, shall not be removed. (3) The authority issuing a certificate of vaccination shall specify the date of vaccination, dates of manufacture and expiry of the vaccine and the date up to which the vaccination of the animal with the particular vaccine shall be valid."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Contents of vaccination certificate.",
+      "content": "Every vaccination certificate issued under this Act shall be in such form and shall contain such particulars as may be prescribed by the Central Government."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Entry and exit of animals into controlled area and free area.",
+      "content": "(1) Where any area has been declared as a controlled area under sub-section (1) of section 6 in respect of any disease affecting any species of animals, no animal belonging to that species shall be taken out of, or brought into that area save as provided in section 16. (2) The Director may, by notice duly published in the Official Gazette and at least in one daily local newspaper in vernacular language, extend the prohibition contained in sub-section (1) to any other species of animals, if animals belonging to that species are also likely to be infected with that disease. (3) No carrier of goods or animal shall carry any animal from or out of a controlled area, free area or infected area by land, sea or air unless he complies with the provisions of section 16. (4) Nothing contained in sub-sections (1) to (3) shall apply to the carriage by railway of any animal referred to in those sub-sections through any area which, for the time being, is declared as a controlled area or infected area so long as the animal is not unloaded (for whatsoever purpose or duration) in any place within that area: Provided that the State Government may, by notification, declare that any species of animal so carried through any local area within the State shall be duly immunized against such scheduled disease, in such manner and within such time as may be specified in that notification and a certificate of vaccination shall be a pre-requisite for the transportation of the animals by the railways through that area: Provided further that, where any notification as referred to in the first proviso has been issued, it shall be incumbent on the State Government to intimate that fact to the concerned railway authorities so as to enable them to satisfy themselves about the immunization of the animal before transporting it through the local area of the State."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Precautionary measures in relation to controlled areas.",
+      "content": "No person shall take out of the controlled area-- (a) any animal, alive or dead, which is infected with, or reasonably suspected to have been infected with, any scheduled disease notified under sub-section (1) of section 6; (b) any kind of fodder, bedding or other material which has come into contact with any animal infected with such disease or could, in any manner, carry the infection of the notified disease; or (c) the carcass, skin or any other part or product of such animal."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Prohibition of markets, fairs, exhibition, etc., in the controlled areas.",
+      "content": "No person, organisation or institution shall hold any animal market, animal fair, animal exhibition and carry on any other activity which involves grouping or gathering of any species of animals within a controlled area: Provided that the Competent Officer may, suo motu or on application made to him in this behalf, relax the prohibition in relation to any species of animals, in a case where animals belonging to that species are not susceptible to the scheduled disease and are incapable of carrying it, if he is satisfied that in the public interest it is necessary to accord such relaxation."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Prohibition of bringing of infected animals into market and other places.",
+      "content": "No person shall bring or attempt to bring into market, fair, exhibition or other congregation of animals or to any public place, any animal which is known to be infected with a scheduled disease."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Check Posts and Quarantine Camps.",
+      "content": "(1) The Director may establish as many Quarantine Camps and Check Posts within the State as may be required-- (a) for the detention of animals suffering from any scheduled disease or of animals which have come into contact with or have been kept in the proximity of any such infected animal; (b) for ensuring the prevention of entry into or exit from any controlled area or infected area or free area, of any animal belonging to the species of animals in respect of which a notification, issued under sub-section (1) of section 6, or an order issued under sub-section (2) of section 7, is in force. (2) Any animal which is required to be detained, inspected, vaccinated, or marked, may be kept in the Quarantine Camp for such period as the Competent Officer may direct. (3) Every animal detained at a Quarantine Camp shall be under the custody of the person in charge of the camp, and shall be vaccinated and marked. (4) The officer in charge of the Quarantine Camp shall, at the time of release of an animal from the station, grant a permit, in such form as may be prescribed by the State Government, to the person taking charge of the animal, and every such person shall be bound to produce the permit whenever required to do so by any Competent Officer."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Inspection and detention of animals at Check Posts and Quarantine Camps.",
+      "content": "(1) Every person in charge of any Check Post or Quarantine Camp shall inspect any animal stopped at the Check Post, or detained therein or at the Quarantine Camp. (2) The manner of inspection and the period of detention of the animal at the Check Post or at the Quarantine Camp for the purpose of inspection or for the administration of compulsory vaccination, the marking of animals and the form and manner in which permit for entry in respect of any animal may be issued, shall be such as may be prescribed by the State Government."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Entry and exit of vaccinated animals into controlled and free areas.",
+      "content": "Notwithstanding anything contained in section 10, an animal belonging to the species of animals in respect of which an area has been declared as a controlled or free area in relation to any scheduled disease, which has been duly vaccinated against that disease, shall be allowed to enter into or be taken out of the controlled area or free area, or to be taken out of any other place on the production of a certificate to the effect that vaccine against that disease has been administered and a period of not less than twenty-one days has elapsed thereafter."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Appointment of Competent Officers.",
+      "content": "The State Government may, for the proper implementation of the provisions of this Act, by notification, authorise any person to exercise any power or discharge any duty as a Competent Officer, under this Act, who shall exercise such powers and such duties within the local limits of his jurisdiction as may be specified in the notification."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Cleaning and disinfection of carriers.",
+      "content": "(1) Every common carrier whether a vessel or vehicle shall be cleaned and disinfected immediately before and after the transportation of any animal in that vessel or vehicle, and so also any other place where the animal has been kept in transit. (2) Where any area has been declared as a controlled area or free area in respect of any scheduled disease affecting any species of animal, the Director may, by an order duly published in the Official Gazette and in a local newspaper in the vernacular language, direct the owner of every vehicle in which any animal belonging to that species is carried, to have the vehicle properly cleaned and disinfected."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Powers of entry and inspection.",
+      "content": "Any Veterinary Officer or other Competent Officer may enter upon and inspect any land or building or place, vessel or vehicle, for the purpose of ensuring compliance of the provisions of this Act or the rules or orders made thereunder, by the persons responsible for such compliance."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Declaration of infected areas.",
+      "content": "If the Veterinary Officer, upon receipt of a report from a Veterinarian or otherwise, is satisfied that, in any place or premises falling within his jurisdiction, an animal has been infected with any scheduled disease, or that an animal, which he has reason to believe has been so infected, is kept, may, by notification and publication in at least one local newspaper in the vernacular language and by declaration in loud voice and by beating drums, declare such area as he may deem fit (including the place or premises aforesaid) to be an infected area."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Effect of declaration of infected areas.",
+      "content": "(1) Where an area has been declared as an infected area under section 20, all provisions of this Act which are applicable in relation to a controlled area shall mutatis mutandis apply thereto as if for the words \"controlled area\", the words \"infected area\" have been substituted. (2) Without prejudice to the generality of the provisions contained in sub-section (1), the following further provisions shall apply in relation to an infected area, namely:-- (a) in respect of every animal in that area which is infected or reasonably believed to be infected, with any scheduled disease, the owner or other person in charge of the animal, shall forthwith get it treated by a Veterinarian; (b) all articles, which are likely to have come into contact with any animal referred to in clause (a), shall be treated or disposed off in such a manner as the Veterinarian may direct; (c) every Veterinarian shall, for the purpose of inspection, have the power to enter any place or premises where any animal is kept or is likely to be kept; (d) the owner or any other person in charge of the animal referred to in clause (a) shall keep the animal in isolation forthwith, and also take such other measures as may be necessary for the prevention, treatment and control of the disease as the Veterinarian may direct."
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Denotification of infected area.",
+      "content": "If the Veterinary Officer, after such enquiry as he may deem fit, is satisfied that there is no longer the threat or danger of any animal being infected with the scheduled disease in any infected area, by notification and publication in a local newspaper in vernacular language, declare that the area is no longer an infected area as aforesaid, whereupon all the restrictions referred to in section 21 shall cease to apply."
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Segregation, examination and treatment of infected animals.",
+      "content": "(1) Where the Veterinarian has, on receipt of a report or otherwise, reason to believe that any animal is infected with a scheduled disease, he may, by order in writing, direct the owner or any other person in charge of such animal-- (a) to keep it segregated from other apparently healthy animals; or (b) to subject it to such treatment as may be required under the circumstances. (2) Where any action has been taken in pursuance of sub-section (1), the Veterinarian shall forthwith give a detailed report of the incidence of the disease to the Veterinary Officer. (3) On receipt of a report from the Veterinarian, the Veterinary Officer shall, as soon as possible, examine that animal as well as any other animal which could have come in contact with it, and for that purpose, submit the animal to such test and medical examination as may be required under the circumstances. (4) If, after such test and examination, the Veterinary Officer is of the opinion that an animal is not infected with any of the scheduled diseases, he shall issue a certificate in writing that the animal is not infected with any such disease."
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Drawing samples from animals.",
+      "content": "(1) Where the Veterinary Officer considers it necessary for the purpose of ascertaining whether the animal which is suspected to have been infected with any scheduled disease or susceptible to such infection is actually infected, or for the purpose of ascertaining the nature of the scheduled disease with which an animal is infected, he may draw such samples, as may be required, from the animal for the purpose of carrying out such investigations as he may deem necessary under the circumstances. (2) The Veterinary Officer or any other Competent Officer shall draw samples from any animal for the purposes of ascertaining whether the animal has been vaccinated against any disease, or whether the vaccination of the animal has been effective in conferring it immunity and have the samples examined, in such manner as he may deem necessary."
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Resort to euthanasia for infected animals.",
+      "content": "If the Veterinary Officer deems it necessary that an animal, which is infected with a scheduled disease, euthanasia has to be resorted to, for preventing the spread of the disease to other animals in the area or to protect public health if the disease is of zoonotic importance, he may, notwithstanding anything contained in any other law for the time being in force, by an order in writing, direct euthanasia of the animal and the carcass disposed of immediately to his satisfaction."
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Disposal of carcass.",
+      "content": "Every person in possession of carcass (or any part thereof) of any animal, which, at the time of its death, was infected with any scheduled disease or was suspected to have been infected, shall dispose it of in such manner as may be prescribed."
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Powers of Veterinary Officer and Veterinarian to hold post-mortem examinations.",
+      "content": "(1) Where the Veterinary Officer or any Veterinarian has reason to believe that the death of an animal has been caused by an infection of any scheduled disease, he may make or cause to be made a post-mortem examination of the animal and for that purpose he may cause the carcass of any such animal to be exhumed where required followed by proper disposal after necessary examination and post-mortem. (2) Every examination and post-mortem referred to in sub-section (1) shall be conducted in such manner, and the report of post-mortem shall be in such form, as may be prescribed."
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Seizure and removal of certain animals.",
+      "content": "Where any animal which is infected or suspected to have been infected is found without any person claiming to be its owner, or where a valid order or direction given in relation to any such animal is not promptly complied with by the owner or other person in control of the animal, it shall be open to the Veterinary Officer or any other Competent Officer, to seize the animal and remove it to a place of isolation or segregation, as he may deem proper."
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Enforcement of orders and recovery of expenses.",
+      "content": "(1) Where by any rule, notification, notice, requisition, order or direction made under this Act, any person is required to take any measure or to do anything-- (a) in respect of any animal, carcass of any animal or other thing in his custody or charge, the same shall be promptly complied with by that person; (b) in case of any stray or ownerless animal, carcass of such animal or parts thereof, the same shall be promptly complied with by the municipality or Panchayat, as the case may be, at its cost. (2) If the measures as referred to in sub-section (1) are not taken within such time as may be allowed for the purpose, the authority issuing the notice, requisition, order or direction, may cause the measures to be taken at the cost of the person or municipality or Panchayat, as the case may be, who or which was required to take the measures. (3) The costs of any measures taken under sub-section (2), shall be recoverable from the person or the municipality or Panchayat, as the case may be, concerned in the manner provided by the Code of Criminal Procedure, 1973 (2 of 1974) for the recovery of fines imposed by a Court, as if such costs were a fine imposed by a Court."
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Village Officers, etc., to assist.",
+      "content": "All Municipal, Panchayat or Village Officers and all officers of the rural and dairy development, revenue, agriculture, animal husbandry and veterinary departments of the State Government, shall be bound-- (a) to give immediate information to the Veterinary Officer and to the Veterinarian having jurisdiction in the area regarding the prevalence of a scheduled disease amongst any animal or species of animals, in the area; (b) to take all necessary measures to prevent the outbreak or spread of any scheduled disease; and (c) to assist the Veterinary Officer and the Veterinarian in the discharge of their duties or in the exercise of their powers under this Act."
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Penalty for issuing vaccination certificate without authority or administering defective vaccine.",
+      "content": "If any person issues a vaccination certificate,-- (a) without authority or competence in that behalf, or (b) after administering the vaccine which is known to be defective in any manner, he shall be guilty of an offence punishable with a fine of five thousand rupees or in case of non-payment of fine with imprisonment which may extend to one month, and in the case of any subsequent offence, with fine of ten thousand rupees or with imprisonment which may extend to three months."
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Penalties.",
+      "content": "Any person who contravenes the provisions of this Act or obstructs the Competent Officer in performing his duties shall be guilty of an offence punishable with fine which may extend to one thousand rupees, and in case of failure to pay the penalty with imprisonment for a term which may extend to one month; and in the case of any subsequent offence (whether under the same provision or any other provision of this Act except in case of sections 31 and 33) with a fine of two thousand rupees, or with imprisonment for a term which may extend to two months in case of non-payment of the penalty."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Penalty for placing infected animal or carcass in river, etc.",
+      "content": "Whoever places or causes or permits to be placed in any river, lake, canal or any other water body, the carcass or any part of the carcass of any animal which at the time of its death was known to be infected, shall be guilty of an offence and, on conviction, be punished, in the case of a first offence with fine of two thousand rupees or with imprisonment of one month in case of non-payment of fine and in the case of subsequent conviction with a fine of five thousand rupees or imprisonment for a term which may extend to three months or with both."
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Offences by companies.",
+      "content": "(1) Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded and punished accordingly: Provided that nothing contained in this sub-section shall render such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence. (2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly. Explanation.--For the purposes of this section,-- (a) \"company\" means any body corporate and includes a co-operative society registered or deemed to be registered under any law for the time being in force, a firm or other association of individuals; and (b) \"director\", in relation to a firm, means a partner in the firm."
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Prevention of escape of causative organism.",
+      "content": "(1) In every institution, laboratory or clinic, engaged in the manufacture, testing or research, related to vaccines, sera, diagnostics or chemotherapeutic drugs and aimed at the prevention or treatment of any scheduled disease, adequate precautionary measures shall be taken-- (a) to ensure that the causative organism of any scheduled disease does not escape or otherwise get released; (b) to guard against any such escape or release; and (c) to warn and to protect everyone concerned in the event of any escape. (2) Notwithstanding anything contained in any other law for the time being in force, every animal-- (a) used for the manufacture, testing or research as referred to sub-section (1), or (b) which is likely to carry or transmit any scheduled disease, shall be promptly administered euthanasia and disposed of by the person in charge of or having control of the institution, laboratory or clinic, as the case may be, referred to in that sub-section. (3) Every person who is in charge of or having control of an institution, laboratory or clinic referred to in sub-section (1) comply with the provisions of sub-section (1) and sub-section (2); and in the event of non-compliance he shall be guilty of an offence punishable with fine which may extend to twenty thousand rupees or imprisonment for a term which may extend to six months or with both, and in case the establishment is in commercial manufacturing of vaccines or medicine, a temporary suspension of licence up to a period of one year may also be imposed."
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Power to delegate.",
+      "content": "The State Government may, by notification, delegate to any officer or authority subordinate to it, all or any of the powers conferred on it by or under this Act, except the powers to make rules under sub-section (2) of section 42."
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Officers and authorities to function subject to Government control.",
+      "content": "All officers and authorities under this Act shall exercise their powers and discharge their duties conferred or imposed on them by or under this Act, in accordance with such orders, not inconsistent with the provisions of this Act, as the Central Government or the State Government may, from time to time, make."
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Power to amend the Schedule.",
+      "content": "(1) The Central Government may, by notification, add to, or omit from the Schedule any animal disease and the said disease shall, as from the date of the notification, be deemed to have been added to, or omitted from, the Schedule. (2) Every notification issued under sub-section (1) shall, as soon as may be after it is issued, be laid before each House of Parliament."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Power to issue directions.",
+      "content": "The Central Government may, with the object of prevention, control and eradication of any infectious or contagious disease of animals, issue such directions to the State Government or other authorities under this Act, from time to time, including directions for furnishing such returns and statistics on scheduled diseases, and vaccination, as it may deem fit and every such direction shall be complied with."
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Certain persons to be public servants.",
+      "content": "Every Competent Officer, Director and Veterinary Officer, while exercising any power or performing any duty under this Act, shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Power to remove difficulties.",
+      "content": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty: Provided that no such order shall be made after the expiry of a period of two years from the date of commencement of this Act. (2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament."
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Power of State Government to make rules.",
+      "content": "(1) The State Government may, by notification and with the prior approval of the Central Government, make rules for carrying out the purposes of this Act. (2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-- (a) the form of permit to be granted by the officer in charge of a Quarantine Camp, under sub-section (4) of section 14; (b) the manner of inspection and the period of detention of an animal at a Check Post or at a Quarantine Camp for the administration of compulsory vaccination and marking of animals and the form and manner of issue of entry permit, under sub-section (2) of section 15; (c) any other matter in respect of which rule is to be or may be made by the State Government."
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Laying of rules.",
+      "content": "(1) Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule. (2) Every rule made by the State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature."
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Repeal and savings.",
+      "content": "On the commencement of this Act-- (i) The Glanders and Farcy Act, 1899 (13 of 1899); (ii) The Dourine Act, 1910 (5 of 1910); and (iii) any other corresponding law of any State, so far as it is inconsistent with the provisions of this Act, shall stand repealed: Provided that nothing contained in this section shall-- (a) affect the previous operation of any such provision of law or anything duly done or suffered thereunder; (b) affect any right, privilege, obligation or liability acquired, accrued or incurred under any such provision of law; (c) affect any penalty, forfeiture or punishment incurred in respect of any offence committed against any such provision of law; or (d) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid; and every such investigation, legal proceeding or remedy may be continued, instituted or enforced, and any such penalty, forfeiture and punishment may be imposed, as if the aforesaid provisions of law had continued: Provided further that, anything done or any action taken under any such provision of law, including any notification, order, notice or receipt issued or declaration made, shall in so far as it is not inconsistent with the provisions of this Act, be deemed to have been done, taken, issued or made under the corresponding provisions of this Act, and shall continue in force accordingly, unless and until superseded by anything done or any action taken under this Act."
+    }
+  ],
+  "language": "en"
+}

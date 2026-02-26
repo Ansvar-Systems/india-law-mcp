@@ -1,0 +1,24 @@
+{
+  "id": "act-35-1925",
+  "type": "statute",
+  "title": "The Madras, Bengal and Bombay Children (Supplementary) Act, 1925",
+  "short_name": "MBBCS 1925",
+  "status": "in_force",
+  "issued_date": "1925-09-23",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19233?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Madras, Bengal and Bombay Children (Supplementary) Act, 1925."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Validation of certain provisions of Madras Children Act, 1920, Bengal Children Act 1922, and Bombay Children Act, 1924.",
+      "content": "The Madras Children Act, 1920 (Mad. Act IV of 1920.), the Bengal Children Act, 1922 (Ben. Act II of 1922.), and the Bombay Children Act, 1924 (Bom. Act XIII of 1924.), shall, so far as regards the appellate and revisional jurisdiction conferred by the said Acts on the High Courts of Judicature at Madras, at Fort William in Bengal and at Bombay, respectively, be as valid as if the said Acts had been passed by the Indian Legislature."
+    }
+  ],
+  "language": "en"
+}

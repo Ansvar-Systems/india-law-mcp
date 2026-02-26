@@ -1,0 +1,648 @@
+{
+  "id": "act-26-1996",
+  "type": "statute",
+  "title": "The Arbitration and Conciliation Act, 1996",
+  "short_name": "AC1 1996",
+  "status": "in_force",
+  "issued_date": "1996-08-16",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1978?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the Arbitration and Conciliation Act, 1996. (2) It extends to the whole of India: 1* * * * * (3) It shall come into force on such date2 as the Central Government may, by notification in the Official Gazette, appoint.\n\n[Footnote] 1. The proviso and Explanation omitted by the Jammu and Kashmir Reorganization (Adaptation of Central Laws) Order, 2020, vide notification No. S.O. 1123(E) dated (18-3-2020) and vide Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, notification No. S.O. 3774(E), dated (23-10-2020). 2. 22nd August, 1996, vide notification No. G.S.R 375(E), dated 22nd August, 1996, see Gazette of India, Extraordinary, Part II, sec. 3(i)."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "(1) In this Part, unless the context otherwise requires,— (a) \"arbitration\" means any arbitration whether or not administered by permanent arbitral institution; (b) \"arbitration agreement\" means an agreement referred to in section 7; (c) \"arbitral award\" includes an interim award; (d) \"arbitral tribunal\" means a sole arbitrator or a panel of arbitrators; 1[(e) \"Court\" means— (i) in the case of an arbitration other than international commercial arbitration, the principal Civil Court of original jurisdiction in a district, and includes the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject-matter of a suit, but does not include any Civil Court of a grade inferior to such principal Civil Court, or any Court of Small Causes; (ii) in the case of international commercial arbitration, the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject-matter of a suit, and in other cases, a High Court having jurisdiction to hear appeals from decrees of courts subordinate to that High Court;] (f) \"international commercial arbitration\" means an arbitration relating to disputes arising out of legal relationships, whether contractual or not, considered as commercial under the law in force in India and where at least one of the parties is— (i) an individual who is a national of, or habitually resident in, any country other than India; or (ii) a body corporate which is incorporated in any country other than India; or (iii) 2 *** an association or a body of individuals whose central management and control is exercised in any country other than India; or (iv) the Government of a foreign country; (g) \"legal representative\" means a person who in law represents the estate of a deceased person, and includes any person who intermeddles with the estate of the deceased, and, where a party acts in a representative character, the person on whom the estate devolves on the death of the party so acting; (h) \"party\" means a party to an arbitration agreement. (2) This Part shall apply where the place of arbitration is in India: 3[Provided that subject to an agreement to the contrary, the provisions of sections 9, 27 and clause (a) of sub-section (1) and sub-section (3) of section 37 shall also apply to international commercial arbitration, even if the place of arbitration is outside India, and an arbitral award made or to be made in such place is enforceable and recognised under the provisions of Part II of this Act.] (3) This Part shall not affect any other law for the time being in force by virtue of which certain disputes may not be submitted to arbitration. (4) This Part except sub-section (1) of section 40, sections 41 and 43 shall apply to every arbitration under any other enactment for the time being in force, as if the arbitration were pursuant to an arbitration agreement and as if that other enactment were an arbitration agreement, except in so far as the provisions of this Part are inconsistent with that other enactment or with any rules made thereunder. (5) Subject to the provisions of sub-section (4), and save in so far as is otherwise provided by any law for the time being in force or in any agreement in force between India and any other country or countries, this Part shall apply to all arbitrations and to all proceedings relating thereto. (6) Where this Part, except section 28, leaves the parties free to determine a certain issue, that freedom shall include the right of the parties to authorise any person including an institution, to determine that issue. (7) An arbitral award made under this Part shall be considered as a domestic award. (8) Where this Part— (a) refers to the fact that the parties have agreed or that they may agree, or (b) in any other way refers to an agreement of the parties, that agreement shall include any arbitration rules referred to in that agreement. (9) Where this Part, other than clause (a) of section 25 or clause (a) of sub-section (2) of section 32, refers to a claim, it shall also apply to a counterclaim, and where it refers to a defence, it shall also apply to a defence to that counterclaim.\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 2, for clause (e) (w.e.f. 23-10-2015). 2. The words \"a company or\" omitted by s. 2, ibid. (w.e.f. 23-10-2015). 3. Ins. by s. 2, ibid. (w.e. f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Receipt of written communications.",
+      "content": "(1) Unless otherwise agreed by the parties,— (a) any written communication is deemed to have been received if it is delivered to the addressee personally or at his place of business, habitual residence or mailing address, and (b) if none of the places referred to in clause (a) can be found after making a reasonable inquiry, a written communication is deemed to have been received if it is sent to the addressee's last known place of business, habitual residence or mailing address by registered letter or by any other means which provides a record of the attempt to deliver it. (2) The communication is deemed to have been received on the day it is so delivered. (3) This section does not apply to written communications in respect of proceedings of any judicial authority."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Waiver of right to object.",
+      "content": "A party who knows that— (a) any provision of this Part from which the parties may derogate, or (b) any requirement under the arbitration agreement, has not been complied with and yet proceeds with the arbitration without stating his objection to such non-compliance without undue delay or, if a time limit is provided for stating that objection, within that period of time, shall be deemed to have waived his right to so object."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Extent of judicial intervention.",
+      "content": "Notwithstanding anything contained in any other law for the time being in force, in matters governed by this Part, no judicial authority shall intervene except where so provided in this Part."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Administrative assistance.",
+      "content": "In order to facilitate the conduct of the arbitral proceedings, the parties, or the arbitral tribunal with the consent of the parties, may arrange for administrative assistance by a suitable institution or person."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Arbitration agreement.",
+      "content": "(1) In this Part, \"arbitration agreement\" means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. (2) An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement. (3) An arbitration agreement shall be in writing. (4) An arbitration agreement is in writing if it is contained in (a) a document signed by the parties; (b) an exchange of letters, telex, telegrams or other means of telecommunication 1[including communication through electronic means] which provide a record of the agreement; or (c) an exchange of statements of claim and defence in which the existence of the agreement is alleged by one party and not denied by the other. (5) The reference in a contract to a document containing an arbitration clause constitutes an arbitration agreement if the contract is in writing and the reference is such as to make that arbitration clause part of the contract.\n\n[Footnote] 1. Ins. by Act 3 of 2016, s. 3 (w. e. f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power to refer parties to arbitration where there is an arbitration agreement.",
+      "content": "1[(1) A judicial authority, before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party to the arbitration agreement or any person claiming through or under him, so applies not later than the date of submitting his first statement on the substance of the dispute, then, notwithstanding any judgment, decree or order of the Supreme Court or any Court, refer the parties to arbitration unless it finds that prima facie no valid arbitration agreement exists.] (2) The application referred to in sub-section (1) shall not be entertained unless it is accompanied by the original arbitration agreement or a duly certified copy thereof: 2[Provided that where the original arbitration agreement or a certified copy thereof is not available with the party applying for reference to arbitration under sub-section (1), and the said agreement or certified copy is retained by the other party to that agreement, then, the party so applying shall file such application along with a copy of the arbitration agreement and a petition praying the Court to call upon the other party to produce the original arbitration agreement or its duly certified copy before that Court.] (3) Notwithstanding that an application has been made under sub-section (1) and that the issue is pending before the judicial authority, an arbitration may be commenced or continued and an arbitral award made. STATE AMENDMENTS Jammu and Kashmir and Ladakh (UTs).-- Insertion of section 8A and section 8B.--After section 8, insert the following sections, namely:-- \"8A. Power of the court, seized of petitions under sections 9 or 11 of the Act, to refer the dispute to Mediation or Conciliation.--(1) If during the pendency of petitions under sections 9 or 11 of the Act, it appears to the court, that there exists elements of a settlement which may be acceptable to the parties, the court may, with the consent of parties, refer the parties, for resolution of their disputes, to,-- (a) mediation; or (b) conciliation. (2) The procedure for reference of a dispute to mediation is as under-- (a) where a dispute has been referred for resolution by recourse to mediation, the procedure framed under that Act shall apply; (b) in case of a successful resolution of the dispute, the Mediator shall immediately forward the mediated settlement to the referral court; (c) on receipt of the mediated settlement, the referral court shall independently apply its judicial mind and record a satisfaction that the mediated settlement is genuine, lawful, voluntary, entered into without coercion, undue influence, fraud or misrepresentation and that there is no other legal impediment in accepting the same; (d) the court shall record a statement on oath of the parties, or their authorised representatives, affirming the mediated settlement as well as a clear undertaking of the parties to abide by the terms of the settlement; (e) if satisfied, the court shall pass an order in terms of the settlement; (f) if the main petition, in which the reference was made is pending, it shall be disposed of by the referral court in terms thereof; (g) if the main petition, in which the reference was made stands disposed of, the mediated settlement and the matter shall be listed before the referral court, which shall pass orders in accordance with clauses (iii), (iv) and (v); (h) such a mediated settlement, shall have the same status and effect as an arbitral award and may be enforced in the manner specified under section 36 of the Act. (3) With respect to reference of a dispute to conciliation, the provisions of Part II of this Act shall apply as if the conciliation proceedings were initiated by the parties under the relevant provision of this Act. 8B. Power of the court, seized of matters under sections 34 or 37 of the Act, to refer the dispute to Mediation or Conciliation.--(1) If during the pendency of a petition under section 34 or an appeal under section 37 of the Act, it appears to the court, that there exists elements of a settlement which may be acceptable to the parties, the court may, with the consent of parties, refer the parties, for resolution of their disputes, to:-- (a) mediation; or (b) conciliation. (2) The procedure for reference of a dispute to mediation is as under:-- (a) where a dispute has been referred for resolution by recourse to mediation, the procedure framed under the Act shall apply; (b) in case of a successful resolution of the dispute, the Mediator shall immediately forward the mediated settlement to the referral court; (c) on receipt of the mediated settlement, the referral court shall independently apply its judicial mind and record a satisfaction that the mediated settlement is genuine, lawful, voluntary, entered into without coercion, undue influence, fraud or misrepresentation and that there is no other legal impediment in accepting the same; (d) the court shall record a statement on oath of the parties, or their authorized representatives, affirming the mediated settlement, a clear undertaking of the parties to abide by the terms of the settlement as well as statement to the above effect; (e) if satisfied, the court shall pass an order in terms of the settlement; (f) if the main petition, in which the reference was made is pending, it shall be disposed of by the referral court in terms thereof; (g) if the main petition, in which the reference was made stands disposed of, the mediated settlement and the matter shall be listed before the referral court, which shall pass orders in accordance with clauses (iii), (iv) and (v); (h) such a mediated settlement, shall have the status of a modified arbitral award and may be enforced in the manner specified under section 36 of the Act. (3) With respect to reference of a dispute to conciliation, the provisions of Part III of the Act, shall apply as if the conciliation proceedings were initiated by the parties under the relevant provision of this Act.\" [Vide the Jammu and Kashmir Reorganization (Adaptation of Central Laws) Order, 2020, notification No. S.O. 1123(E) dated (18-3-2020) and Vide Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, notification No. S.O. 3774(E), dated (23-10-2020).]\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 4, for sub-section (1) (w. e. f. 23-10-2015). 2. Ins. by s. 4, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Interim measures, etc., by Court.",
+      "content": "1[(1)] A party may, before or during arbitral proceedings or at any time after the making of the arbitral award but before it is enforced in accordance with section 36, apply to a court— (i) for the appointment of a guardian for a minor or person of unsound mind for the purposes of arbitral proceedings; or (ii) for an interim measure of protection in respect of any of the following matters, namely:— (a) the preservation, interim custody or sale of any goods which are the subject-matter of the arbitration agreement; (b) securing the amount in dispute in the arbitration; (c) the detention, preservation or inspection of any property or thing which is the subject-matter of the dispute in arbitration, or as to which any question may arise therein and authorising for any of the aforesaid purposes any person to enter upon any land or building in the possession of any party, or authorising any samples to be taken or any observation to be made, or experiment to be tried, which may be necessary or expedient for the purpose of obtaining full information or evidence; (d) interim injunction or the appointment of a receiver; (e) such other interim measure of protection as may appear to the Court to be just and convenient, and the Court shall have the same power for making orders as it has for the purpose of, and in relation to, any proceedings before it. 2[(2) Where, before the commencement of the arbitral proceedings, a Court passes an order for any interim measure of protection under sub-section (1), the arbitral proceedings shall be commenced within a period of ninety days from the date of such order or within such further time as the Court may determine. (3) Once the arbitral tribunal has been constituted, the Court shall not entertain an application under sub-section (1), unless the Court finds that circumstances exist which may not render the remedy provided under section 17 efficacious.]\n\n[Footnote] 1. Section 9 shall be renumbered as sub-section (1) thereof by s. 5, ibid. (w.e.f. 23-10-2015). 2. Ins. by s. 5, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Number of arbitrators.",
+      "content": "(1) The parties are free to determine the number of arbitrators, provided that such number shall not be an even number. (2) Failing the determination referred to in sub-section (1), the arbitral tribunal shall consist of a sole arbitrator."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Appointment of arbitrators.",
+      "content": "(1) A person of any nationality may be an arbitrator, unless otherwise agreed by the parties. (2) Subject to sub-section (6), the parties are free to agree on a procedure for appointing the arbitrator or arbitrators. (3) Failing any agreement referred to in sub-section (2), in an arbitration with three arbitrators, each party shall appoint one arbitrator, and the two appointed arbitrators shall appoint the third arbitrator who shall act as the presiding arbitrator. (4) If the appointment procedure in sub-section (3) applies and— (a) a party fails to appoint an arbitrator within thirty days from the receipt of a request to do so from the other party; or (b) the two appointed arbitrators fail to agree on the third arbitrator within thirty days from the date of their appointment, the appointment shall be made, upon request of a party, by 1[the Supreme Court or, as the case may be, the High Court or any person or institution designated by such Court]; (5) Failing any agreement referred to in sub-section (2), in an arbitration with a sole arbitrator, if the parties fail to agree on the arbitrator within thirty days from receipt of a request by one party from the other party to so agree the appointment shall be made, upon request of a party, by 1[the Supreme Court or, as the case may be, the High Court or any person or institution designated by such Court]. (6) Where, under an appointment procedure agreed upon by the parties,— (a) a party fails to act as required under that procedure; or (b) the parties, or the two appointed arbitrators, fail to reach an agreement expected of them under that procedure; or (c) a person, including an institution, fails to perform any function entrusted to him or it under that procedure, a party may request 1[the Supreme Court or, as the case may be, the High Court or any person or institution designated by such Court] to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment. 2[(6A) The Supreme Court or, as the case may be, the High Court, while considering any application under sub-section (4) or sub-section (5) or sub-section (6), shall, notwithstanding any judgment, decree or order of any Court, confine to the examination of the existence of an arbitration agreement. (6B) The designation of any person or institution by the Supreme Court or, as the case may be, the High Court, for the purposes of this section shall not be regarded as a delegation of judicial power by the Supreme Court or the High Court.] (7) A decision on a matter entrusted by sub-section (4) or sub-section (5) or sub-section (6) to 3[the Supreme Court or, as the case may be, the High Court or the person or institution designated by such Court is final and no appeal including Letters Patent Appeal shall lie against such decision]. 4 (8) The Supreme Court or, as the case may be, the High Court or the person or institution designated by such Court, before appointing an arbitrator, shall seek a disclosure in writing from the prospective arbitrator in terms of sub-section (1) of section 12, and have due regard to— (a) any qualifications required for the arbitrator by the agreement of the parties; and (b) the contents of the disclosure and other considerations as are likely to secure the appointment of an independent and impartial arbitrator.] (9) In the case of appointment of sole or third arbitrator in an international commercial arbitration, 5[the Supreme Court or the person or institution designated by that Court] may appoint an arbitrator of a nationality other than the nationalities of the parties where the parties belong to different nationalities. 6[(10) The Supreme Court or, as the case may be, the High Court, may make such scheme as the said Court may deem appropriate for dealing with matters entrusted by sub-section (4) or sub-section (5) or sub-section (6), to it.] (11) Where more than one request has been made under sub-section (4) or sub-section (5) or sub-section (6) to the Chief Justices of different High Courts or their designates, 7[different High Courts or their designates, the High Court or its designate to whom the request has been first made] under the relevant sub-section shall alone be competent to decide on the request. 8[(12) (a) Where the matters referred to in sub-sections (4), (5), (6), (7), (8) and sub-section (10) arise in an international commercial arbitration, the reference to the \"Supreme Court or, as the case may be, the High Court\" in those sub-sections shall be construed as a reference to the \"Supreme Court\"; and (b) Where the matters referred to in sub-sections (4), (5), (6), (7), (8) and sub-section (10) arise in any other arbitration, the reference to the Supreme Court or, as the case may be, the High Court in those sub-sections shall be construed as a reference to the \"High Court\" within whose local limits the principal Civil Court referred to in clause (e) of sub-section (1) of section 2 is situate, and where the High Court itself is the Court referred to in that clause, to that High Court.] 9[(13) An application made under this section for appointment of an arbitrator or arbitrators shall be disposed of by the Supreme Court or the High Court or the person or institution designated by such Court, as the case may be, as expeditiously as possible and an endeavour shall be made to dispose of the matter within a period of sixty days from the date of service of notice on the opposite party. (14) For the purpose of determination of the fees of the arbitral tribunal and the manner of its payment to the arbitral tribunal, the High Court may frame such rules as may be necessary, after taking into consideration the rates specified in the Fourth Schedule. Explanation.— For the removal of doubts, it is hereby clarified that this sub-section shall not apply to international commercial arbitration and in arbitrations (other than international commercial arbitration) in case where parties have agreed for determination of fees as per the rules of an arbitral institution.]\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 6, for \"the Chief Justice or any person or institution designated by him\" (w. e. f. 23-10-2015). 2. Ins. by s. 6, ibid. (w.e.f. 23-10-2015). 3. Subs. by s. 6,ibid., for \"the Chief Justice or the person or institution designated by him is final\" (w.e.f. 23-10-2015). 4. Subs. by Act 3 of 2016, s. 6, for sub-section (8) (w.e.f. 23-10-2015). 5. Subs. by s. 6, ibid., for \"the Chief Justice of India of India or the person or institution designated by him\" (w.e.f. 23-10-2015). 6. Subs. by s. 6, ibid., for sub-section (10) (w.e.f. 23-10-2015). 7. Subs. by s. 6,ibid., for \"the Chief Justices of different High Courts or their designates, the Chief Justice or his designate to whom the request has been first made\" (w.e.f 23-10-2015). 8. Subs. by s. 6, ibid., for sub-section (12) (w.e.f. 23-10-2015). 9. Ins. by s. 6, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s11A",
+      "section": "11A",
+      "title": "Power of Central Government to amend Fourth Schedule.",
+      "content": "1[11A. Power of Central Government to amend Fourth Schedule.—(1) If the Central Government Government is satisfied that it is necessary or expedient so to do, it may, by notification in the Official Gazette, amend the Fourth Schedule and thereupon the Fourth Schedule shall be deemed to have been amended accordingly. (2) A copy of every notification proposed to be issued under sub-section (1), shall be laid in draft before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in disapproving the issue of the notification or both Houses agree in making any modification in the notification, the notification shall not be issued or, as the case may be, shall be issued only in such modified form as may be agreed upon by the both Houses of Parliament.]\n\n[Footnote] 1. Ins. by s. 7, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Grounds for challenge.",
+      "content": "1[(1) When a person is approached in connection with his possible appointment as an arbitrator, he shall disclose in writing any circumstances,— (a) such as the existence either direct or indirect, of any past or present relationship with or interest in any of the parties or in relation to the subject-matter in dispute, whether financial, business, professional or other kind, which is likely to give rise to justifiable doubts as to his independence or impartiality; and (b) which are likely to affect his ability to devote sufficient time to the arbitration and in particular his ability to complete the entire arbitration within a period of twelve months. Explanation 1.—The grounds stated in the Fifth Schedule shall guide in determining whether circumstances exist which give rise to justifiable doubts as to the independence or impartiality of an arbitrator. Explanation 2.—The disclosure shall be made by such person in the form specified in the Sixth Schedule.] (3) An arbitrator may be challenged only if— (a) circumstances exist that give rise to justifiable doubts as to his independence or impartiality, or (b) he does not possess the qualifications agreed to by the parties. (4) A party may challenge an arbitrator appointed by him, or in whose appointment he has participated, only for reasons of which he becomes aware after the appointment has been made. 2[(5) Notwithstanding any prior agreement to the contrary, any person whose relationship, with the parties or counsel or the subject-matter of the dispute, falls under any of the categories specified in the Seventh Schedule shall be ineligible to be appointed as an arbitrator: Provided that parties may, subsequent to disputes having arisen between them, waive the applicability of this sub-section by an express agreement in writing.]\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 8, for sub-section (1) (w.e.f. 23-10-2015). 2. Ins. by s. 8, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Challenge procedure.",
+      "content": "(1) Subject to sub-section (4), the parties are free to agree on a procedure for challenging an arbitrator. (2) Failing any agreement referred to in sub-section (1), a party who intends to challenge an arbitrator shall, within fifteen days after becoming aware of the constitution of the arbitral tribunal or after becoming aware of any circumstances referred to in sub-section (3) of section 12, send a written statement of the reasons for the challenge to the arbitral tribunal. (3) Unless the arbitrator challenged under sub-section (2) withdraws from his office or the other party agrees to the challenge, the arbitral tribunal shall decide on the challenge. (4) If a challenge under any procedure agreed upon by the parties or under the procedure under sub-section (2) is not successful, the arbitral tribunal shall continue the arbitral proceedings and make an arbitral award. (5) Where an arbitral award is made under sub-section (4), the party challenging the arbitrator may make an application for setting aside such an arbitral award in accordance with section 34. (6) Where an arbitral award is set aside on an application made under sub-section (5), the Court may decide as to whether the arbitrator who is challenged is entitled to any fees."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Failure or impossibility to act.",
+      "content": "(1) 1[The mandate of an arbitrator shall terminate and he shall be substituted by another arbitrator, if]— (a) he becomes de jure or de facto unable to perform his functions or for other reasons fails to act without undue delay; and (b) he withdraws from his office or the parties agree to the termination of his mandate. (2) If a controversy remains concerning any of the grounds referred to in clause (a) of sub-section (1), a party may, unless otherwise agreed by the parties, apply to the Court to decide on the termination of the mandate. (3) If, under this section or sub-section (3) of section 13, an arbitrator withdraws from his office or a party agrees to the termination of the mandate of an arbitrator, it shall not imply acceptance of the validity of any ground referred to in this section or sub-section (3) of section 12.\n\n[Footnote] 1. Subs. by s. 9, ibid., for \"The mandate of an arbitrator shall terminate if\" (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Termination of mandate and substitution of arbitrator.",
+      "content": "(1) In addition to the circumstances referred to in section 13 or section 14, the mandate of an arbitrator shall terminate— (a) where he withdraws from office for any reason; or (b) by or pursuant to agreement of the parties. (2) Where the mandate of an arbitrator terminates, a substitute arbitrator shall be appointed according to the rules that were applicable to the appointment of the arbitrator being replaced. (3) Unless otherwise agreed by the parties, where an arbitrator is replaced under sub-section (2), any hearings previously held may be repeated at the discretion of the arbitral tribunal. (4) Unless otherwise agreed by the parties, an order or ruling of the arbitral tribunal made prior to the replacement of an arbitrator under this section shall not be invalid solely because there has been a change in the composition of the arbitral tribunal."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Competence of arbitral tribunal to rule on its jurisdiction.",
+      "content": "(1) The arbitral tribunal may rule on its own jurisdiction, including ruling on any objections with respect to the existence or validity of the arbitration agreement, and for that purpose,— (a) an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract; and (b) a decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause. (2) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence; however, a party shall not be precluded from raising such a plea merely because that he has appointed, or participated in the appointment of, an arbitrator. (3) A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. (4) The arbitral tribunal may, in either of the cases referred to in sub-section (2) or sub-section (3), admit a later plea if it considers the delay justified. (5) The arbitral tribunal shall decide on a plea referred to in sub-section (2) or sub-section (3) and, where the arbitral tribunal takes a decision rejecting the plea, continue with the arbitral proceedings and make an arbitral award. (6) A party aggrieved by such an arbitral award may make an application for setting aside such an arbitral award in accordance with section 34."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Interim measures ordered by arbitral tribunal.",
+      "content": "1[17. Interim measures ordered by arbitral tribunal.-- (1) A party may, during the arbitral proceedings 2***, apply to the arbitral tribunal-- (i) for the appointment of a guardian for a minor or person of unsound mind for the purposes of arbitral proceedings; or (ii) for an interim measure of protection in respect of any of the following matters, namely:-- (a) the preservation, interim custody or sale of any goods which are the subject-matter of the arbitration agreement; (b) securing the amount in dispute in the arbitration; (c) the detention, preservation or inspection of any property or thing which is the subject-matter of the dispute in arbitration, or as to which any question may arise therein and authorising for any of the aforesaid purposes any person to enter upon any land or building in the possession of any party, or authorising any samples to be taken, or any observation to be made, or experiment to be tried, which may be necessary or expedient for the purpose of obtaining full information or evidence; (d) interim injunction or the appointment of a receiver; (e) such other interim measure of protection as may appear to the arbitral tribunal to be just and convenient, and the arbitral tribunal shall have the same power for making orders, as the court has for the purpose of, and in relation to, any proceedings before it. (2) Subject to any orders passed in an appeal under section 37, any order issued by the arbitral tribunal under this section shall be deemed to be an order of the Court for all purposes and shall be enforceable under the Code of Civil Procedure, 1908 (5 of 1908), in the same manner as if it were an order of the Court.]\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 10, for section 17 (w.e.f. 23-10-2015). 2. The words and figures \"or at any time after the making of the arbitral award but before it is enforced in accordance with section 36\" omitted by Act 33 of 2019, s. 4 (w.e.f. 30-8-2019)."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Equal treatment of parties.",
+      "content": "The parties shall be treated with equality and each party shall be given a full opportunity to present his case."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Determination of rules of procedure.",
+      "content": "(1) The arbitral tribunal shall not be bound by the Code of Civil Procedure, 1908 (5 of 1908) or the Indian Evidence Act, 1872 (1 of 1872). (2) Subject to this Part, the parties are free to agree on the procedure to be followed by the arbitral tribunal in conducting its proceedings. (3) Failing any agreement referred to in sub-section (2), the arbitral tribunal may, subject to this Part, conduct the proceedings in the manner it considers appropriate. (4) The power of the arbitral tribunal under sub-section (3) includes the power to determine the admissibility, relevance, materiality and weight of any evidence."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Place of arbitration.",
+      "content": "(1) The parties are free to agree on the place of arbitration. (2) Failing any agreement referred to in sub-section (1), the place of arbitration shall be determined by the arbitral tribunal having regard to the circumstances of the case, including the convenience of the parties. (3) Notwithstanding sub-section (1) or sub-section (2), the arbitral tribunal may, unless otherwise agreed by the parties, meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or the parties, or for inspection of documents, goods or other property."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Commencement of arbitral proceedings.",
+      "content": "Unless otherwise agreed by the parties, the arbitral proceedings in respect of a particular dispute commence on the date on which a request for that dispute to be referred to arbitration is received by the respondent."
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Language.",
+      "content": "(1) The parties are free to agree upon the language or languages to be used in the arbitral proceedings. (2) Failing any agreement referred to in sub-section (1), the arbitral tribunal shall determine the language or languages to be used in the arbitral proceedings. (3) The agreement or determination, unless otherwise specified, shall apply to any written statement by a party, any hearing and any arbitral award, decision or other communication by the arbitral tribunal. (4) The arbitral tribunal may order that any documentary evidence shall be accompanied by a translation into the language or languages agreed upon by the parties or determined by the arbitral tribunal."
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Statements of claim and defence.",
+      "content": "(1) Within the period of time agreed upon by the parties or determined by the arbitral tribunal, the claimant shall state the facts supporting his claim, the points at issue and the relief or remedy sought, and the respondent shall state his defence in respect of these particulars, unless the parties have otherwise agreed as to the required elements of those statements. (2) The parties may submit with their statements all documents they consider to be relevant or may add a reference to the documents or other evidence they will submit. 1[(2A) The respondent, in support of his case, may also submit a counterclaim or plead a set-off, which shall be adjudicated upon by the arbitral tribunal, if such counterclaim or set-off falls within the scope of the arbitration agreement.] (3) Unless otherwise agreed by the parties, either party may amend or supplement his claim or defence during the course of the arbitral proceedings, unless the arbitral tribunal considers it inappropriate to allow the amendment or supplement having regard to the delay in making it. 2[(4) The statement of claim and defence under this section shall be completed within a period of six months from the date the arbitrator or all the arbitrators, as the case may be, received notice, in writing of their appointment.]\n\n[Footnote] 1. Ins. by Act 3 of 2016, s. 11 (w.e.f. 23-10-2015). 2. Ins. by Act 33 of 2019, s. 5 (w.e.f. 30-8-2019)."
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Hearings and written proceedings.",
+      "content": "(1) Unless otherwise agreed by the parties, the arbitral tribunal shall decide whether to hold oral hearings for the presentation of evidence or for oral argument, or whether the proceedings shall be conducted on the basis of documents and other materials: Provided that the arbitral tribunal shall hold oral hearings, at an appropriate stage of the proceedings, on a request by a party, unless the parties have agreed that no oral hearing shall be held: 1[Provided further that the arbitral tribunal shall, as far as possible, hold oral hearings for the presentation of evidence or for oral argument on day-to-day basis, and not grant any adjournments unless sufficient cause is made out, and may impose costs including exemplary costs on the party seeking adjournment without any sufficient cause.] (2) The parties shall be given sufficient advance notice of any hearing and of any meeting of the arbitral tribunal for the purposes of inspection of documents, goods or other property. (3) All statements, documents or other information supplied to, or applications made to the arbitral tribunal by one party shall be communicated to the other party, and any expert report or evidentiary document on which the arbitral tribunal may rely in making its decision shall be communicated to the parties.\n\n[Footnote] 1. Ins. by s. 12, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Default of a party.",
+      "content": "Unless otherwise agreed by the parties, where, without showing sufficient cause,— (a) the claimant fails to communicate his statement of claim in accordance with sub-section (1) of section 23, the arbitral tribunal shall terminate the proceedings; (b) the respondent fails to communicate his statement of defence in accordance with sub-section (1) of section 23, the arbitral tribunal shall continue the proceedings without treating that failure in itself as an admission of the allegations by the claimant 1[and shall have the discretion to treat the right of the respondent to file such statement of defence as having been forfeited]. (c) a party fails to appear at an oral hearing or to produce documentary evidence, the arbitral tribunal may continue the proceedings and make the arbitral award on the evidence before it.\n\n[Footnote] 1. Ins. by s. 13, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Expert appointed by arbitral tribunal.",
+      "content": "(1) Unless otherwise agreed by the parties, the arbitral tribunal may— (a) appoint one or more experts to report to it on specific issues to be determined by the arbitral tribunal, and (b) require a party to give the expert any relevant information or to produce, or to provide access to, any relevant documents, goods or other property for his inspection. (2) Unless otherwise agreed by the parties, if a party so requests or if the arbitral tribunal considers it necessary, the expert shall, after delivery of his written or oral report, participate in an oral hearing where the parties have the opportunity to put questions to him and to present expert witnesses in order to testify on the points at issue. (3) Unless otherwise agreed by the parties, the expert shall, on the request of a party, make available to that party for examination all documents, goods or other property in the possession of the expert with which he was provided in order to prepare his report."
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Court assistance in taking evidence.",
+      "content": "(1) The arbitral tribunal, or a party with the approval of the arbitral tribunal, may apply to the Court for assistance in taking evidence. (2) The application shall specify— (a) the names and addresses of the parties and the arbitrators; (b) the general nature of the claim and the relief sought; (c) the evidence to be obtained, in particular,— (i) the name and address of any person to be heard as witness or expert witness and a statement of the subject-matter of the testimony required; (ii) the description of any document to be produced or property to be inspected. (3) The Court may, within its competence and according to its rules on taking evidence, execute the request by ordering that the evidence be provided directly to the arbitral tribunal. (4) The Court may, while making an order under sub-section (3), issue the same processes to witnesses as it may issue in suits tried before it. (5) Persons failing to attend in accordance with such process, or making any other default, or refusing to give their evidence, or guilty of any contempt to the arbitral tribunal during the conduct of arbitral proceedings, shall be subject to the like disadvantages, penalties and punishments by order of the Court on the representation of the arbitral tribunal as they would incur for the like offences in suits tried before the Court. (6) In this section the expression \"Processes\" includes summonses and commissions for the examination of witnesses and summonses to produce documents."
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Rules applicable to substance of dispute.",
+      "content": "(1) Where the place of arbitration is situate in India,— (a) in an arbitration other than an international commercial arbitration, the arbitral tribunal shall decide the dispute submitted to arbitration in accordance with the substantive law for the time being in force in India; (b) in international commercial arbitration,— (i) the arbitral tribunal shall decide the dispute in accordance with the rules of law designated by the parties as applicable to the substance of the dispute; (ii) any designation by the parties of the law or legal system of a given country shall be construed, unless otherwise expressed, as directly referring to the substantive law of that country and not to its conflict of laws rules; (iii) failing any designation of the law under clause (a) by the parties, the arbitral tribunal shall apply the rules of law it considers to be appropriate given all the circumstances surrounding the dispute. (2) The arbitral tribunal shall decide ex aequo et bono or as amiable compositeur only if the parties have expressly authorised it to do so. 1[(3) While deciding and making an award, the arbitral tribunal shall, in all cases, take into account the terms of the contract and trade usages applicable to the transaction.]\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 14, for sub-section (3) (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Decision making by panel of arbitrators.",
+      "content": "(1) Unless otherwise agreed by the parties, in arbitral proceedings with more than one arbitrator, any decision of the arbitral tribunal shall be made by a majority of all its members. (2) Notwithstanding sub-section (1), if authorised by the parties or all the members of the arbitral tribunal, questions of procedure may be decided by the presiding arbitrator."
+    },
+    {
+      "provision_ref": "s29A",
+      "section": "29A",
+      "title": "Time limit for arbitral award.",
+      "content": "1[29A.Time limit for arbitral award.--2[(1) The award in matters other than international commercial arbitration shall be made by the arbitral tribunal within a period of twelve months from the date of completion of pleadings under sub-section (4) of section 23: Provided that the award in the matter of international commercial arbitration may be made as expeditiously as possible and endeavor may be made to dispose of the matter within a period of twelve months from the date of completion of pleadings under sub-section (4) of section 23.] (2) If the award is made within a period of six months from the date the arbitral tribunal enters upon the reference, the arbitral tribunal shall be entitled to receive such amount of additional fees as the parties may agree. (3) The parties may, by consent, extend the period specified in sub-section (1) for making award for a further period not exceeding six months. (4) If the award is not made within the period specified in sub-section (1) or the extended period specified under sub-section (3), the mandate of the arbitrator(s) shall terminate unless the Court has, either prior to or after the expiry of the period so specified, extended the period: Provided that while extending the period under this sub-section, if the Court finds that the proceedings have been delayed for the reasons attributable to the arbitral tribunal, then, it may order reduction of fees of arbitrator(s) by not exceeding five per cent. for each month of such delay. 3[Provided further that where an application under sub-section (5) is pending, the mandate of the arbitrator shall continue till the disposal of the said application: Provided also that the arbitrator shall be given an opportunity of being heard before the fees is reduced.] (5) The extension of period referred to in sub-section (4) may be on the application of any of the parties and may be granted only for sufficient cause and on such terms and conditions as may be imposed by the Court. (6) While extending the period referred to in sub-section (4), it shall be open to the Court to substitute one or all of the arbitrators and if one or all of the arbitrators are substituted, the arbitral proceedings shall continue from the stage already reached and on the basis of the evidence and material already on record, and the arbitrator(s) appointed under this section shall be deemed to have received the said evidence and material. (7) In the event of arbitrator(s) being appointed under this section, the arbitral tribunal thus reconstituted shall be deemed to be in continuation of the previously appointed arbitral tribunal. (8) It shall be open to the Court to impose actual or exemplary costs upon any of the parties under this section. (9) An application filed under sub-section (5) shall be disposed of by the Court as expeditiously as possible and endeavour shall be made to dispose of the matter within a period of sixty days from the date of service of notice on the opposite party. STATE AMENDMENTS Jammu and Kashmir and Ladakh (UTs).-- Amendment of sections 29A.-- (a) for sub-section (1), the following sub-section shall be substituted, namely:-- \"(1) The award shall be made within a period of twelve months from the date the arbitral tribunal enters upon the reference. Explanation.--For the purposes of this sub-section, an arbitral tribunal shall be deemed to have entered upon the reference on the date on which the arbitrator or all the arbitrators, as the case may be, have received notice, in writing, of their appointment.\"; (b) in sub-section (4), omit second and third provisos. [Vide the Jammu and Kashmir Reorganization (Adaptation of Central Laws) Order, 2020, notification No. S.O. 1123(E) dated (18-3-2020) and Vide Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, notification No. S.O. 3774(E), dated (23-10-2020).]\n\n[Footnote] 1. Ins. by Act 3 of 2016, s. 15 (w.e.f. 23-10-2015). 2. Subs. by Act 33 of 2019, s. 6, for sub-section (1) (w.e.f. 30-8-2019). 3. Ins. by s. 6, ibid. (w.e.f. 30-8-2019)."
+    },
+    {
+      "provision_ref": "s29B",
+      "section": "29B",
+      "title": "Fast track procedure.",
+      "content": "1[29B. Fast track procedure.-- (1) Notwithstanding anything contained in this Act, the parties to an arbitration agreement, may, at any stage either before or at the time of appointment of the arbitral tribunal, agree in writing to have their dispute resolved by fast track procedure specified in sub-section (3). (2) The parties to the arbitration agreement, while agreeing for resolution of dispute by fast track procedure, may agree that the arbitral tribunal shall consist of a sole arbitrator who shall be chosen by the parties. (3) The arbitral tribunal shall follow the following procedure while conducting arbitration proceedings under sub-section (1):-- (a) The arbitral tribunal shall decide the dispute on the basis of written pleadings, documents and submissions filed by the parties without any oral hearing; (b) The arbitral tribunal shall have power to call for any further information or clarification from the parties in addition to the pleadings and documents filed by them; (c) An oral hearing may be held only, if, all the parties make a request or if the arbitral tribunal considers it necessary to have oral hearing for clarifying certain issues; (d) The arbitral tribunal may dispense with any technical formalities, if an oral hearing is held, and adopt such procedure as deemed appropriate for expeditious disposal of the case. (4) The award under this section shall be made within a period of six months from the date the arbitral tribunal enters upon the reference. (5) If the award is not made within the period specified in sub-section (4), the provisions of sub-sections (3) to (9) of section 29A shall apply to the proceedings. (6) The fees payable to the arbitrator and the manner of payment of the fees shall be such as may be agreed between the arbitrator and the parties.]\n\n[Footnote] 1. Ins. by s. 15, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Settlement.",
+      "content": "(1) It is not incompatible with an arbitration agreement for an arbitral tribunal to encourage settlement of the dispute and, with the agreement of the parties, the arbitral tribunal may use mediation, conciliation or other procedures at any time during the arbitral proceedings to encourage settlement. (2) If, during arbitral proceedings, the parties settle the dispute, the arbitral tribunal shall terminate the proceedings and, if requested by the parties and not objected to by the arbitral tribunal, record the settlement in the form of an arbitral award on agreed terms. (3) An arbitral award on agreed terms shall be made in accordance with section 31 and shall state that it is an arbitral award. (4) An arbitral award on agreed terms shall have the same status and effect as any other arbitral award on the substance of the dispute."
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Form and contents of arbitral award.",
+      "content": "(1) An arbitral award shall be made in writing and shall be signed by the members of the arbitral tribunal. (2) For the purposes of sub-section (1), in arbitral proceedings with more than one arbitrator, the signatures of the majority of all the members of the arbitral tribunal shall be sufficient so long as the reason for any omitted signature is stated. (3) The arbitral award shall state the reasons upon which it is based, unless— (a) the parties have agreed that no reasons are to be given, or (b) the award is an arbitral award on agreed terms under section 30. (4) The arbitral award shall state its date and the place of arbitration as determined in accordance with section 20 and the award shall be deemed to have been made at that place. (5) After the arbitral award is made, a signed copy shall be delivered to each party. (6) The arbitral tribunal may, at any time during the arbitral proceedings, make an interim arbitral award on any matter with respect to which it may make a final arbitral award. (7) (a) Unless otherwise agreed by the parties, where and in so far as an arbitral award is for the payment of money, the arbitral tribunal may include in the sum for which the award is made interest, at such rate as it deems reasonable, on the whole or any part of the money, for the whole or any part of the period between the date on which the cause of action arose and the date on which the award is made. 1[(b) A sum directed to be paid by an arbitral award shall, unless the award otherwise directs, carry interest at the rate of two per cent. higher than the current rate of interest prevalent on the date of award, from the date of award to the date of payment. Explanation.—The expression \"current rate of interest\" shall have the same meaning as assigned to it under clause (b) of section 2 of the Interest Act, 1978 (14 of 1978).] 2[(8) The costs of an arbitration shall be fixed by the arbitral tribunal in accordance with section 31A.] Explanation.—For the purpose of clause (a), \"costs\" means reasonable costs relating to— (i) the fees and expenses of the arbitrators and witnesses, (ii) legal fees and expenses, (iii) any administration fees of the institution supervising the arbitration, and (iv) any other expenses incurred in connection with the arbitral proceedings and the arbitral award.\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 16, for clause (b) (w.e.f. 23-10-2015). 2. Subs. by s. 16, ibid., for sub-section (8) (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s31A",
+      "section": "31A",
+      "title": "Regime for costs.",
+      "content": "1[31A. Regime for costs.-- (1) In relation to any arbitration proceeding or a proceeding under any of the provisions of this Act pertaining to the arbitration, the Court or arbitral tribunal, notwithstanding anything contained in the Code of Civil Procedure, 1908 (5 of 1908), shall have the discretion to determine-- (a) whether costs are payable by one party to another; (b) the amount of such costs; and (c) when such costs are to be paid. Explanation.--For the purpose of this sub-section, \"costs\" means reasonable costs relating to-- (i) the fees and expenses of the arbitrators, Courts and witnesses; (ii) legal fees and expenses; (iii) any administration fees of the institution supervising the arbitration; and (iv) any other expenses incurred in connection with the arbitral or Court proceedings and the arbitral award. (2) If the Court or arbitral tribunal decides to make an order as to payment of costs, (a) the general rule is that the unsuccessful party shall be ordered to pay the costs of the successful party; or (b) the Court or arbitral tribunal may make a different order for reasons to be recorded in writing. (3) In determining the costs, the Court or arbitral tribunal shall have regard to all the circumstances, including-- (a) the conduct of all the parties; (b) whether a party has succeeded partly in the case; (c) whether the party had made a frivolous counterclaim leading to delay in the disposal of the arbitral proceedings; and (d) whether any reasonable offer to settle the dispute is made by a party and refused by the other party. (4) The Court or arbitral tribunal may make any order under this section including the order that a party shall pay-- (a) a proportion of another party's costs; (b) a stated amount in respect of another party's costs; (c) costs from or until a certain date only; (d) costs incurred before proceedings have begun; (e) costs relating to particular steps taken in the proceedings; (f ) costs relating only to a distinct part of the proceedings; and (g) interest on costs from or until a certain date. (5) An agreement which has the effect that a party is to pay the whole or part of the costs of the arbitration in any event shall be only valid if such agreement is made after the dispute in question has arisen.]\n\n[Footnote] 1. Ins. by s.17, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Termination of proceedings.",
+      "content": "(1) The arbitral proceedings shall be terminated by the final arbitral award or by an order of the arbitral tribunal under sub-section (2). (2) The arbitral tribunal shall issue an order for the termination of the arbitral proceedings where— (a) the claimant withdraws his claim, unless the respondent objects to the order and the arbitral tribunal recognises a legitimate interest on his part in obtaining a final settlement of the dispute, (b) the parties agree on the termination of the proceedings, or (c) the arbitral tribunal finds that the continuation of the proceedings has for any other reason become unnecessary or impossible. (3) Subject to section 33 and sub-section (4) of section 34, the mandate of the arbitral tribunal shall terminate with the termination of the arbitral proceedings."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Correction and interpretation of award; additional award.",
+      "content": "(1) Within thirty days from the receipt of the arbitral award, unless another period of time has been agreed upon by the parties— (a) a party, with notice to the other party, may request the arbitral tribunal to correct any computation errors, any clerical or typographical errors or any other errors of a similar nature occurring in the award; (b) if so agreed by the parties, a party, with notice to the other party, may request the arbitral tribunal to give an interpretation of a specific point or part of the award. (2) If the arbitral tribunal considers the request made under sub-section (1) to be justified, it shall make the correction or give the interpretation within thirty days from the receipt of the request and the interpretation shall form part of the arbitral award. (3) The arbitral tribunal may correct any error of the type referred to in clause (a) of sub-section (1), on its own initiative, within thirty days from the date of the arbitral award. (4) Unless otherwise agreed by the parties, a party with notice to the other party, may request, within thirty days from the receipt of the arbitral award, the arbitral tribunal to make an additional arbitral award as to claims presented in the arbitral proceedings but omitted from the arbitral award. (5) If the arbitral tribunal considers the request made under sub-section (4) to be justified, it shall make the additional arbitral award within sixty days from the receipt of such request. (6) The arbitral tribunal may extend, if necessary, the period of time within which it shall make a correction, give an interpretation or make an additional arbitral award under sub-section (2) or sub-section (5). (7) Section 31 shall apply to a correction or interpretation of the arbitral award or to an additional arbitral award made under this section."
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Application for setting aside arbitral awards.",
+      "content": "(1) Recourse to a Court against an arbitral award may be made only by an application for setting aside such award in accordance with sub-section (2) and sub-section (3). (2) An arbitral award may be set aside by the Court only if-- (a) the party making the application 1[establishes on the basis of the record of the arbitral tribunal that]-- (i) a party was under some incapacity, or (ii) the arbitration agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law for the time being in force; or (iii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or (iv) the arbitral award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration: Provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the arbitral award which contains decisions on matters not submitted to arbitration may be set aside; or (v) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Part from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Part; or (b) the Court finds that-- (i) the subject-matter of the dispute is not capable of settlement by arbitration under the law for the time being in force, or (ii) the arbitral award is in conflict with the public policy of India. 1[Explanation 1.--For the avoidance of any doubt, it is clarified that an award is in conflict with the public policy of India, only if,-- (i) the making of the award was induced or affected by fraud or corruption or was in violation of section 75 or section 81; or (ii) it is in contravention with the fundamental policy of Indian law; or (iii) it is in conflict with the most basic notions of morality or justice. Explanation 2.--For the avoidance of doubt, the test as to whether there is a contravention with the fundamental policy of Indian law shall not entail a review on the merits of the dispute.] 2[(2A) An arbitral award arising out of arbitrations other than international commercial arbitrations, may also be set aside by the Court, if the Court finds that the award is vitiated by patent illegality appearing on the face of the award: Provided that an award shall not be set aside merely on the ground of an erroneous application of the law or by reappreciation of evidence.] (3) An application for setting aside may not be made after three months have elapsed from the date on which the party making that application had received the arbitral award or, if a request had been made under section 33, from the date on which that request had been disposed of by the arbitral tribunal: Provided that if the Court is satisfied that the applicant was prevented by sufficient cause from making the application within the said period of three months it may entertain the application within a further period of thirty days, but not thereafter. (4) On receipt of an application under sub-section (1), the Court may, where it is appropriate and it is so requested by a party, adjourn the proceedings for a period of time determined by it in order to give the arbitral tribunal an opportunity to resume the arbitral proceedings or to take such other action as in the opinion of arbitral tribunal will eliminate the grounds for setting aside the arbitral award. 3[(5) An application under this section shall be filed by a party only after issuing a prior notice to the other party and such application shall be accompanied by an affidavit by the applicant endorsing compliance with the said requirement. (6) An application under this section shall be disposed of expeditiously, and in any event, within a period of one year from the date on which the notice referred to in sub-section (5) is served upon the other party.] STATE AMENDMENTS Jammu and Kashmir and Ladakh (UTs).-- Amendment of section 34.-- (i) after sub-section (2), insert the following sub-section, namely:-- \"(2A) An arbitral award may also be set aside by the Court, if the Court finds that the award is vitiated by patent illegality appearing on the face of the award: Provided that an award shall not be set aside merely on the ground of an erroneous application of the law or by re-appreciation of evidence.\"; (ii) in sub-section (3),-- (i) for \"three months\" substitute, \"six months\"; (ii) in proviso thereto, for, \"three months\" and \"thirty days\" substitute respectively \"six months\" and \"sixty days\". [Vide the Jammu and Kashmir Reorganization (Adaptation of Central Laws) Order, 2020, notification No. S.O. 1123(E) dated (18-3-2020) and Vide Union Territory of Ladakh Reorganisation (Adaptation of Central Laws) Order, 2020, notification No. S.O. 3774(E), dated (23-10-2020).]\n\n[Footnote] 1. Subs. by Act 33 of 2019, s. 7, for \"furnishes proof that\" (w.e.f. 30-8-2019). 2. Subs. by Act 3 of 2016, s. 18, for the Explanation(w.e.f. 23-10-2015). 3. Ins. by s. 18, ibid. (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Finality of arbitral awards.",
+      "content": "Subject to this Part an arbitral award shall be final and binding on the parties and persons claiming under them respectively."
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Enforcement.",
+      "content": "1[36. Enforcement--(1) Where the time for making an application to set aside the arbitral award under section 34 has expired, then, subject to the provisions of sub-section (2), such award shall be enforced in accordance with the provisions of the Code of Civil Procedure, 1908 (5 of 1908), in the same manner as if it were a decree of the court. (2) Where an application to set aside the arbitral award has been filed in the Court under section 34, the filing of such an application shall not by itself render that award unenforceable, unless the Court grants an order of stay of the operation of the said arbitral award in accordance with the provisions of sub-section (3), on a separate application made for that purpose. (3) Upon filing of an application under sub-section (2) for stay of the operation of the arbitral award, the Court may, subject to such conditions as it may deem fit, grant stay of the operation of such award for reasons to be recorded in writing: Provided that the Court shall, while considering the application for grant of stay in the case of an arbitral award for payment of money, have due regard to the provisions for grant of stay of a money decree under the provisions of the Code of Civil Procedure, 1908 (5 of 1908).] 2[Provided further that where the Court is satisfied that a Prima facie case is made out that,-- (a) the arbitration agreement or contract which is the basis of the award; or (b) the making of the award, was induced or effected by fraud or corruption, it shall stay the award unconditionally pending disposal of the challenge under section 34 to the award. Explanation.--For the removal of doubts, it is hereby clarified that the above proviso shall apply to all court cases arising out of or in relation to arbitral proceedings, irrespective of whether the arbitral or court proceedings were commenced prior to or after the commencement of the Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016).]\n\n[Footnote] 1. Subs. by s. 19, ibid., for section 36 (w.e.f. 23-10-2015). 2. Ins. by Act 3 of 2021, s. 2 (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Appealable orders.",
+      "content": "(1) 1[Notwithstanding anything contained in any other law for the time being in force, an appeal] shall lie from the following orders (and from no others) to the Court authorised by law to hear appeals from original decrees of the Court passing the order, namely:-- 2[(a) refusing to refer the parties to arbitration under section 8; (b) granting or refusing to grant any measure under section 9; (c) setting aside or refusing to set aside an arbitral award under section 34.] (2) Appeal shall also lie to a court from an order of the arbitral tribunal-- (a) accepting the plea referred to in sub-section (2) or sub-section (3) of section 16; or (b) granting or refusing to grant an interim measure under section 17. (3) No second appeal shall lie from an order passed in appeal under this section, but nothing in this section shall affect or take away any right to appeal to the Supreme Court.\n\n[Footnote] 1. Subs. by Act 33 of 2019, s. 8, for \"An appeal\" (w.e.f. 30-8-2019). 2. Subs. by Act 3 of 2016, s. 20, for clauses (a) and (b) (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Deposits.",
+      "content": "(1) The arbitral tribunal may fix the amount of the deposit or supplementary deposit, as the case may be, as an advance for the costs referred to in sub-section (8) of section 31, which it expects will be incurred in respect of the claim submitted to it: Provided that where, apart from the claim, a counter-claim has been submitted to the arbitral tribunal, it may fix separate amount of deposit for the claim and counter-claim. (2) The deposit referred to in sub-section (1) shall be payable in equal shares by the parties: Provided that where one party fails to pay his share of the deposit, the other party may pay that share: Provided further that where the other party also does not pay the aforesaid share in respect of the claim or the counter-claim, the arbitral tribunal may suspend or terminate the arbitral proceedings in respect of such claim or counter-claim, as the case may be. (3) Upon termination of the arbitral proceedings, the arbitral tribunal shall render an accounting to the parties of the deposits received and shall return any unexpended balance to the party or parties, as the case may be."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Lien on arbitral award and deposits as to costs.",
+      "content": "(1) Subject to the provisions of sub-section (2) and to any provision to the contrary in the arbitration agreement, the arbitral tribunal shall have a lien on the arbitral award for any unpaid costs of the arbitration. (2) If in any case an arbitral tribunal refuses to deliver its award except on payment of the costs demanded by it, the Court may, on an application in this behalf, order that the arbitral tribunal shall deliver the arbitral award to the applicant on payment into Court by the applicant of the costs demanded, and shall, after such inquiry, if any, as it thinks fit, further order that out of the money so paid into Court there shall be paid to the arbitral tribunal by way of costs such sum as the Court may consider reasonable and that the balance of the money, if any, shall be refunded to the applicant. (3) An application under sub-section (2) may be made by any party unless the fees demanded have been fixed by written agreement between him and the arbitral tribunal, and the arbitral tribunal shall be entitled to appear and be heard on any such application. (4) The Court may make such orders as it thinks fit respecting the costs of the arbitration where any question arises respecting such costs and the arbitral award contains no sufficient provision concerning them."
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Arbitration agreement not to be discharged by death of party thereto.",
+      "content": "(1) An arbitration agreement shall not be discharged by the death of any party thereto either as respects the deceased or as respects any other party, but shall in such event be enforceable by or against the legal representative of the deceased. (2) The mandate of an arbitrator shall not be terminated by the death of any party by whom he was appointed. (3) Nothing in this section shall affect the operation of any law by virtue of which any right of action is extinguished by the death of a person."
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Provisions in case of insolvency.",
+      "content": "(1) Where it is provided by a term in a contract to which an insolvent is a party that any dispute arising thereout or in connection therewith shall be submitted to arbitration, the said term shall, if the receiver adopts the contract, be enforceable by or against him so far as it relates to any such dispute. (2) Where a person who has been adjudged an insolvent had, before the commencement of the insolvency proceedings, become a party to an arbitration agreement, and any matter to which the agreement applies is required to be determined in connection with, or for the purposes of, the insolvency proceedings, then, if the case is one to which sub-section (1) does not apply, any other party or the receiver may apply to the judicial authority having jurisdiction in the insolvency proceedings for an order directing that the matter in question shall be submitted to arbitration in accordance with the arbitration agreement, and the judicial authority may, if it is of opinion that, having regard to all the circumstances of the case, the matter ought to be determined by arbitration, make an order accordingly. (3) In this section the expression \"receiver\" includes an Official Assignee."
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Jurisdiction.",
+      "content": "Notwithstanding anything contained elsewhere in this Part or in any other law for the time being in force, where with respect to an arbitration agreement any application under this Part has been made in a Court, that Court alone shall have jurisdiction over the arbitral proceedings and all sequent applications arising out of that agreement and the arbitral proceedings shall be made in that Court and in no other Court."
+    },
+    {
+      "provision_ref": "s42A",
+      "section": "42A",
+      "title": "Confidentiality of information.",
+      "content": "1[42A. Confidentiality of information.-- Notwithstanding anything contained by any other law for the time being in force, the arbitrator, the arbitral institution and the parties to the arbitration agreement shall maintain confidentially of all arbitral proceedings except award where its disclosure is necessary for the purpose of implementation and enforcement of award.]\n\n[Footnote] 1. Ins. by Act 33 of 2019, s. 9 (w.e.f. 30-8-2019)."
+    },
+    {
+      "provision_ref": "s42B",
+      "section": "42B",
+      "title": "Protection of action taken in good faith.",
+      "content": "1[42B. Protection of action taken in good faith.-- No suit or other legal proceedings shall lie against the arbitrator for anything which is in good faith done or intended to be done under this Act or the rules or regulations made thereunder.]\n\n[Footnote] 1. Ins. by Act 33 of 2019, s. 9 (w.e.f. 30-8-2019)."
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Limitations.",
+      "content": "(1) The Limitation Act, 1963 (36 of 1963), shall apply to arbitrations as it applies to proceedings in court. (2) For the purposes of this section and the Limitation Act, 1963 (36 of 1963), an arbitration shall be deemed to have commenced on the date referred to in section 21. (3) Where an arbitration agreement to submit future disputes to arbitration provides that any claim to which the agreement applies shall be barred unless some step to commence arbitral proceedings is taken within a time fixed by the agreement, and a dispute arises to which the agreement applies, the Court, if it is of opinion that in the circumstances of the case undue hardship would otherwise be caused, and notwithstanding that the time so fixed has expired, may on such terms, if any, as the justice of the case may require, extend the time for such period as it thinks proper. (4) Where the Court orders that an arbitral award be set aside, the period between the commencement of the arbitration and the date of the order of the Court shall be excluded in computing the time prescribed by the Limitation Act, 1963 (36 of 1963), for the commencement of the proceedings (including arbitration) with respect to the dispute so submitted."
+    },
+    {
+      "provision_ref": "s43A",
+      "section": "43A",
+      "title": "Definitions.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43B",
+      "section": "43B",
+      "title": "Establishment and incorporation of Arbitration Council of India.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43C",
+      "section": "43C",
+      "title": "Composition of Council.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43D",
+      "section": "43D",
+      "title": "Duties and functions of Council.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43E",
+      "section": "43E",
+      "title": "Vacancies, etc., not to invalidate proceedings of Council.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43F",
+      "section": "43F",
+      "title": "Resignation of Members.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43G",
+      "section": "43G",
+      "title": "Removal of Member.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43H",
+      "section": "43H",
+      "title": "Appointment of experts and constitution of Committees thereof.57",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "-I. General norms for grading of arbitral institutions.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43J",
+      "section": "43J",
+      "title": "Norms for accreditation of arbitrators.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43K",
+      "section": "43K",
+      "title": "Depository of awards.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43L",
+      "section": "43L",
+      "title": "Power to make regulations by Council.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s43M",
+      "section": "43M",
+      "title": "Chief Executive Officer.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Definition.",
+      "content": "In this Chapter, unless the context otherwise requires, \"foreign award\" means an arbitral award on differences between persons arising out of legal relationships, whether contractual or not, considered as commercial under the law in force in India, made on or after the 11th day of October, 1960— (a) in pursuance of an agreement in writing for arbitration to which the Convention set forth in the First Schedule applies, and (b) in one of such territories as the Central Government, being satisfied that reciprocal provisions have been made may, by notification in the Official Gazette, declare to be territories to which the said Convention applies."
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Power of judicial authority to refer parties to arbitration.",
+      "content": "Notwithstanding anything contained in Part I or in the Code of Civil Procedure, 1908 (5 of 1908), a judicial authority, when seized of an action in a matter in respect of which the parties have made an agreement referred to in section 44, shall, at the request of one of the parties or any person claiming through or under him, refer the parties to arbitration, 1[unless it prima facie finds] that the said agreement is null and void, inoperative or incapable of being performed.\n\n[Footnote] 1. Subs. by Act 33 of 2019, s. 11, for \"unless it finds\" (w.e.f. 30-8-2019)."
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "When foreign award binding.",
+      "content": "Any foreign award which would be enforceable under this Chapter shall be treated as binding for all purposes on the persons as between whom it was made, and may accordingly be relied on by any of those persons by way of defence, set off or otherwise in any legal proceedings in India and any references in this Chapter to enforcing a foreign award shall be construed as including references to relying on an award."
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Evidence.",
+      "content": "(1) The party applying for the enforcement of a foreign award shall, at the time of the application, produce before the court— (a) the original award or a copy thereof, duly authenticated in the manner required by the law of the country in which it was made; (b) the original agreement for arbitration or a duly certified copy thereof; and (c) such evidence as may be necessary to prove that the award is a foreign award. (2) If the award or agreement to be produced under sub-section (1) is in a foreign language, the party seeking to enforce the award shall produce a translation into English certified as correct by a diplomatic or consular agent of the country to which that party belongs or certified as correct in such other manner as may be sufficient according to the law in force in India. 1[Explanation.—In this section and in the sections following in this Chapter, \"Court\" means the High Court having original jurisdiction to decide the questions forming the subject-matter of the arbitral award if the same had been the subject-matter of a suit on its original civil jurisdiction and in other cases, in the High Court having jurisdiction to hear appeals from decrees of courts subordinate to such High Court.]\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 21, for the Explanation (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Conditions for enforcement of foreign awards.",
+      "content": "(1) Enforcement of a foreign award may be refused, at the request of the party against whom it is invoked, only if that party furnishes to the court proof that— (a) the parties to the agreement referred to in section 44 were, under the law applicable to them, under some incapacity, or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the award was made; or (b) the party against whom the award is invoked was not given proper notice of the appointment of the arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or (c) the award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration: Provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be enforced; or (d) the composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or, failing such agreement, was not in accordance with the law of the country where the arbitration took place ; or (e) the award has not yet become binding on the parties, or has been set aside or suspended by a competent authority of the country in which, or under the law of which, that award was made. (2) Enforcement of an arbitral award may also be refused if the Court finds that— (a) the subject-matter of the difference is not capable of settlement by arbitration under the law of India; or (b) the enforcement of the award would be contrary to the public policy of India. 1[Explanation 1.—For the avoidance of any doubt, it is clarified that an award is in conflict with the public policy of India, only if,— (i) the making of the award was induced or affected by fraud or corruption or was in violation of section 75 or section 81; or (ii) it is in contravention with the fundamental policy of Indian law; or (iii) it is in conflict with the most basic notions of morality or justice. Explanation 2.—For the avoidance of doubt, the test as to whether there is a contravention with the fundamental policy of Indian law shall not entail a review on the merits of the dispute.] (3) If an application for the setting aside or suspension of the award has been made to a competent authority referred to in clause (e) of sub-section (1) the Court may, if it considers it proper, adjourn the decision on the enforcement of the award and may also, on the application of the party claiming enforcement of the award, order the other party to give suitable security.\n\n[Footnote] 1. Subs. by s. 22, ibid., for the Explanation (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "Enforcement of foreign awards.",
+      "content": "Where the Court is satisfied that the foreign award is enforceable under this Chapter, the award shall be deemed to be a decree of that Court."
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Appealable orders.",
+      "content": "(1) 1[Notwithstanding anything contained in any other law for the time being in force, an appeal] shall lie from the order refusing to-- (a) refer the parties to arbitration under section 45; (b) enforce a foreign award under section 48, to the court authorised by law to hear appeals from such order. (2) No second appeal shall lie from an order passed in appeal under this section, but nothing in this section shall affect or take away any right to appeal to the Supreme Court.\n\n[Footnote] 1. Subs. by Act 33 of 2019, s. 12, for \"An appeal\" (w.e.f. 30-8-2019)."
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "Saving.",
+      "content": "Nothing in this Chapter shall prejudice any rights which any person would have had of enforcing in India of any award or of availing himself in India of any award if this Chapter had not been enacted."
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Chapter II not to apply.",
+      "content": "Chapter II of this Part shall not apply in relation to foreign awards to which this Chapter applies."
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "Interpretation.",
+      "content": "In this Chapter \"foreign award\" means an arbitral award on differences relating to matters considered as commercial under the law in force in India made after the 28th day of July, 1924,— (a) in pursuance of an agreement for arbitration to which the Protocol set forth in the Second Schedule applies, and (b) between persons of whom one is subject to the jurisdiction of some one of such Powers as the Central Government, being satisfied that reciprocal provisions have been made, may, by notification in the Official Gazette, declare to be parties to the Convention set forth in the Third Schedule, and of whom the other is subject to the jurisdiction of some other of the Powers aforesaid, and (c) in one of such territories as the Central Government, being satisfied that reciprocal provisions have been made, may, by like notification, declare to be territories to which the said Convention applies, and for the purposes of this Chapter an award shall not be deemed to be final if any proceedings for the purpose of contesting the validity of the award are pending in the country in which it was made."
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "Power of judicial authority to refer parties to arbitration.",
+      "content": "Notwithstanding anything contained in Part I or in the Code of Civil Procedure, 1908 (5 of 1908), a judicial authority, on being seized of a dispute regarding a contract made between persons to whom section 53 applies and including an arbitration agreement, whether referring to present or future differences, which is valid under that section and capable of being carried into effect, shall refer the parties on the application of either of them or any person claiming through or under him to the decision of the arbitrators and such reference shall not prejudice the competence of the judicial authority in case the agreement or the arbitration cannot proceed or becomes inoperative."
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "Foreign awards when binding.",
+      "content": "Any foreign award which would be enforceable under this Chapter shall be treated as binding for all purposes on the persons as between whom it was made, and may accordingly be relied on by any of those persons by way of defence, set off or otherwise in any legal proceedings in India and any references in this Chapter to enforcing a foreign award shall be construed as including references to relying on an award."
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "Evidence.",
+      "content": "(1) The party applying for the enforcement of a foreign award shall, at the time of application produce before the Court— (a) the original award or a copy thereof duly authenticated in the manner required by the law of the country in which it was made; (b) evidence proving that the award has become final; and (c) such evidence as may be necessary to prove that the conditions mentioned in clauses (a) and (c) of sub-section (1) of section 57 are satisfied. (2) Where any document requiring to be produced under sub-section (1) is in a foreign language, the party seeking to enforce the award shall produce a translation into English certified as correct by a diplomatic or consular agent of the country to which that party belongs or certified as correct in such other manner as may be sufficient according to the law in force in India. 1[Explanation.—In this section and in the sections following in this Chapter, \"Court\" means the High Court having original jurisdiction to decide the questions forming the subject-matter of the arbitral award if the same had been the subject-matter of a suit on its original civil jurisdiction and in other cases, in the High Court having jurisdiction to hear appeals from decrees of courts subordinate to such High Court.]\n\n[Footnote] 1. Subs. by Act 3 of 2016, s. 23, for the Explanation (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Conditions for enforcement of foreign awards.",
+      "content": "(1) In order that a foreign award may be enforceable under this Chapter, it shall be necessary that— (a) the award has been made in pursuance of a submission to arbitration which is valid under the law applicable thereto; (b) the subject-matter of the award is capable of settlement by arbitration under the law of India; (c) the award has been made by the arbitral tribunal provided for in the submission to arbitration or constituted in the manner agreed upon by the parties and in conformity with the law governing the arbitration procedure; (d) the award has become final in the country in which it has been made, in the sense that it will not be considered as such if it is open to opposition or appeal or if it is proved that any proceedings for the purpose of contesting the validity of the award are pending; (e) the enforcement of the award is not contrary to the public policy or the law of India. 1[Explanation 1.—For the avoidance of any doubt, it is clarified that an award is in conflict with the public policy of India, only if,— (i) the making of the award was induced or affected by fraud or corruption or was in violation of section 75 or section 81; or (ii) it is in contravention with the fundamental policy of Indian law; or (iii) it is in conflict with the most basic notions of morality or justice. Explanation 2.—For the avoidance of doubt, the test as to whether there is a contravention with the fundamental policy of Indian law shall not entail a review on the merits of the dispute.] (2) Even if the conditions laid down in sub-section (1) are fulfilled, enforcement of the award shall be refused if the Court is satisfied that— (a) the award has been annulled in the country in which it was made; (b) the party against whom it is sought to use the award was not given notice of the arbitration proceedings in sufficient time to enable him to present his case; or that, being under a legal incapacity, he was not properly represented; (c) the award does not deal with the differences contemplated by or falling within the terms of the submission to arbitration or that it contains decisions on matters beyond the scope of the submission to arbitration: Provided that if the award has not covered all the differences submitted to the arbitral tribunal, the Court may, if it thinks fit, postpone such enforcement or grant it subject to such guarantee as the Court may decide. (3) If the party against whom the award has been made proves that under the law governing the arbitration procedure there is a ground, other than the grounds referred to in clauses (a) and (c) of sub-section (1) and clauses (b) and (c) of sub-section (2) entitling him to contest the validity of the award, the Court may, if it thinks fit, either refuse enforcement of the award or adjourn the consideration thereof, giving such party a reasonable time within which to have the award annulled by the competent tribunal.\n\n[Footnote] 1. Subs. by s. 24, ibid., for the Explanation (w.e.f. 23-10-2015)."
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Enforcement of foreign awards.",
+      "content": "Where the Court is satisfied that the foreign award is enforceable under this Chapter, the award shall be deemed to be a decree of the Court."
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "Appealable orders.",
+      "content": "(1) An appeal shall lie from the order refusing— (a) to refer the parties to arbitration under section 54; and (b) to enforce a foreign award under section 57, to the court authorised by law to hear appeals from such order. (2) No second appeal shall lie from an order passed in appeal under this section, but nothing in this section shall affect or take away any right to appeal to the Supreme Court."
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "Savings.",
+      "content": "Nothing in this Chapter shall prejudice any rights which any person would have had of enforcing in India of any award or of availing himself in India of any award if this Chapter had not been enacted."
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "Application and scope.",
+      "content": "(1) Save as otherwise provided by any law for the time being in force and unless the parties have otherwise agreed, this Part shall apply to conciliation of disputes arising out of legal relationship, whether contractual or not and to all proceedings relating thereto. (2) This Part shall not apply where by virtue of any law for the time being in force certain disputes may not be submitted to conciliation."
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "Commencement of conciliation proceedings.",
+      "content": "(1) The party initiating conciliation shall send to the other party a written invitation to conciliate under this Part, briefly identifying the subject of the dispute. (2) Conciliation proceedings, shall commence when the other party accepts in writing the invitation to conciliate. (3) If the other party rejects the invitation, there will be no conciliation proceedings. (4) If the party initiating conciliation does not receive a reply within thirty days from the date on which he sends the invitation, or within such other period of time as specified in the invitation, he may elect to treat this as a rejection of the invitation to conciliate and if he so elects, he shall inform in writing the other party accordingly."
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "Number of conciliators.",
+      "content": "(1) There shall be one conciliator unless the parties agree that there shall be two or three conciliators. (2) Where there is more than one conciliator, they ought, as a general rule, to act jointly."
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Appointment of conciliators.",
+      "content": "(1) Subject to sub-section (2)— (a) in conciliation proceedings, with one conciliator, the parties may agree on the name of a sole conciliator; (b) in conciliation proceedings with two conciliators, each party may appoint one conciliator; (c) in conciliation proceedings with three conciliators, each party may appoint one conciliator and the parties may agree on the name of the third conciliator who shall act as the presiding conciliator. (2) Parties may enlist the assistance of a suitable institution or person in connection with the appointment of conciliators, and in particular,— (a) a party may request such an institution or person to recommend the names of suitable individuals to act as conciliator; or (b) the parties may agree that the appointment of one or more conciliators be made directly by such an institution or person: Provided that in recommending or appointing individuals to act as conciliator, the institution or person shall have regard to such considerations as are likely to secure the appointment of an independent and impartial conciliator and, with respect to a sole or third conciliator, shall take into account the advisability of appointing a conciliator of a nationality other than the nationalities of the parties."
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "Submission of statements to conciliator.",
+      "content": "(1) The conciliator, upon his appointment, may request each party to submit to him a brief written statement describing the general nature of the dispute and the points at issue. Each party shall send a copy of such statement to the other party. (2) The conciliator may request each party to submit to him a further written statement of his position and the facts and grounds in support thereof, supplemented by any documents and other evidence that such party deems appropriate. The party shall send a copy of such statement, documents and other evidence to the other party. (3) At any stage of the conciliation proceedings, the conciliator may request a party to submit to him such additional information as he deems appropriate. Explanation.—In this section and all the following sections of this Part, the term \"conciliator\" applies to a sole conciliator, two or three conciliators, as the case may be."
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Conciliator not bound by certain enactments.",
+      "content": "The conciliator is not bound by the Code of Civil Procedure, 1908 (5 of 1908) or the Indian Evidence Act, 1872 (1 of 1872)."
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "Role of conciliator.",
+      "content": "(1) The conciliator shall assist the parties in an independent and impartial manner in their attempt to reach an amicable settlement of their dispute. (2) The conciliator shall be guided by principles of objectivity, fairness and justice, giving consideration to, among other things, the rights and obligations of the parties, the usages of the trade concerned and the circumstances surrounding the dispute, including any previous business practices between the parties. (3) The conciliator may conduct the conciliation proceedings in such a manner as he considers appropriate, taking into account the circumstances of the case, the wishes the parties may express, including any request by a party that the conciliator hear oral statements, and the need for a speedy settlement of the dispute. (4) The conciliator may, at any stage of the conciliation proceedings, make proposals for a settlement of the dispute. Such proposals need not be in writing and need not be accompanied by a statement of the reasons therefor."
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "Administrative assistance.",
+      "content": "In order to facilitate the conduct of the conciliation proceedings, the parties, or the conciliator with the consent of the parties, may arrange for administrative assistance by a suitable institution or person."
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "Communication between conciliator and parties.",
+      "content": "(1) The conciliator may invite the parties to meet him or may communicate with them orally or in writing. He may meet or communicate with the parties together or with each of them separately. (2) Unless the parties have agreed upon the place where meetings with the conciliator are to be held, such place shall be determined by the conciliator, after consultation with the parties, having regard to the circumstances of the conciliation proceedings."
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "Disclosure of information.",
+      "content": "When the conciliator receives factual information concerning the dispute from a party, he shall disclose the substance of that information to the other party in order that the other party may have the opportunity to present any explanation which he considers appropriate: Provided that when a party gives any information to the conciliator subject to a specific condition that it be kept confidential, the conciliator shall not disclose that information to the other party."
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "Co-operation of parties with conciliator.",
+      "content": "The parties shall in good faith co-operate with the conciliator and, in particular, shall endeavour to comply with requests by the conciliator to submit written materials, provide evidence and attend meetings."
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "Suggestions by parties for settlement of dispute.",
+      "content": "Each party may, on his own initiative or at the invitation of the conciliator, submit to the conciliator suggestions for the settlement of the dispute."
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "Settlement agreement.",
+      "content": "(1) When it appears to the conciliator that there exist elements of a settlement which may be acceptable to the parties, he shall formulate the terms of a possible settlement and submit them to the parties for their observations. After receiving the observations of the parties, the conciliator may reformulate the terms of a possible settlement in the light of such observations. (2) If the parties reach agreement on a settlement of the dispute, they may draw up and sign a written settlement agreement. If requested by the parties, the conciliator may draw up, or assist the parties in drawing up, the settlement agreement. (3) When the parties sign the settlement agreement, it shall be final and binding on the parties and persons claiming under them respectively. (4) The conciliator shall authenticate the settlement agreement and furnish a copy thereof to each of the parties."
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "Status and effect of settlement agreement.",
+      "content": "The settlement agreement shall have the same status and effect as if it is an arbitral award on agreed terms on the substance of the dispute rendered by an arbitral tribunal under section 30."
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "Confidentiality.",
+      "content": "Notwithstanding anything contained in any other law for the time being in force, the conciliator and the parties shall keep confidential all matters relating to the conciliation proceedings. Confidentiality shall extend also to the settlement agreement, except where its disclosure is necessary for purposes of implementation and enforcement."
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "Termination of conciliation proceedings.",
+      "content": "The conciliation proceedings shall be terminated— (a) by the signing of the settlement agreement by the parties, on the date of the agreement; or (b) by a written declaration of the conciliator, after consultation with the parties, to the effect that further efforts at conciliation are no longer justified, on the date of the declaration; or (c) by a written declaration of the parties addressed to the conciliator to the effect that the conciliation proceedings are terminated, on the date of the declaration; or (d) by a written declaration of a party to the other party and the conciliator, if appointed, to the effect that the conciliation proceedings are terminated, on the date of the declaration."
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "Resort to arbitral or judicial proceedings.",
+      "content": "The parties shall not initiate, during the conciliation proceedings, any arbitral or judicial proceedings in respect of a dispute that is the subject-matter of the conciliation proceedings except that a party may initiate arbitral or judicial proceedings where, in his opinion, such proceedings are necessary for preserving his rights."
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "Costs.",
+      "content": "(1) Upon termination of the conciliation proceedings, the conciliator shall fix the costs of the conciliation and give written notice thereof to the parties. (2) For the purpose of sub-section (1), \"costs\" means reasonable costs relating to— (a) the fee and expenses of the conciliator and witnesses requested by the conciliator with the consent of the parties; (b) any expert advice requested by the conciliator with the consent of the parties; (c) any assistance provided pursuant to clause (b) of sub-section (2) of section 64 and section 68. (d) any other expenses incurred in connection with the conciliation proceedings and the settlement agreement. (3) The costs shall be borne equally by the parties unless the settlement agreement provides for a different apportionment. All other expenses incurred by a party shall be borne by that party."
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "Deposits.",
+      "content": "(1) The conciliator may direct each party to deposit an equal amount as an advance for the costs referred to in sub-section (2) of section 78 which he expects will be incurred. (2) During the course of the conciliation proceedings, the conciliator may direct supplementary deposits in an equal amount from each party. (3) If the required deposits under sub-sections (1) and (2) are not paid in full by both parties within thirty days, the conciliator may suspend the proceedings or may make a written declaration of termination of the proceedings to the parties, effective on the date of that declaration. (4) Upon termination of the conciliation proceedings, the conciliator shall render an accounting to the parties of the deposits received and shall return any unexpended balance to the parties."
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "Role of conciliator in other proceedings.",
+      "content": "Unless otherwise agreed by the parties,— (a) the conciliator shall not act as an arbitrator or as a representative or counsel of a party in any arbitral or judicial proceeding in respect of a dispute that is the subject of the conciliation proceedings; (b) the conciliator shall not be presented by the parties as a witness in any arbitral or judicial proceedings."
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "Admissibility of evidence in other proceedings.",
+      "content": "The parties shall not rely on or introduce as evidence in arbitral or judicial proceedings, whether or not such proceedings relate to the dispute that is the subject of the conciliation proceedings,— (a) views expressed or suggestions made by the other party in respect of a possible settlement of the dispute; (b) admissions made by the other party in the course of the conciliation proceedings; (c) proposals made by the conciliator; (d) the fact that the other party had indicated his willingness to accept a proposal for settlement made by the conciliator."
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "Power of High Court to make rules.",
+      "content": "The High Court may make rules consistent with this Act as to all proceedings before the Court under this Act."
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "Removal of difficulties.",
+      "content": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty: Provided that no such order shall made be after the expiry of a period of two years from the date of commencement of this Act. (2) Every order made under this section shall, as soon as may be after it is made, be laid before each Houses of Parliament."
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "Power to make rules.",
+      "content": "(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act. (2) Every rule made by the Central Government under this Act shall be laid, as soon as may be, after it is made before each House of Parliament while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "Repeal and savings.",
+      "content": "(1) The Arbitration (Protocol and Convention) Act, 1937 (6 of 1937), the Arbitration Act, 1940 (10 of 1940) and the Foreign Awards (Recognition and Enforcement) Act, 1961 (45 of 1961) are hereby repealed. (2) Notwithstanding such repeal,— (a) the provisions of the said enactments shall apply in relation to arbitral proceedings which commenced before this Act came into force unless otherwise agreed by the parties but this Act shall apply in relation to arbitral proceedings which commenced on or after this Act comes into force; (b) all rules made and notifications published, under the said enactments shall, to the extent to which they are not repugnant to this Act, be deemed respectively to have been made or issued under this Act."
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "Repeal and saving.",
+      "content": "(1) The Arbitration and Conciliation (Third) Ordinance, 1996 (Ord. 27 of 1996) is hereby repealed. (2) Notwithstanding such repeal, any order, rule, notification or scheme made or anything done or any action taken in pursuance of any provision of the said Ordinance shall be deemed to have been made, done or taken under the corresponding provisions of this Act."
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "Effect of arbitral and related court proceedings commenced prior to 23rd October, 2015.",
+      "content": "1[87. Effect of arbitral and related court proceedings commenced.-- Unless the parties otherwise agree, the amendments made to this Act by the Arbitration and Conciliation (Amendment) Act, 2015 shall-- (a) not apply to-- (i) arbitral proceedings commenced before the commencement of the Arbitration and Conciliation (Amendment) Act, 2015 (23rd October, 2015); (ii) court proceedings arising out of or in relation to such arbitral proceedings irrespective of whether such court proceedings are commenced prior to or after the commencement of the Arbitration and Conciliation (Amendment) Act, 2015; (b) apply only to arbitral proceedings commenced on or after the commencement of the Arbitration and Conciliation (Amendment) Act, 2015 and to court proceedings arising out of or in relation to such arbitral proceedings.]\n\n[Footnote] 1. Ins. by Act 33 of 2019, s. 13 (w.e.f. 23-10-2015)."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "act-19-1887",
+  "type": "statute",
+  "title": "The King of Oudh's Estate Act, 1887",
+  "short_name": "KOE1 1887",
+  "status": "in_force",
+  "issued_date": "1887-09-23",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19228?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Administration of the estate of the late king of Oudh by the Governor General in Council.",
+      "content": "(1) The Governor General in Council shall have exclusive authority to act in the administration of the property of whatever nature left by His late Majesty the King of Oudh in regard to the settlement and satisfaction of claims against the estate of His Late Majesty, and may make distribution of the remaining property or the proceeds thereof in such manner as he deems fit among the family and dependents of His late Majesty. (2) No act of the Governor General in Council in connection with the administration to or distribution of the property left by His late Majesty shall be liable to be questioned in any Court."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Indemnity to Agent to the Governor General.",
+      "content": "The Agent to the Governor General with His late Majesty, and all persons acting under his order, are hereby indemnified and discharged from liability in respect of all acts done by him or them since the twentieth day or September, 1887, in connection with the preservation and administration of the estate of His late Majesty, and no suit or other proceeding shall be instituted in any Court against him or them, or against the Secretary of State for India in Council, in respect of those acts or any of them"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Effect of Act.",
+      "content": "This Act shall take effect notwithstanding any testamentary or other disposition which may have been made by His late Majesty, and notwithstanding any proceedings which may have been or may be instituted before any Civil Court for administering his estate or collecting the debts due to it, and any person who under any probate howsoever, has received or realised any portion of the estate of His late Majesty shall be bound to account therefor to such officer as the Governor General in Council may appoint in this behalf."
+    }
+  ],
+  "language": "en"
+}

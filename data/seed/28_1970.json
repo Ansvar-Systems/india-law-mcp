@@ -1,0 +1,24 @@
+{
+  "id": "act-28-1970",
+  "type": "statute",
+  "title": "The Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970",
+  "short_name": "SCECA 1970",
+  "status": "in_force",
+  "issued_date": "1970-08-09",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1449?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and extent.",
+      "content": "(1) This Act may be called the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970. (2) It extends to the whole of India 1 ***.\n\n[Footnote] 1. The words \"except the State of Jammu and Kashmir\" omitted by Act 37 of 1972, s. 2 (w.e.f. 20-8-1972)."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Enlarged appellate jurisdiction of Supreme Court in regard to criminal matters.",
+      "content": "Without prejudice to the powers conferred on the Supreme Court by clause (1) of article 134 of the Constitution, an appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court— (a) has on appeal reversed an order of acquittal of an accused person and sentenced him to imprisonment for life or to imprisonment for a period of not less than ten years; (b) has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to imprisonment for life or to imprisonment for a period of not less than ten years."
+    }
+  ],
+  "language": "en"
+}

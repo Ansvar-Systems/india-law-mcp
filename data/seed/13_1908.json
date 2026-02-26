@@ -1,0 +1,48 @@
+{
+  "id": "act-13-1908",
+  "type": "statute",
+  "title": "The Central Provinces Financial Commissioner's Act, 1908",
+  "short_name": "CPFC1 1908",
+  "status": "in_force",
+  "issued_date": "1908-10-30",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19222?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement.",
+      "content": "(1) This Act may be called the Central Provinces Financial Commissioner's Act, 1908; and (2) It shall come into force on such date as the Chief Commissioner, with the previous sanction of the Governor General in Council, may, by notification in the local official Gazette, direct"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Appointment of Financial Commissioner.",
+      "content": "(1) There shall be a Financial Commissioner for the Central Provinces. (2) The Chief Commissioner, with the previous sanction of the Governor General in Council, shall appoint, and may suspend or remove, the Financial Commissioner."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Assignment of powers to Financial Commissioner.",
+      "content": "The Chief Commissioner, with the previous sanction of the Governor General in Council, may, by notification in the local official Gazette, assign to the Financial Commissioner, subject to such conditions and restrictions, if any, as the Chief Commissioner with the like sanction may prescribe, all or any powers or functions assigned to the Local Government or to the Chief Commissioner or to the Chief Revenue-authority or the Chief Controlling Revenue-authority by any enactment for the time being in force."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Substitution of new sections for sections 5 and 6, Act XVIII, 1881.",
+      "content": "For section 5 and 6 of the Central Provinces Land-revenue Act, 1881 the following shall be substituted, namely: “5. Revenue-officers.—There shall be the following classes of Revenue-officers, namely:— the Chief Commissioner, the Financial Commissioner, Commissioners, Deputy Commissioners, Assistant Commissioners, Tahsildars, Naib-tahsildars.” “6. Subordination of officers.—(1) The Chief Commissioner shall, in all revenue matters, be subject to the control of the Governor General in Council. (2) The Financial Commissioner shall be subject to the control of the Chief Commissioner. (3) All other Revenue-officers shall be subordinate to the Chief Commissioner and the Financial Commissioner; all Revenue-officers in a division shall be subordinate to the Commissioner of the division; and all Revenue-officers in a district shall be subordinate to the Deputy Commissioner of the district. (4) An officer in charge of a village-survey in a district which is not under settlement may be invested by the Chief Commissioner with the powers of a Revenue-officer of any class, and, when so invested, shall be subordinate to such officer or officers as the Chief Commissioner may direct.”"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Amendment of sections 17 and 25 Act XVIII, 1881.",
+      "content": "In sections 17 and 25 of the said Act, after the words “Chief Commissioner”, wherever they occur, the words “or the Financial Commissioner” shall be added."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Amendment of sections 22 and 23 Act XVIII, 1881.",
+      "content": "In sections 22, clause (c), and 23, clause (c), of the said Act, for the words \"Chief Commissioner\" the words \"Financial Commissioner\" shall be substituted."
+    }
+  ],
+  "language": "en"
+}

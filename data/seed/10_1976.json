@@ -1,0 +1,30 @@
+{
+  "id": "act-10-1976",
+  "type": "statute",
+  "title": "The Election Laws (Extension to Sikkim) Act, 1976",
+  "short_name": "ELES1 1976",
+  "status": "in_force",
+  "issued_date": "1976-01-25",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1405?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement.",
+      "content": "(1) This Act may be called the Election Laws (Extension to Sikkim) Act, 1976. (2) It shall be deemed to have come into force on the 9th day of September, 1975."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Extension and amendment of election laws.",
+      "content": "(1) The Acts mentioned in the Schedule are hereby extended to, and shall be in force in, the State of Sikkim. (2) With effect from the commencement of this Act, the Acts mentioned in the Schedule shall be amended as specified therein. (3) Any reference in the Acts mentioned in the Schedule to a law not in force, or to a functionary not in existence, in the State of Sikkim shall be construed as a reference to the corresponding law in force, or to the corresponding functionary in existence, in that State: Provided that if any question arises as to who such corresponding functionary is, or if there is no such corresponding functionary, the Central Government shall decide as to who such functionary will be and the decision of the Central Government shall be final."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Repeal and saving.",
+      "content": "(1) The Election Laws (Extension to Sikkim) Ordinance, 1975 (9 of 1975), is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken under or by virtue of the said Ordinance shall be deemed to have been done or taken under or by virtue of this Act."
+    }
+  ],
+  "language": "en"
+}

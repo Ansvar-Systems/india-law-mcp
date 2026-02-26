@@ -1,0 +1,30 @@
+{
+  "id": "act-30-1997",
+  "type": "statute",
+  "title": "The Vice-President s Pension Act, 1997",
+  "short_name": "VP1 1997",
+  "status": "in_force",
+  "issued_date": "1997-05-28",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1936?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Pension to be charged on the Consolidated Fund of India.",
+      "content": "Any sum payable under this Act shall be charged on the Consolidated Fund of India."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to make rules.",
+      "content": "(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act. (2) Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to remove difficulties.",
+      "content": "1 [6. Power to remove difficulties.-- (1) If any difficulty arises in giving effect to the provisions of this this Act as amended by the Vice-President's Pension (Amendment) Act, 2008 (29 of 2008), the Central Government may, by order, do anything not inconsistent with such provisions for the purpose of removing the difficulty: Provided that no such order shall be made after the expiration of two years from the date on which this Act comes into force. (2) Every order made under sub-section (1) shall be laid before each House of Parliament.]\n\n[Footnote] 1. Ins. by s. 4, ibid.(w.e.f. 30-12-2008)."
+    }
+  ],
+  "language": "en"
+}

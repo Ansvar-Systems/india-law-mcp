@@ -1,0 +1,24 @@
+{
+  "id": "act-20-1965",
+  "type": "statute",
+  "title": "The Warehousing Corporations (Supplementary) Act, 1965",
+  "short_name": "WCS1 1965",
+  "status": "in_force",
+  "issued_date": "1965-09-22",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1525?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, application and commencement.",
+      "content": "(1) This Act may be called the Warehousing Corporations (Supplementary) Act, 1965. (2) It shall apply to the State specified in the Schedule: Provided that the Central Government may, by notification in the Official Gazette, add the name of any other State to the Schedule in respect whereof resolutions have been passed by the Legislatures of those States adopting this Act under clause (1) of article 252 of the Constitution in respect of the storage of commodities other than those covered by the Warehousing Corporations Act, 1962 (58 of 1962), and on the issue of any such notification the States so added shall be deem to be States specified in the Schedule within the meaning of this sub-section. (3) It shall come into force on such date1 , as the Central Government may, by notification in the Official Gazette, appoint.\n\n[Footnote] 1. 27th November, 1965, vide notification No. G.S.R. 1713, dated 17th, Nevember, 1965, see Gazette of India, Part II, sec. 3(i)."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application of the Act with respect to notified commodities.",
+      "content": "The Warehousing Corporations Act, 1962 (58 of 1962), shall, in its application to the States for the time being specified in the Schedule, have effect as if in clause (e) of section 2 of that Act the words and figures \"being a commodity with respect to which Parliament has power to make laws by virtue of entry 33 in List III in the Seventh Schedule to Constitution\" had been omitted."
+    }
+  ],
+  "language": "en"
+}

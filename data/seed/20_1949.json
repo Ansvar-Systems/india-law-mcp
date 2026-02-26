@@ -1,0 +1,36 @@
+{
+  "id": "act-20-1949",
+  "type": "statute",
+  "title": "The West Godavari District (Assimilation of Laws on Federal Subjects) Act, 1949",
+  "short_name": "WGDAL 1949",
+  "status": "in_force",
+  "issued_date": "1949-04-14",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1974?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement.",
+      "content": "(1) This Act may be called the West Godavari District (Assimilation of Laws on Federal Subjects) Act, 1949. (2) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint.\n\n[Footnote] 1. 1st July, 1949, see Gazette of India, 1949, Extraordinary."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation.",
+      "content": "In this Act— (a) \"appointed day\" means the date appointed under sub-section (2) of section 1 for the coming into force of this Act; (b) \"Eluru Taluk\" means the taluk of that name in the West Godavari district of the State of Madras; (c) \"law\" means any Act, Ordinance, Regulation, rule, order or bye-law, relating to any of the matters enumerated in List I in the Seventh Schedule to the Government of India Act, 1935 (25 and 26 Geo. 5, c. 2); and (d) \"Scheduled area\" means the area comprised in the villages which are specified in the Schedule to this Act"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Assimilation of laws.",
+      "content": "(1) All laws which immediately before the appointed day extend to, or are in force in, the Eluru Taluk, but not in the scheduled area, shall, as from that day, extend to, or as the case may be, come into force in, the scheduled area. (2) All laws which immediately before the appointed day are in force in the scheduled area, but not in the Eluru Taluk, shall on that day cease to be in force in the scheduled area, except as respects things done or omitted to be done before that day."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Provision for removal of difficulties.",
+      "content": "If any difficulty arises in relation to the transition from the laws mentioned in sub-section (2) of section 3 to the laws mentioned in sub-section (1) thereof, the Central Government may, by order notified in the Official Gazette, make such provision as it considers necessary for the removal of such difficulty."
+    }
+  ],
+  "language": "en"
+}

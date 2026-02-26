@@ -1,0 +1,42 @@
+{
+  "id": "act-51-1968",
+  "type": "statute",
+  "title": "The Judges (Inquiry) Act, 1968",
+  "short_name": "JI1 1968",
+  "status": "in_force",
+  "issued_date": "1968-12-05",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1539?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"Chairman\" means the Chairman of the Council of States; (b) \"Committee\" means a Committee constituted under section 3; (c) \"Judge\" means a Judge of the Supreme Court or of a High Court and includes the Chief Justice of India and the Chief Justice of a High Court; (d) \"prescribed\" means prescribed by rules made under this Act; (e) \"Speaker\" means the Speaker of the House of the People."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Investigation into misbehaviour or incapacity of Judge by Committee.",
+      "content": "(1) If notice is given of a motion for presenting an address to the President praying for the removal of a Judge signed,-- (a) in the case of a notice given in the House of the People, by not less than one hundred members of that House; (b) in the case of a notice given in the Council of States, by not less than fifty members of that Council; then, the Speaker or, as the case may be, the Chairman may, after consulting such persons, if any, as he thinks fit and after considering such materials, if any, as may be available to him, either admit the motion or refuse to admit the same. (2) If the motion referred to in sub-section (1) is admitted, the Speaker or, as the case may be, the Chairman shall keep the motion pending and constitute, as soon as may be, for the purpose of making an investigation into the grounds on which the removal of a Judge is prayed for, a Committee consisting of three members of whom-- (a) one shall be chosen from among the Chief Justice and other Judges of the Supreme Court; (b) one shall be chosen from among the Chief Justices of the High Courts, and (c) one shall be a person who is, in the opinion of, the Speaker or, as the case may be, the Chairman, a distinguished jurist: Provided that where notices of a motion referred to in sub-section (1) are given on the same day in both Houses of Parliament, no Committee shall be constituted unless the motion has been admitted in both Houses and where such motion has been admitted in both Houses, the Committee shall be constituted jointly by the Speaker and the Chairman: Provided further that where notices of a motion as aforesaid are given in the Houses of Parliament on different dates, the notice which is given later shall stand rejected. (3) The Committee shall frame definite charges against the Judge on the basis of which the investigation is proposed to be held. (4) Such charges together with a statement of the grounds on which each such charge is based shall be communicated to the Judge and he shall be given a reasonable opportunity of presenting a written statement of defence within such time as may be specified in this behalf by the Committee. (5) Where it is alleged that the Judge is unable to discharge the duties of his office efficiently due to any physical or mental incapacity and the allegation is denied, the Committee may arrange for the medical examination of the Judge by such Medical Board as may be appointed for the purpose by the Speaker or, as the case may be, the Chairman or, where the Committee is constituted jointly by the Speaker and the Chairman, by both of them, for the purpose and the Judge shall submit himself to such medical examination within the time specified in this behalf by the Committee. (6) The Medical Board shall undertake such medical examination of the Judge as may be considered necessary and submit a report to the Committee stating therein whether the incapacity is such as to render the Judge unfit to continue in office. (7) If the Judge refuses to undergo medical examination considered necessary by the Medical Board, the Board shall submit a report to the Committee stating therein the examination which the Judge has refused to undergo, and the Committee may, on receipt of such report, presume that the Judge suffers from such physical or mental incapacity as is alleged in the motion referred to in sub-section (1). (8) The Committee may, after considering the written statement of the Judge and the medical report, if any, amend the charges framed under sub-section (3) and in such a case, the Judge shall be given a reasonable opportunity of presenting a fresh written statement of defence. (9) The Central Government may, if required by the Speaker or the Chairman, or both, as the case may be, appoint an advocate to conduct the case against the Judge."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Report of Committee.",
+      "content": "(1) Subject to any rules that may be made in this behalf, the Committee shall have power to regulate its own procedure in making the investigation and shall give a reasonable opportunity to the Judge of cross-examining witnesses, adducing evidence and of being heard in his defence. (2) At the conclusion of the investigation, the Committee shall submit its report to the Speaker or, as the case may be, to the Chairman, or where the Committee has been constituted jointly by the Speaker and the Chairman, to both of them, stating therein its findings on each of the charges separately with such observations on the whole case as it thinks fit. (3) The Speaker or the Chairman or, where the Committee has been constituted jointly by the Speaker and the Chairman, both of them, shall cause the report submitted under sub-section (2) to be laid, as soon as may be, respectively before the House of the People and the Council of States."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Powers of Committee.",
+      "content": "For the purpose of making any investigation under this Act the Committee shall have the powers of a civil court, while trying a suit, under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely:-- (a) summoning and enforcing the attendance of any person and examining him on oath; (b) requiring the discovery and production of documents; (c) receiving evidence on oath; (d) issuing commissions for the examination of witnesses or documents; (e) such other matters as may be prescribed."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Consideration of report and procedure for presentation of an address for removal of Judge.",
+      "content": "(1) If the report of the Committee contains a finding that the Judge is not guilty of any misbehaviour or does not suffer from any incapacity, then no further steps shall be taken in either House of Parliament in relation to the report and the motion pending in the House or the Houses of Parliament shall not be proceeded with. (2) If the report of the Committee contains a finding that the Judge is guilty of any misbehaviour or suffers from any incapacity, then, the motion referred to in sub-section (1) of section 3 shall, together with the report of the Committee, be taken up for consideration by the House or the Houses of Parliament in which it is pending. (3) If the motion is adopted by each House of Parliament in accordance with the provisions of clause (4) of article 124 or, as the case may be, in accordance with that clause read with article 218 of the Constitution, then, the misbehaviour or incapacity of the Judge shall be deemed to have been proved and an address praying for the removal of the Judge shall be presented in the prescribed manner to the President by each House of Parliament in the same session in which the motion has been adopted."
+    }
+  ],
+  "language": "en"
+}

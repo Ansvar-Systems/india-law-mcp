@@ -1,0 +1,54 @@
+{
+  "id": "act-64-1949",
+  "type": "statute",
+  "title": "The Police Act, 1949",
+  "short_name": "P1 1949",
+  "status": "in_force",
+  "issued_date": "1949-12-27",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1430?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the Police Act, 1949. (2) It extends to all the 1 [Union territories]. (3) It shall come into force in a 2 [Union territory] on such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf for 3 [such territory].\n\n[Footnote] 1. Subs., ibid., for \"Part C States\". 2. Subs., ibid., for \"Part C State.\" 3. Subs., ibid., for \"such state\"."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition.",
+      "content": "In this Act \"general police-district\" means the general police-district constituted under section 3."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Constitution of general police-district embracing two or more Union territories.",
+      "content": "Notwithstanding anything contained in the Police Act, 1861 (5 of 1861), the Central Government may, by notification in the Official Gazette, constitute a general police-district embracing two or more 1 [Union territories].\n\n[Footnote] 1. Subs. by the Adaptation of Laws (No. 3) Order, 1956, for \"Chief Commissioners' Provinces\"."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Constitution of one police force for general police-district.",
+      "content": "The entire police establishment in a general police-district shall be one police force and shall consist of such number of officers and men and shall be constituted in such manner as the Central Government may, by order, direct."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Superintendence and administration of police.",
+      "content": "(1) The superintendence of the police throughout a general police-district shall vest in, and be exercised by, the Central Government. (2) The administration of the said police force shall vest in an officer, appointed in this behalf by the Central Government, who shall exercise in respect of that police force such of the powers exercisable by an Inspector-General of Police under the Police Act, 1861 (5 of 1861), as the Central Government may, by notification in the Official Gazette, specify in this behalf."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Application of the Police Act, 1861.",
+      "content": "Save as otherwise expressly provided in this Act, the provisions of the Police Act, 1861 (5 of 1861), shall apply to the police force constituted for the general police-district as if it were one police force constituted for a State, and members of the said police force shall have, in every part of 1 [any territory] which is included in the general police-district, the same powers, duties and privileges, and shall be subject to the same liabilities, as they would have had, or would have been subject to, as police officers if they had formed a police establishment under one State Government.\n\n[Footnote] 1. Subs., ibid., for \"any State\"."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Saving.",
+      "content": "Nothing in this Act shall be deemed to affect the provisions contained in the Delhi Special Police Establishment Act, 1946 (25 of 1946)."
+    }
+  ],
+  "language": "en"
+}

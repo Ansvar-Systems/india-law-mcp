@@ -1,0 +1,66 @@
+{
+  "id": "act-20-1990",
+  "type": "statute",
+  "title": "The National Commission for Women Act, 1990",
+  "short_name": "NCW1 1990",
+  "status": "in_force",
+  "issued_date": "1990-08-30",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1944?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"Commission\" means the National Commission for Women constituted under section 3; (b) \"Member\" means a Member of the Commission and includes the Member-Secretary; (c) \"prescribed\" means prescribed by rules made under this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Officers and other employees of the Commission.",
+      "content": "(1) The Central Government shall provide the Commission with such officers and employees as may be necessary for the efficient performance of the functions of the Commission under this Act. (2) The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees appointed for the purpose of the Commission shall be such as may be prescribed."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Salaries and allowances to be paid out of grants.",
+      "content": "The salaries and allowances payable to the Chairperson and Members and the administrative expenses, including salaries, allowances and pensions payable to the officers and other employees referred to in section 5, shall be paid out of the grants referred to in sub-section (1) of section 11."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Vacancies, etc., not to invalidate proceedings of the Commission.",
+      "content": "No act or proceeding of the Commission shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Commission."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Accounts and audit.",
+      "content": "(1) The Commission shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India. (2) The accounts of the Commission shall be audited by the Comptroller and Auditor-General at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Commission to the Comptroller and Auditor-General. (3) The Comptroller and Auditor-General and any person appointed by him in connection with the audit of the accounts of the Commission under this Act shall have the same rights and privileges and the authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Commission. (4) The accounts of the Commission, as certified by the Comptroller and Auditor-General or any other person appointed by him in this behalf, together with the audit report thereon shall be forwarded annually to the Central Government by the Commission."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Annual report.",
+      "content": "TheCommission shall prepare, in such form and at such time, for each financial year, as may be prescribed, its annual report, giving a full account of its activities during the previous financial year and forward a copy thereof to the Central Government."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Annual report and audit report to be laid before Parliament.",
+      "content": "The Central Government shall cause the annual report together with a memorandum of action taken on the recommendations contained therein, in so far as they relate to the Central Government, and the reasons for the non-acceptance, if any, of any of such recommendations and the audit report to be laid as soon as may be after the reports are received, before each House of Parliament."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Chairperson, Members and Staff of the Commission to be public servants.",
+      "content": "TheChairperson, the Members, officers and other employees of the Commission shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Central Government to consult Commission.",
+      "content": "The Central Government shall consult the Commission on all major policy matters affecting women."
+    }
+  ],
+  "language": "en"
+}

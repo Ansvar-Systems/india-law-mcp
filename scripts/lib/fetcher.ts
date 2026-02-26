@@ -9,6 +9,7 @@
 
 const USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 const MIN_DELAY_MS = 500;
+const REQUEST_TIMEOUT_MS = 30000; // 30 second timeout per request
 
 let lastRequestTime = 0;
 
@@ -35,12 +36,30 @@ export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<F
   await rateLimit();
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/xhtml+xml, application/json, */*',
-      },
-    });
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+
+    let response: Response;
+    try {
+      response = await fetch(url, {
+        headers: {
+          'User-Agent': USER_AGENT,
+          'Accept': 'text/html, application/xhtml+xml, application/json, */*',
+        },
+        signal: controller.signal,
+      });
+    } catch (error) {
+      clearTimeout(timeout);
+      if (attempt < maxRetries) {
+        const backoff = Math.pow(2, attempt + 1) * 1000;
+        const errMsg = error instanceof Error ? error.message : String(error);
+        console.log(`  Fetch error for ${url} (${errMsg}), retrying in ${backoff}ms...`);
+        await new Promise(resolve => setTimeout(resolve, backoff));
+        continue;
+      }
+      throw error;
+    }
+    clearTimeout(timeout);
 
     if (response.status === 429 || response.status >= 500) {
       if (attempt < maxRetries) {

@@ -1,0 +1,30 @@
+{
+  "id": "act-49-1950",
+  "type": "statute",
+  "title": "The Contingency Fund of India Act, 1950",
+  "short_name": "CFI1 1950",
+  "status": "in_force",
+  "issued_date": "1950-08-14",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1696?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Contingency Fund of India Act, 1950."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Establishment of the Contingency Fund of India.",
+      "content": "1[(1)] There shall be established a Contingency Fund in the nature of an impress entitled the Contingency Fund of India, into which shall be paid from and out of the Consolidated Fund of India a sum of 2[fifty crores of rupees.] 3[(2) On and from the date on which the Finance Bill, 2005 receives the assent of the president, the sum which shall be paid from and out of the Consolidated Fund of India into the Contingency Fund of India under sub-section (1) shall stand enhanced to five hundred crores of rupees.] 4[(3) On and from the date on which the Finance Bill, 2021 receives the assent of the President, the sum which shall be paid from and out of the Consolidated Fund of India into the Contingency Fund of India under sub-section (2) shall stand enhanced to thirty thousand crores of rupees.] 5[Provided that during the period beginning on the 28th day of July, 1999 and ending on the 31st day of March, 2000, this section shall have effect subject to the modification that for the words “fifty crores of rupees”, the words “five hundred and fifty crores of rupees” shall be substituted: Provided further that during the period beginning on the 24th day of January, 1998 and ending on the 31st day of March, 1998, this section shall have effect subject to the modification that for the words “fifty crores of rupees”, the words “thirty-two thousand four hundred and ninety crores of rupees” shall be substituted.]\n\n[Footnote] 1. Section 2 numbered as sub-section (1) by Act 18 of 2005, s. 115 (w.e.f. 13-5-2005). 2.Subs. by Act 81 of 1976 “thirty crores of rupees” (w.e.f 26-8-1976). 3. Ins. by Act 18 of 2005, s. 115 (w.e.f. 13-5-2005). 4. Ins. by Act 13 of 2021, s. 127 (w.e.f. 28-3-2021). 5. Subs. by Act 4 of 1998, s. 2 “for Proviso” (w.e.f. 26-12-1997)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Custody of the Contingency Fund and withdrawals therefrom.",
+      "content": "The Contingency Fund of India shall be held on behalf of the President by a Secretary to the Government of India in the Ministry of Finance, and no advances shall be made out of such fund except for the purposes of meeting unforeseen expenditure pending authorisation of such expenditure by Parliament under appropriations made by law."
+    }
+  ],
+  "language": "en"
+}

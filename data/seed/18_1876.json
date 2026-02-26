@@ -1,0 +1,288 @@
+{
+  "id": "act-18-1876",
+  "type": "statute",
+  "title": "The Oudh Laws Act, 1876",
+  "short_name": "OL1 1876",
+  "status": "in_force",
+  "issued_date": "1876-10-10",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19217?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "[Repealed.].",
+      "content": ""
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Statutory law to be administered in Oudh.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Validity of local customs and mercantile usages.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Muhammadan dower contracts how to be enforced.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Right of pre-emption.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Presumption as to its existence.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Its existence in towns to be proved.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Devolution of right when property to be sold or foreclosed is a proprietary or under  proprietary tenure.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s9A",
+      "section": "9A",
+      "title": "When a suit for pre-emption lies.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Notice to pre-emptors.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Loss of right of pre-emption.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Right of pre-emptor on foreclosure.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Suit to enforce right of pre-emption.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Decree to fix time for payment.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Effect of non-payment of purchase-money.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Rule of limitation.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Repealed.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Repealed.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Rules for taking evidence.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Execution-sale of ancestral and acquired property in land.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Repealed.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Repealed.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Service of process within jurisdiction of Lucknow Civil Court.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Repealed.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Repealed.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Revenue-agents authorized to appear, etc., in rent-suits.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Power to make rules for custody and sale of attached property.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Repealed",
+      "content": ""
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Right to nominate village-policemen.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Obligation to nominate.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Discretion to appoint or reject nominee.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Power to Government to appoint.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Appointment of road-police.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Duties of village and road-policemen.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Procedure on arrest by village or road-policeman.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Dismissal of village or road-policeman.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Acts punishable.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Fines to be credited to such fund as Government appoints.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Power to make rules.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Publication of rules.",
+      "content": ""
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Repealed.",
+      "content": "41. ic95610Continuance of prior rules as to matters for which rules may be made under the Act].---- Rep. by the Repealing and Amending Act, 1891 (12 of 1891)."
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Penalty for breach of rules.",
+      "content": "Whoever breaks any rule made or continued under this Act, not being a rule made by the 1[High Court], shall, on conviction before a Magistrate; be punishable with fine which may extend to fifty rupees, or with imprisonment for a term which may extend to six months, or with both.\n\n[Footnote] 1. Subs. by the A.O. 1950 for \"Chief Court\"."
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": ". Repealed.",
+      "content": "[Power to invest taluqdars with civil jurisdiction].— Rep. by the Oudh Civil Courts Acts, 1879 (13 of 1879.)"
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Honorary police-officers",
+      "content": "The State Government may, from time to time, confer on any person whom it thinks fit any power which may be exercised by a police-officer under any Act for the time being in force, and withdraw any power so conferred."
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Repealed.",
+      "content": "45. Power to create new districts. Power to form sub-divisions of districts. ---Rep .by the United Provinces Act, 1890 (20 of 1890), s. 35."
+    }
+  ],
+  "language": "en"
+}

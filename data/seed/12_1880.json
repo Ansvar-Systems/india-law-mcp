@@ -1,0 +1,36 @@
+{
+  "id": "act-12-1880",
+  "type": "statute",
+  "title": "The Kazis Act, 1880",
+  "short_name": "K1 1880",
+  "status": "in_force",
+  "issued_date": "1880-07-09",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2290?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Ka'zi's Act, 1880; 1***** Local extent--It extends, in the first instance, only to the territories administered by the Governor of Fort Saint George in Council. 2[But the Government of any other State may, from time to time, by notification in the Official Gazette, extend it to the whole or any part of the territories under its administration.3\n\n[Footnote] 1. The words \"and it shall come into force at once\" omitted by Act 10 of 1914, s. 3 and the Second Schedule. 2. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \"But the Government of any other Part A State or the Government of a Part C State\". 3. The Act has been extended to certain places in the Bombay Presidency, West Bengal, the U.P., the Punjab, the C.P. and Assam."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Power to appoint Kazis for any local area.",
+      "content": "Wherever it appears to the State Government that any considerable number of the Muhammadans resident in any local area desire that one or more Ka’zi’s should be appointed for such local area, the State Government may, if it thinks fit, after consulting the principal Muhammadan residents of such local area, select one or more fit persons and appoint him or them to be Ka’zi’s for such local area. If any question arises whether any person has been rightly appointed Ka’zi’ under this section, the decision thereof by the State Government shall be conclusive. The State Government may, if it thinks fit, suspend or remove any Ka’zi’ appointed under this section who is guilty of any misconduct in the execution of his office, or who is for a continuous period of six months absent from the local area for which he is appointed, or leaves such local area for the purpose of residing elsewhere, or is declared an insolvent, or desires to be discharged from the office, or who refuses or becomes in the opinion of the State Government unfit, or personally incapable, to discharge the duties of the office."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Naib Kazis.",
+      "content": "Any Ka’zi’ appointed under this Act may appoint one or more persons as his Naib or Naibs to act in his place in all or any of the matters appertaining to his office throughout the whole or in any portion of the local area for which he is appointed, and may suspend or remove any naib so appointed. When any Ka’zi’ is suspended or removed under section 2, his naib or naibs (if any) shall be deemed to be suspended or removed, as the case may be."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Nothing in Act to confer judicial or administrative powers; or to render the presence of Kazi necessary; or to prevent any one acting as Kazi.",
+      "content": "Nothing herein contained, and no appointment made hereunder, shall be deemed-- (a) to confer any judicial or administrative powers on any Ka’zi’ or Naib Ka’zi’ appointed hereunder; or (b) to render the presence of a Ka’zi’ or Naib Ka’zi’ necessary at the celebration of any marriage or the performance of any rite or ceremony; or (c) to prevent any person discharging any of the functions of a Ka’zi’."
+    }
+  ],
+  "language": "en"
+}

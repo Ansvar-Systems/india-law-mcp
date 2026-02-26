@@ -1,0 +1,24 @@
+{
+  "id": "act-19-1937",
+  "type": "statute",
+  "title": "The Arya Marriage Validation Act, 1937",
+  "short_name": "AMV1 1937",
+  "status": "in_force",
+  "issued_date": "1937-04-14",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2302?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and extent.",
+      "content": "(1) This Act may be called the Arya Marriage Validation Act, 1937. 1[(2) It extends to the whole of India except 2[the territories which, immediately before the 1st November, 1956, were comprised in Part B States] and applies also to citizens of India wherever they may be.]\n\n[Footnote] 1. Subs. by the A.O. 1950, for sub-section (2). 2. Subs. by the Adaptation of Laws (No. 3) Order, 1956, for \"Part B States\"."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Marriage between Arya Samajists not to be invalid.",
+      "content": "Notwithstanding any provision of Hindu Law, usage or custom to the contrary no marriage contracted whether before or after the commencement of this Act between two persons being at the time of the marriage Arya Samajists shall be invalid or shall be deemed over to have been invalid by reason only of the fact that the parties at any time belonged to different castes or different sub-castes of Hindus or that either or both of the parties at any time before the marriage belonged to a religion other than Hinduism."
+    }
+  ],
+  "language": "en"
+}

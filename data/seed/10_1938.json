@@ -1,0 +1,36 @@
+{
+  "id": "act-10-1938",
+  "type": "statute",
+  "title": "The Cutchi Memons Act, 1938",
+  "short_name": "CM1 1938",
+  "status": "in_force",
+  "issued_date": "1938-04-08",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2306?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement.",
+      "content": "(1) This Act may be called the Cutchi Memons Act, 1938. (2) It shall come into force on the 1st day of November, 1938."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Cutchi Memons to be governed in certain matters by Muhammadan Law.",
+      "content": "Subject to the provisions of section 3, all Cutchi Memons shall, in matters of succession and inheritance, be governed by the Muhammadan Law."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Savings.",
+      "content": "Nothing in this Act shall affect any right or liability acquired or incurred before its commencement, or any legal proceeding or remedy in respect of any such right or liability; and any such legal proceeding or remedy may be continued or enforced as if this Act had not been passed."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Repealed.",
+      "content": "[Repealed.]--Rep. by the Repealing and Amending Act, 1942 (25 of 1942), s. 2 and the First Schedule (w.e.f. 1-10-1942)."
+    }
+  ],
+  "language": "en"
+}

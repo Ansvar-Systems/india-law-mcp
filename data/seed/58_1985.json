@@ -1,0 +1,42 @@
+{
+  "id": "act-58-1985",
+  "type": "statute",
+  "title": "The Intelligence Organisations (Restriction of Rights) Act, 1985",
+  "short_name": "IORR1 1985",
+  "status": "in_force",
+  "issued_date": "1985-09-06",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1811?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the Intelligence Organisations (Restriction of Rights) Act, 1985. (2) It extends to the whole of India. (3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint.\n\n[Footnote] 1. 9th December, 1985, vide notification No. S.O. 885(E), dated 9th December, 1985, see Gazette of India, Extraordinary, Part II, sec. 3(ii)."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,— (a) \"Intelligence Organisation\" means any organisation established by the Central Government for purposes of intelligence or counter-intelligence and specified in the Schedule; (b) \"member of an Intelligence Organisation\" means any person appointed to, or employed in, any Intelligence Organisation; (c) \"prescribed\" means prescribed by rules made under this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Penalty.",
+      "content": "Any person who contravenes any of the provisions of section 3 shall, without prejudice to any other action that may be taken against him, be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to two thousand rupees, or with both."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Offences to be cognizable.",
+      "content": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),all offences punishable under section 4 shall be cognizable."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to amend Schedule.",
+      "content": "(1) The Central Government may, be notification in the Official Gazette, amend the Schedule by including therein any other organisation established by the Central Government for purposes of intelligence or counter-intelligence or by omitting therefrom any organisation already specified therein and on the publication of the notification, such organisation shall be deemed to be specified in, or, as the case may be, omitted from, the Schedule. (2) A copy of every notification issued under sub-section (1) shall, as soon as may be after it is issued, be laid before each House of Parliament."
+    }
+  ],
+  "language": "en"
+}

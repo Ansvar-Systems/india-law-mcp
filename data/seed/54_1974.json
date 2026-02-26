@@ -1,0 +1,36 @@
+{
+  "id": "act-54-1974",
+  "type": "statute",
+  "title": "The East Punjab Urban Rent Restriction Act (Extension to Chandigarh) Act, 1974",
+  "short_name": "EPURR 1974",
+  "status": "in_force",
+  "issued_date": "1974-12-20",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1610?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the East Punjab Urban Rent Restriction Act (Extension to Chandigarh) Act, 1974."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition.",
+      "content": "In this Act, \"the Act\" means the East Punjab Urban Rent Restriction Act, 1949 (East Punjab Act III of 1949) as it extended to, and was in force in, certain areas in the pre-reorganisation State of Punjab (being areas which were administered by municipal committees, cantonment boards, town committees or notified area committees or areas notified as urban areas for the purposes of that Act) immediately before the 1st day of November, 1966."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Extension of East Punjab Act III of 1949 to Chandigarh.",
+      "content": "Notwithstanding anything contained in any judgment, decree or order of any court, the Act shall, subject to the modifications specified in the Schedule, be in force in, and be deemed to have been in force with effect from the 4th day of November, 1972 in, the Union territory of Chandigarh as if the provisions of the Act as so modified had been included in and formed part of this section and as if this section had been in force at all material times."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Validation and saving.",
+      "content": "(1) Notwithstanding anything contained in any judgment, decree or order of any court, anything done or any action taken (including any notification or direction issued or rents fixed or permission granted or order made) or purported to have been done or taken under the Act shall be deemed to be as valid and effective as if the provisions of this Act had been in force at all material times when such thing was done or such action was taken. (2) Nothing in this Act shall render any person guilty of any offence for any contravention of the provisions of the Act which occurred before the commencement of this Act."
+    }
+  ],
+  "language": "en"
+}

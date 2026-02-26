@@ -1,0 +1,30 @@
+{
+  "id": "act-40-2021",
+  "type": "statute",
+  "title": "The Farm Laws Repeal Act, 2021",
+  "short_name": "FLR2 2021",
+  "status": "in_force",
+  "issued_date": "2021-11-30",
+  "url": "https://www.indiacode.nic.in/handle/123456789/16976?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Farm Laws Repeal Act, 2021."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Repeal of Acts 20 of 2020, 21 of 2020 and 22 of 2020.",
+      "content": "The Farmers (Empowerment and Protection) Agreement on Price Assurance and Farm Services Act, 2020, the Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act, 2020 and the Essential Commodities (Amendment) Act, 2020 are hereby repealed."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Amendment of Act 10 of 1955",
+      "content": "In section 3 of the Essential Commodities Act, 1955, sub-section (1A) shall be omitted."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,984 @@
+{
+  "id": "act-18-1881",
+  "type": "statute",
+  "title": "The Central Provinces Land-Revenue Act, 1881",
+  "short_name": "CPL1 1881",
+  "status": "in_force",
+  "issued_date": "1881-06-08",
+  "url": "https://www.indiacode.nic.in/handle/123456789/19215?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called \"The Central Provinces Land-revenue Act, 1881\": Local extent. It extends to all the territories for the time being under the administration of the Chief Commissioner of the Central Provinces, except those specified in Part VI of the first schedule of the Scheduled Districts Act 1874: Commencement. and it shall come into force on such day as the Chief Commissioner, with the previous sanction of the Governor General in Council, may direct by notification in the local official Gazette."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Enactments repealed.",
+      "content": "On and from such day the enactments mentioned in the schedule hereto annexed, so far as they relate to the territories to which this Act extends, and all other rules, regulations and enactments relating to the settlement and collection of the land-revenue in such territories, shall be repealed."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Pending proceedings.",
+      "content": "All proceedings relating to matters dealt with by this Act and, when this Act comes into force, pending before officers by whom they would be cognizable under this Act, shall be deemed, so far as may be, to have been commenced hereunder."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Interpretation-clause.",
+      "content": "In this Act, unless there is something repugnant in the subject or context, — (1) “Assistant Commissioner” includes also “Extra Assistant Commissioner”: (2) “ Legal practitioner” means an advocate, vakil or attorney of any High Court, a pleader, mukhtar or revenue-agent: (3) “Village-cess” means any cess which a person resident or holding lands in a village pays or renders to the proprietors as such of the village, and includes service rendered or things furnished as well as money paid: (4) “Recognized agent” means a person authorized in writing by any party to a proceeding under this Act to make appearances and applications and to do other acts on his behalf in such proceeding and also belonging to any class which the Chief Commissioner may, from time to time, by notification in the official Gazette, declare in this behalf: (5) “Agricultural year means the year commencing on the first day of June, or on such other date as the Chief Commissioner may, in the case of any specified district or districts, from time to time, appoint: (6) “ Sir-land” means (a) land recorded as “sir” in the papers of the last preceding settlement of the local area in which such land is situate; and (b) land not so recorded, but which has been cultivated by the proprietor or one of the proprietors thereof for a period of not less than twelve consecutive years; and (c) waste land which has been broken up by the proprietor or one of the proprietors thereof and cultivated by him for a period of not less than six consecutive years; and (d) in Sambalpur, includes also “ bhogra” land. Explanation.—Land which has, after the date of such settlement, or the expiry of such period of twelve years, or six years (as the case may be), been for a period of six consecutive years unoccupied by such proprietor is not sir-land. Land is not unoccupied by the proprietor when it is leased out by him with an express reservation of his sir-rights: (7) “Mahal” means any local area held under a separate engagement for the payment of the land-revenue direct to Government, and Includes also any local area declared, under the provisions of this Act, to be a mahal: (8) “Village” includes any tract of land which, at the last settlement of such land, has been recognized as a village, or which the Chief Commissioner may, from time to time, declare to be a village for the purposes of this Act: (9) “Malguzar” means a person who, under the provisions of this Act, has accepted, or is to be deemed to have accepted, the assessment of a mahal, and includes his representatives and assigns; and also any person with whom a settlement has been made before this Act comes into force, and his representatives and assigns: (10) “Malik-makbuza” means any person owning one or more plots of land assessed with revenue in a mahal; but it does not include a malguzar or inferior proprietor: (11) “Lambardar” means a person appointed in manner prescribed by this Act to represent the proprietary body of a mahal in its relations with the Government: (12) “Sub-lambardar” means a person so appointed to represent the inferior proprietary body of a mahal in its relations with the superior proprietors: (13) “Mukaddam” means the executive headman of a village, appointed in manner prescribed by this Act: (14) “Tenant” means a person who holds land of another person, and is, or but for a special contract would be, liable to pay rent for such land to such other person; but it does not include a farmer, mortgagee or the kadar of proprietary rights. Explanation.—An inferior proprietor is not, as such, a tenant: (15) “Rent” means whatever is paid, delivered or rendered, in money, kind or service, by a tenant on account of the use or occupation of land let to him: (16) “Absolute occupancy-tenant” means, in reference to any land, a tenant who, at a settlement of such land made before this Act comes into force, or after such a settlement but before this Act comes into force, was recorded, by order of a Revenue or Settlement-officer, in respect of such land, as an “absolute occupancy-raiyat,” or in terms equivalent thereto: (17) “Record-of-rights” includes the supplementary administration-paper prepared at or after the time of making a settlement before this Act comes into force."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Chief Controlling Revenue-authority.",
+      "content": "The Chief Commissioner shall, subject to the control of the Governor General in Council, be the Chief Controlling Revenue-authority."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Revenue-officers.",
+      "content": "Besides the Chief Commissioner, there shall be the following classes of Revenue-officers (namely):-- (a) Commissioners, who, subject to the control of the Chief Commissioner, shall be the Chief Revenue-authorities within their respective divisions: (b) Deputy Commissioners, who, subject to the control of the Commissioner, shall be the chief Revenue-authorities within their respective districts: (c) Assistant Commissioners, who shall be subordinate to, and under the control of, the Deputy Commissioners of the districts to which they are respectively attached: (d) Tahsildars, who, subject to the control of the Deputy Commissioner, shall be the Chief Executive Revenue-authorities in the tahsils to which they are respectively attached: (e) Naib Tahsildars, who shall be subordinate to the Tahsildars of the tahsils to which they are respectively attached."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Appointment, suspension and removal of Commissioners, Deputy and Assistant Commissioners.",
+      "content": "Subject to the control of the Governor General in Council, the Chief Commissioner shall appoint, and may suspend or remove, Commissioners, Deputy Commissioners and Assistant Commissioners."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Appointment, suspension and removal of Tahsildars and Naib Tahsildars.",
+      "content": "The Chief Commissioner shall appoint, and may suspend or remove, Tahsildars; and may also make rules for regulating the appointment, duties, suspension and removal of Naib Tahsildars."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Persons holding office when Act comes into force.",
+      "content": "All Commissioners, Deputy Commissioners, Assistant Commissioners, Tahsildars and Naib Tahsildars holding office as such in the territories to which this Act extends when this Act comes into force shall be deemed to have been appointed hereunder."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Power to appoint additional Commissioners, Deputy Commissioners and Tahsildars.",
+      "content": "The Chief Commissioner may appoint any person to be an additional Tahsildar in any tahsil, or, with the sanction of the Governor General in Council, to be an additional Commissioner or additional Deputy Commissioner in any division or district, and may suspend or remove any person so appointed, but subject, in the case of an additional Commissioner or additional Deputy Commissioner, to the like sanction. The Chief Commissioner may invest any additional Commissioner, Deputy Commissioner or Tahsildar appointed under this section with all or any of the powers conferred by this Act on a Commissioner, Deputy Commissioner or Tahsildar, as the case may be."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Chief Commissioner may invest Assistant Commissioner with powers of Deputy Commissioner.",
+      "content": "The Chief Commissioner may invest any Assistant Commissioner attached to a district with all or any of the powers conferred by this Act on Deputy Commissioners."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Officers transferred to retain powers with which they were invested.",
+      "content": "Whenever any Assistant Commissioner, Tahsildar or Naib Tahsildar is transferred from one district or tahsil to another, he shall, unless the Chief Commissioner otherwise directs, exercise in the district or tahsil to which he is transferred all the powers with which he was, under any provision of this Act, invested by the Chief Commissioner in the district or tahsil from which he is transferred."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Provision for discharge of duties of Deputy Commissioner dying or being disabled.",
+      "content": "When a Deputy Commissioner dies or is disable from performing his duties, such officer as the Chief Commissioner may by rule direct shall take executive charge of his district, and shall be deemed to be a Deputy Commissioner under this Act, until a successor to the Deputy Commissioner so dying or disabled is appointed and such successor takes charge of his office, or until the person so disabled resumes charge of his office."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Chief Commissioner may alter limits of district or tahsil.",
+      "content": "The Chief Commissioner may, from time to time, by notification in the official Gazette, alter the limits of any district or tahsil, create new districts or tahsils and abolish existing districts or tahsils."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Power to invest Revenue-officers, — with power conferred by Code of Civil Procedure; with power to delegate powers.",
+      "content": "The Chief Commissioner may, subject to the control of the Governor General in Council, invest any Revenue-officer with any of the following powers:-- With power conferred by Code of Civil Procedure; for the purpose of disposing of cases under this Act, any power conferred by the Code of Civil Procedure on a Civil Court; with power to delegate power, ower to delegate to any Revenue-officer subordinate to him the exercise of any power of performance of any duty conferred or imposed on him by this Act; and, subject to the like control, may determine the Revenue-officer by whom any case or class of cases for which no express provision in this behalf is made in this Act shall be disposed of."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Power of Deputy Commissioners to distribute work.",
+      "content": "Subject to any rules which the Chief Commissioner may make in this behalf, a Deputy Commissioner may-- (a) refer any case to any Revenue-officer subordinate to him for investigation and report, or, if such officer has power to dispose of such case, for disposal; or (b) direct that any Revenue-officer subordinate to him shall, without such reference, deal with any case or class of cases arising within any specified area, and either investigate and report on such case or class, or, if he has power, dispose of it himself. The subordinate Revenue-officer shall submit his report on any case referred to him under this section for report to the Deputy Commissioner, or otherwise, as may be directed in the order of reference; and the officer receiving such report may, if he has power to dispose of the case, dispose of the same, or may return it for further investigation to the officer submitting the report, or may hold such investigation himself."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Power of superior Revenue-authorities to withdraw and transfer cases.",
+      "content": "The Chief Commissioner, the Commissioner or the Deputy Commissioner may withdraw any case pending before any Revenue-officer subordinate to him, and either dispose of it himself, or refer it for disposal to any other Revenue-officer subordinate to him and having power to dispose of the same."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Power of Revenue-officers to enter on land, &c.",
+      "content": "All Revenue-officers and persons acting under their orders may, in the performance of any duty under this Act, enter upon and survey land, and demarcate boundaries, and do all other acts necessary to the business in which they are engaged."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Power to make rules to regulate procedure.",
+      "content": "The Chief Commissioner may, with the previous sanction of the Governor General in Council, make rules consistent with this Act for regulating the procedure of Revenue-officers in cases for which a procedure is not prescribed by this Act, and may, by any such rule, direct that any provisions of the Code of Civil Procedure shall apply, with or without modification, to all or any classes of cases before Revenue-officers."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Persons by whom appearances and applications may be made before and to Revenue-officers.",
+      "content": "All appearances before, applications to, and acts to be done before, any Revenue-officer under this Act may be made or done-- (a) by the parties themselves; or, (b) with the permission of the officer, by their recognized agents or any legal practitioner: Obligation of parties to attend in person. Provided that the employment of a legal practitioner of recognized agent shall not excuse the personal attendance of a party to any proceeding in cases where such attendance is required by any order of the Revenue-officer."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Legal practitioner's or agent's fees not allowed unless for special reasons.",
+      "content": "The fees of a legal practitioner or recognized agent shall not be allowed as costs before any Revenue-officer unless such officer considers, for reasons to be recorded by him in writing, that such fees should allowed."
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Appeals.",
+      "content": "An appeal shall lie against every decision or order under this Act. (a) when such decision or order is passed by any Revenue-officer subordinate to the Deputy Commissioner, except an Assistant Commissioner exercising the powers of a Deputy Commissioner,-- to the Deputy Commissioner; (b) when such decision or order is passed by a Deputy Commissioner, or by an Assistant Commissioner exercising the powers of a Deputy Commissioner, whether in the first instance or on appeal,---to the Commissioner of the division; (c) when such decision or order is passed on appeal of otherwise by the Commissioner of a division,---to the Chief Commissioner: Provided that in no case shall a third appeal be allowed."
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Limitation of appeals.",
+      "content": "No appeal shall lie-- (a) in the Court of the Deputy Commissioner or an Assistant Commissioner exercising the powers of a Deputy Commissioner---after the expiration of thirty days from the date of the decision or order complained of; or (b) in the Court of the Commissioner---after the expiration of sixty days from such date; or (c) in the Court of the Chief Commissioner---after the expiration of ninety days from such date. In computing such periods of limitation, and in all respects not herein specified, the provisions of the Indian Limitation Act, 1877, shall apply."
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Powers of revision of Commissioner and Deputy Commissioner.",
+      "content": "Any Commissioner or Deputy Commissioner may at any time, for the purpose of satisfying himself as to the legality or propriety of any order passed by, and as to the regularity of the proceedings of, any Revenue-officer subordinate to him, call for and examine the record of any case pending before, or disposed of by, such officer, and may pass such order in reference thereto as he thinks fit : Provided that he shall not under this section modify or reverse any order affecting any question of right between private persons, without having given to the parties interested reasonable notice to appear and be heard in support of such order."
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Powers of revision or Chief Commissioner.",
+      "content": "The Chief Commissioner may at any time call for and examine the record of any case pending before, or disposed of by, any Revenue-officer, and may pass such order in reference thereto as he thinks fit: Provided that no order affecting any question of right between private persons shall be passed under this section unless the Chief Commissioner has given the parties interested an opportunity of being heard."
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Review of orders.",
+      "content": "Every Revenue-officer may, either on his own Motion or on the application of any party interested, review, and on so reviewing modify, reverse or confirm, orders passed by himself or by any of his predecessors in office: Provided as follows-- (1) when a Commissioner or Deputy Commissioner thinks it necessary to review any order which he has not himself passed, and when an officer under the rank of a Deputy Commissioner proposes to review any order, whether passed by himself or by any predecessor, he shall first obtain the sanction of the officer to whom he is immediately subordinate: (2) no order shall be modified or reversed unless reasonable notice has been given to the parties interested to appear and be heard in support of such order: (3) no order against which an appeal has been preferred shall be reviewed while such appeal is pending: (4) no order affecting any question of right between private persons shall be reviewed except on the application of a party to the proceedings; and no application for the review of such an order shall be entertained unless it is made within ninety days from the passing of the order, or unless the applicant satisfied the Revenue-officer that he had sufficient cause for not making the application within such period. For the purposes of this section, the Deputy Commissioner shall be deemed to be the successor in office of any Revenue-officer who has left the district or has ceased to exercise powers as a Revenueofficer, and to whom there is no successor in office."
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Notification of revenue-survey.",
+      "content": "Whenever it appears to the Chief Commissioner that a revenue-survey should be made in any local area, he shall publish a notification in the official Gazette directing that such survey be made, and cause translations of such notification in the language of the district to be posted up in conspicuous places in such area; and thereupon all officers in charge of such survey, their assistants, servants, agents and workmen may enter upon the lands to be surveyed, and erect survey-marks, and do all other acts necessary for making the survey."
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Notification of settlement.",
+      "content": "When any local area is to be settled, the Chief Commissioner may, with the previous sanction of the Governor General in Council, issue a notification of settlement, and in such notification shall--- (a) define the local area to be settled; (b) specify the operations which are to be carried out in the settlement; Power to amend notification. and may from time to time, with the like sanction, amend, alter or cancel such notification. Every such notification, amendment, alteration and cancellation shall be published in the local official Gazette."
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Power to appoint Settlement-officers; and to suspend and remove them",
+      "content": "The Chief Commissioner may from time to time appoint one or more officers (hereinafter called Settlement-officers) to make the settlement of such area; and when he appoints more than one such officer, he shall appoint one of them (hereinafter called the Chief Settlement-officer) to control such settlement, an all other officers appointed for the purposes of such settlement shall be subordinate to the Chief Settlement officer. and to suspend and remove them. The Chief Commissioner may suspend or remove any officer appointed under this section."
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Settlement-officer may be invested with powers of Deputy Commissioner.",
+      "content": "During the progress of the settlement of any local area, the Chief Commissioner may invest any Settlement-officer within such area with all or any of the powers of a Deputy Commissioner under this Act, to be exercised by him in such classes of cases as the Chief Commissioner may from time to time direct."
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Certain provisions of Chapter II applied to Settlement-officers.",
+      "content": "The provisions of section eleven and sections fifteen to twenty-six, both inclusive, shall apply, mutatis mutandis, to Settlementofficers and to proceedings before them, the expression \"Settlement-officer\" being read for the expressions \"Assistant Commissioner” and \"Revenue-officer,\" and the expression \"Chief Settlement-officer\" for the expression \"Deputy Commissioner,\" wherever those expressions occur: Provided that an appeal from any appealable order passed by a subordinate Settlement-officer shall lie to the Chief Settlement-officer if preferred within sixty days from the date of such order: Provided also that no appeal shall lie from any decision of a Chief Settlement officer which can be called in question in a Civil Court."
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Appointment of Settlement-commissioner; delegation to him of Chief Commissioner’s powers.",
+      "content": "The Chief Commissioner may, from time to time, with the previous sanction of the Governor, General in Council, (a) appoint a Settlement-commissioner, and transfer to him, within any local area under settlement, all or any of the powers which the Commissioner of the division, if the land to be settled were wholly situate within such division, would otherwise exercise under this Act in matters connected with such settlement; and (b) delegation to him of Chief Commissioner's powers. delegate to the Settlement-commissioner such of his own powers in regard to matters connected with such settlement as he thinks fit."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Power to invest Settlement-officers with Civil Court powers.",
+      "content": "When any local area is under settlement, the Chief Commissioner may invest any subordinate Settlement-officer with the powers of any of the first five grades of Courts described in section four of the Central Provinces Courts, Act, 1865, and the Chief Settlement-officer with the powers of a Court of a Deputy Commissioner described in the same Act, sections twelve, nineteen and twenty, for the trial, in the first instance, of any of the following classes of suits instituted within such area (namely):-- (a) suits for arrears of rent due on account of any fight of pasturage, forest-rights, fisheries or the like; (b) suits by lambardars for arrears of revenue payable through them by the proprietors whom they represent; (c) suits by proprietors for their share of the profits of an estate or any part thereof after payment of the revenue and village-expenses, or for a settlement of accounts; (d) suits by muafidars or assignees of revenue for arrears of revenue owing to them as such muafidars or assignees; (e) suits by superior proprietors for arrears of revenue due to them as such superior proprietors; (f) suits by proprietors and others in receipt of the rent of land against any agents employed by them in the management of land or collection of rents, or against the sureties of such agents, for money received or accounts kept by such agents in the course of such employment, or for papers in their possession; (g) suits regarding any matter which a Settlement-officer is required to decide or to enter in the record-of-rights, and of which Civil Courts can take cognizance; (h) suits relating to land, or the rent, profits or occupation of land."
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Chief Settlement-officer to have powers of Deputy Commissioner.",
+      "content": "When the Chief Commissioner invests any subordinate Settlement-officer with the powers of a Civil Court for the trial of any of the suits mentioned in section thirty-three, the Chief Settlement-officer to whom such Settlementofficer is subordinate shall have the powers of the Court of a Deputy Commissioner described in the Central Provinces Courts’ Act, 1865, sections twelve, nineteen and twenty, with reference to proceedings before, or decrees and order of, such settlement-officer in such suits."
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Appeals in suits specified in section 33 when to lie to Chief Settlement-officer.",
+      "content": "When any local area is under settlement and Settlement-officers have been invested with the powers mentioned in section thirty-three in such local area, the Chief Commissioner may, with respect to all or to any of the suits specified in that section, declare that all or any of the decrees and orders passed in exercise of the powers of Courts of the first four grades aforesaid, by Assistant Commissioners or Tahsildars not being Settlementofficers, shall be appealable to the Chief Settlement-officer, and not to the Deputy Commissioner of the district."
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Division of civil work between Settlement-officers and ordinary Courts.",
+      "content": "When any local area is under settlement and the Settlement-officers therein have been invested with powers under section thirtythree, the Chief Commissioner may withdraw from the jurisdiction of the ordinary Civil Courts within such area the classes of suits which Settlement-officers have power to dispose of under that section, or he may direct that, in respect of such suits, the Settlement-officers shall have concurrent jurisdiction with the ordinary Civil Courts: Provided that no proceedings which have been inadvertently or erroneously taken before the Civil Court shall be deemed to be invalid merely on the ground that, by the Chief Commissioner's order, they should have been taken before a Settlement-officer."
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Provisions of section 31 not to apply to certain suits.",
+      "content": "Nothing in section thirty-one shall apply to suits and appeals or other proceedings instituted before, or determined by, Settlement-officers in pursuance of powers conferred upon them under section thirty-three, thirty-four or thirty-five."
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Appeal, reference and revision.",
+      "content": "Except as provided in sections thirty-three, thirty-four and thirty-five, the decrees and orders of a Settlement-officer passed, whether in the first instance or on appeal, in exercise of the powers of a Civil Court of any grade, shall, for the purposes of appeal, reference and revision, be deemed to be decrees and orders of a Civil Court of such grade, and no appeal shall lie under the provisions of section twenty-two from such decrees or orders."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Duration of settlement-operations.",
+      "content": "Every settlement notified under section twenty-eight shall be deemed to be in progress until the Chief Commissioner, by notification in the official Gazette, declares that it is completed. Cases pending at close of settlement-operations.--When the settlement of any local area has been notified as completed, all the powers exercised by the Settlement-officers in such area shall cease, and all suits and applications pending before such officers shall be transferred to such of the Courts ordinarily having jurisdiction in such cases as the Commissioner of the division directs; or, if there are no such Courts, shall be disposed of in such manner as the Chief Commissioner directs."
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Settlement-officer to invite claims to lands appearing to have no owner.",
+      "content": "When any local area is under settlement, the Settlement-officer shall make lists of all lands in such area which appear to him to have no lawful owner, and shall thereupon issue a notification declaring his intention to demarcate such lands as the property of the Government and inviting every person having claims to or over them to present in his court, within three months from the date of the notification, a petition in writing setting forth such claims and the respective grounds thereof."
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Application of Act XXIII of 1863.",
+      "content": "Every such notification shall be deemed to be an advertisement under Act No. XXIII of 1863 (to provide for the adjudication of claims to waste lands), section one; the demarcation of such lands shall be deemed to be a disposition of them within the meaning of that Act; the Settlement-officer shall exercise all the powers vested in the Collector by that Act; and claims to or over the land comprised in such notification shall be dealt with as nearly as may be in the manner prescribed in that Act."
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Procedure when limited right over land established.",
+      "content": "Whenever a claim to the exercise or enjoyment of any right (not amounting to the right of exclusive possession) in, to or over, any land comprised in such notification is established, either before the Settlement-officer or before the Court constituted under the said Act No. XXIII of 1863, section seven, the Settlement-officer may assign to the claimant as his property a definite portion of such land, or, with the sanction of the Chief Commissioner, he may otherwise compensate the claimant; and such assignment or compensation shall be held to extinguish all claims on account of such exercise or enjoyment."
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Power to form mahals.",
+      "content": "The Settlement-officer may declare any local area to be a mahal."
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Settlement-officer may exclude any town or land from settlement-operations.",
+      "content": "For the purpose of excluding from all or any of the operations of the settlement any town or any land from which the owner can derive no profit, the Settlement-officer may mark off the site and determine the limits of such town or land: Provided that no land in respect of which land-revenue payable at the date of the notification issued under section twenty-eight shall, under this section, be exempted from assessment without the sanction of the Chief Commissioner."
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Erection of new, and repair of existing, boundary-marks.",
+      "content": "When any local area is under settlement, the Settlement-officer may order all persons who have proprietary rights in the land comprised in such area to erect boundary-marks of such description and at such places as he thinks necessary in order to define the limits of the mahals, fields or other lands in their possession, or to repair boundary-marks already existing; and may fix a reasonable time for obeying his order; and if his order is not obeyed within such time, may cause such marks to be erected or repaired under his own orders, and may recover the cost of such erection or repair from the persons against whom his order was made, in such proportion as he thinks fit."
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Separate sum to be assessed on every mahal.",
+      "content": "On every mahal a definite and separate sum shall be assessed as land-revenue; but the sum so assessed may be reduced in such manner and to such extent as the Chief Commissioner thinks fit, for any period not exceeding ten years from the date on which the assessment takes effect."
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Matters as to which Chief Commissioner is to instruct Settlement-officer",
+      "content": "The Chief Commissioner may from time to time, with the previous sanction of the Governor General in Council, give instructions to the Settlement-officer as to the principle on which land-revenue is to be assessed, and as to the sources of miscellaneous income to be taken into account in the assessment."
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "What land taken into account in assessing mahal.",
+      "content": "In assessing a mahal all land situate therein shall be taken into account except the following (that is to say):-- (a) land purchased free from revenue under any rules for the time being in force to regulate the sale of waste-lands; (b) land in respect of which the revenue has been redeemed under any rules for the time being in force; (c) land excluded from assessment under section forty-four; (d) land in respect of which a claim to hold it free from revenue as against the Government is established under the provisions hereinafter contained; (e) land which the Chief Commissioner, subject to the control of the Governor General in Council, may from time to time exempt from assessment."
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "Assessment to whom to be offered.",
+      "content": "The assessment of every mahal shall be offered to the entire proprietary body of such mahal: provided that, when superior and inferior proprietary rights co-exist in the same mahal, the Settlement-officer may, subject to such rules as the Chief Commissioner may make in this behalf, determine whether the assessment shall be offered to the superior or to the inferior proprietors. Subject to such rules as the Chief Commissioner may make in this behalf, the Settlement-officer may determine the manner and proportion in which the proprietary profits of the maha1 shall be allotted between the superior and the inferior proprietors. When a proprietor has mortgaged his rights in any mahal, and the mortgagee has entered into possession, such mortgagee, so long as he is in possession, shall, for the purposes of this section, stand in the place of the mortgagor."
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Sub-settlement to be made with inferior proprietors when settlement is made with superior.",
+      "content": "When in a mahal in which superior and inferior proprietors co-exist, the Settlement-officer makes a settlement with the superior proprietors, he shall make on their behalf a sub-settlement with the inferior proprietors, by which such inferior proprietors shall be bound to pay to the superior proprietors an annual revenue equal to the land-revenue with which the mahal is assessed and to the profits to which the superior proprietors are entitled under section forty-nine."
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "Power to give directions as to payment of certain profits of superior proprietors.",
+      "content": "When in any such mahal the settlement is made with the inferior proprietors, the Settlement-officer may direct that the profits to which the superior proprietors are entitled under section forty-nine, shall be paid by the inferior proprietors direct to such superior proprietors, or that such profits shall be collected as if they were landrevenue and shall be paid to the superior proprietors from the Government Treasury."
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Power to make rules for reporting assessment for sanction.",
+      "content": "The Chief Commissioner may make rules prescribing the manner in which the Settlement-officer shall report for sanction his rates and method of assessment; and no assessment shall be offered without the previous sanction of the Chief Commissioner."
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "Offers of assessment to be made subject to revision and confirmation.",
+      "content": "In making any offer of assessment the Settlement-officer shall state that it is made subject to confirmation by the Governor General in Council, and also to revision by the Chief Commissioner at any time before such confirmation is received."
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "Option to accept or refuse assessment.",
+      "content": "It shall be in the option of the persons to whom an assessment is offered to accept or refuse the same. Mode of acceptance. If they are willing to accept it, they shall make and sign an acceptance in writing, in such form as the Chief Commissioner may from time to time prescribe in this behalf, and deliver the same to the Settlement-officer."
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "Proprietor not accepting in manner prescribed may be deemed to have accepted.",
+      "content": "Any proprietor who, within such reasonable period as may be specified by the Chief Commissioner, fails to make, sign and deliver such acceptance, or to inform the Settlement-officer that he refuses the proposed assessment, shall, if the Settlement-officer by an order in writing so directs, be deemed to have accepted such assessment."
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "Effect of acceptance of assessment.",
+      "content": "Whenever the assessment of a mahal has been accepted under this Act, the persons who have accepted it shall be bound to pay the amount thereof from such date and for such term as the Chief Commissioner may appoint in this behalf, or, if at the expiry of that term no new assessment has been made and is ready to take effect, until a new assessment has been made and is ready to take effect: Provided as follows: -- Assessmemt may be rescinded by Chief Commissioner; or by Governor General in Council. 1st---any assessment may be rescinded by the Chief Commissioner at any time before it has been confirmed by the Governor General in Council; 2ndly---the Governor General in Council may rescind any assessment submitted to him for confirmation; Malguzrs may object to continuance of assessment beyond term of settlement. 3rdly--if all the malguzars of a mahal, six months before the expiry of the term fixed under this section, apply in writing to the Deputy Commissioner stating that they are unwilling that the assessment should continue in force beyond the expiry of such term, the assessment shall, on the expiry of such term, cease to be in force."
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Procedure when assessment is refused.",
+      "content": "Where there is but one class of proprietors in a mahal, and all refuse to accept in manner required by section fifty-four the assessment offered, the Settlementofficer may, with the previous sanction of the Chief Commissioner, exclude them from settlement for a period not exceeding thirty years from the date of such exclusion, and may either let the mahal in farm, or take it under direct management."
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Procedure when only some proprietors accept assessment.",
+      "content": "If some of the proprietors consent, and some refuse, so to accept the assessment offered, the Settlement-officer may, with the previous sanction of the Chief Commissioner, if the interest of the recusant proprietors in the lands taken into account in the assessment consists entirely of lands held by them separately form the other proprietors, exclude such in the lands taken into account in the assessment consists entirely of lands held by them separately from the other proprietors, exclude such recusant proprietors from settlement for a period not exceeding thirty years from the date of such exclusion, and either let their lands in farm or take such lands under direct management. In other cases the assessment of the entire mahal shall be offered to the proprietors who consented to accept the assessment when originally offered, and if they refuse it the mahal shall be dealt with under the provisions of section fifty-seven. When the recusant proprietors are excluded under this section, the lands of the proprietors who consented to accept the assessment originally offered shall be deemed to be a separate mahal, and shall be assessed as such; and such assessment shall be offered to the proprietors so consenting; and if the lands of the recusant proprietors are let in farm, the farm shall be first offered to the proprietors who consented to accept the assessment originally offered."
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "Procedure on refusal of assessment in village in which superior and inferior rights co-exist.",
+      "content": "When an assessment is offered in a mahal in which both superior and inferior proprietors co-exist---a) if all the proprietors of the class with which the Settlement-officer proposes to make the settlement refuse to accept as aforesaid the assessment offered, the assessment shall be offered to the proprietors of the other class; and if all such proprietors refuse the assessment, the Settlement-officer shall proceed as provided in section fifty-seven; (b) if some only of the proprietors of the class with which the Settlement-officer proposes to make the settlement refuse the assessment, he may either proceed as if all had refused it or may deal with the mahal under section fifty-eight: Provided that if, in the case contemplated by clause (b), the proprietors who consented to accept the assessment when originally offered refuse to accept it, such assessment shall be offered to the other class of proprietors."
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "Procedure on refusal of assessment by inferior proprietors.",
+      "content": "If all or any of the inferior proprietors refuse any assessment offered under section fifty, the Settlement-officer may exclude them all from the sub-settlement, and assign the proprietary management and profits of the mahal to the superior proprietor for any term not exceeding the term of settlement."
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "Allowance to excluded proprietors.",
+      "content": "Any proprietor excluded from settlement under section fifty-seven or section fifty-nine, clause (a), shall be entitled to receive from the Government an annual allowance, the amount of which shall be fixed by the Chief Commissioner but which shall not be less than five per cent., or more than ten per cent., on the amount of the assessment offered to him by the Settlement-officer."
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "Excluded proprietors to have occupancy-rights in their sir-land.",
+      "content": "Any proprietor excluded from settlement or sub-settlement under sections fifty-seven to sixty, both inclusive, shall be entitled to retain possession of his sir-land (if any) as if he were an absolute occupancy-tenant, and the rent to be paid by him for such land during the term of his exclusion shall be fixed by the Settlement-officer accordingly."
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "Aggregate amount of allowance granted to, and deduction from rent allowed to, excluded proprietor",
+      "content": "The aggregate amount of any allowance under section sixty-one, and of the difference between the rent fixed under section sixty-two and the rent which the excluded proprietor would be liable to pay if he were a tenant-at-will, shal1 not be less than five or more than fifteen per cent. on the amount of the assessment offered to him by the Settlement-officer."
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Sub-settlement with malik-makbuzas and other like holders of land.",
+      "content": "The Settlement-officer may make, on behalf of malik-makbuzas or other like holders of land, such a sub-settlement as shall secure to them from the malguzars of the mahal their existing rights; and may provide that, in addition to the landrevenue payable by them, they shall pay to the malguzars such percentage thereon, not exceeding twenty per cent., as may in his opinion be sufficient to compensate the said malguzars for their responsibility in respect of the land-revenue, and to provide for the fees of lambardars and mukaddams."
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "Revenue payable under sub-settlement to be first charge on land.",
+      "content": "The amount of revenue payable under a sub-settlement shall be a first charge upon all the land comprised in such sub-settlement."
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Settlement-officer to apportion assessment over lands held in severalty.",
+      "content": "When the whole of the land comprised in a mahal is held in severalty, the Settlement-officer shall apportion to the several holdings the amount with which such land is assessed under a settlement or sub-settlement. When only part of the land comprised in a mahal is held in severalty, the Settlement-officer shall apportion such amount to the part held in common and the part held in severalty, and shall further apportion to the several holdings the amount to which they are liable under the former apportionment."
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "to redistribute land according to custom.",
+      "content": "When by established custom the land held by each proprietor in any mahal is subject to periodical redistribution, the Settlement-officer may, in his discretion, on the application of the proprietors, make such redistribution according to such custom."
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "Settlement-officer to ascertain proprietors.",
+      "content": "The Settlement-officer shall ascertain the persons who are in possession as proprietors of the land comprised in each mahal."
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "to determine extent of sir-land.",
+      "content": "The Settlement-officer shall ascertain the situation and determine the extent of all the land held as sir in each malal."
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "to decide disputes among shareholders regarding management of mahal.",
+      "content": "The Settlementofficer shall ascertain the customs or rules by which the proprietors in each mahal are mutually bound as to the granting of pattas the ejectment of tenants, the realization and distribution of rents and other profits, the payment of land revenue, village-expenses and other charges, and generally as to the control and management of the mahal; and shall decide all disputes and record all agreements regarding the matters mentioned in this section."
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "to determine through what lambardars revenue shall be paid.",
+      "content": "The Settlement-officer shall determine through which of the lambardars or sub-lambardars the amount of revenue payable by each proprietor, sub-proprietor or malik-makbuza shall be paid."
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "to ascertain status and rents of tenants.",
+      "content": "The Settlement-officer shall ascertain, and record for each mahal, the status of all tenants occupying land therein, the lands respectively held by them, the conditions on which they respectively hold such lands, and the rents (if any) payable by them respectively."
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "Enquiry into claims to hold free from revenue as against Government.",
+      "content": "The Settlement-officer shall investigate all claims against the Government to hold land free from revenue or at less than a full assessment, or to receive the whole or part of the land-revenue assessed on land which is not free from revenue. Power of Chief Commissioner to make rules.---The Chief Commissioner may, with the previous sanction of the Governor General in Council, make rules determining the principles by which the Settle-ment-officer shall be guided in the disposal of claims coming under this section."
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "Enquiry as to claims to hold free from revenue as against malguzars.",
+      "content": "When any land not being land which any person is entitled to hold free from revenue as against the Government is held by a proprietor, whether himself a malguzar or not, who claims to hold it wholly or partially free from revenue as against the other malguzars of the mahal, the Settlement-officer shall decide whether the claimant is entitled to be exempted from paying the whole or any part of the revenue which would otherwise be payable in respect of such land, and, if he decides that the claimant is so entitled, shall also determine the conditions under which, and the term for which, the claimant is entitled to such exemption: Provided that no decision under this section shall exempt any land from the payment of revenue, when the mahal in which such land is comprised is sold for arrears of revenue. Chief Commissioner may make rules for disposal of such cases.--The Chief Commissioner may make rules for the guidance of Settlement-officers in dealing with cases under this section."
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "Time from which orders under sections 73 and 74 take effect.",
+      "content": "When the Settlement-officer decides, under section seventy-three or section seventy-four, that land which has been held free from revenue, or at less than a full assessment, is liable to pay revenue, or to pay the same at enhanced rates, such decision shall take effect from the first day of the agricultural year next ensuing; unless the Chief Commissioner directs that the amount payable in respect of such land on account of the revenue accruing due within anyone or more of the last preceding twelve years shall be realized."
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "Settlement-officer to decide what village-cesses are leviable.",
+      "content": "The Settlement-officer shall determine and record the village-cesses if any which are leviable in accordance with village-custom, and the persons by and from whom, and the rates at which, they are leviable; and such cesses shall, if sanctioned by the Chief Commissioner, be leviable accordingly."
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "to determine certain disputes.",
+      "content": "The Settlement-officer may determine disputes regarding any of the following matters (namely):-- (a) the right of any lambardar, mukaddam, patwari, village-watchman or other village-servant to any customary dues, or other remuneration, and his liability to render any customary service in return for such dues or remuneration; (b) the rights of persons resident in the village or holding lands comprised in the mahal, in or to the common land of the mahal and its produce, and the village-site; (c) any customs relating to irrigation or to rights-of-way and other easements; (d) any other rights and customs which the Chief Commissioner directs to be recorded in the administration-paper."
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "Procedure in cases under sections 68,69,70,72 and 77, clauses (b), (c) and (d).",
+      "content": "If a dispute arises regarding any matter mentioned or referred to in sections sixty-eight, sixty-nine, seventy, seventy-two and seventy-seven, clauses (b), (c) and (d), the Settlement-officer shall decide it summarily after making such enquiry as he thinks fit, and shall not be bound to hear any party to such dispute or to receive any evidence tendered by any such party; but in the case of every such dispute he shall record a proceeding stating the nature of such dispute,· his decision thereon, the grounds of such decision and such other particulars as he thinks fit."
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "Record-of-rights.",
+      "content": "The Settlement-officer shall prepare for every mahal, or, if he thinks fit, for any group of neighbouring mahals, a record-of-rights, and shall include in it-- (a) the results of the inquiries made under this chapter in respect of such mahal or group; and (b) any other matters which the Chief Commissioner may, by rules in this behalf, direct to be entered in such paper."
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "Chief Commissioner may make rules regarding record-of-rights.",
+      "content": "The Chief Commissioner may make rules prescribing the language in which the record-of-rights shall be drawn up, the form of the papers of which it shall consist, and the manner in which such papers shall be signed and attested by the Settlement-officer and the parties interested in the matters to which they refer."
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "Record-of-rights to be made over to Deputy Commissioner.",
+      "content": "When the Settlement-officer has completed a record-of-rights in manner hereinbefore prescribed, he shall, subject to any order issued by the Chief Commissioner in this behalf, make it over to the Deputy Commissioner for custody."
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "Effect of entries in record-of-rights.",
+      "content": "When the record-of-rights is duly made and attested, all entries therein shall be presumed to be correct until the contrary is shown."
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "Suits to contest certain settlement decisions or entries.",
+      "content": "Any person deeming himself aggrieved by any decision under section seventy-eight, or by any decision of the Chief Settlement-officer in appeal therefrom or by any entry made in the record-of-rights as to any matter referred to in that section, may institute a suit in the Civil Court to have such decision set aside or such entry cancelled or amended: Provided as follows:-- When any suit under this section is instituted for the cancellation or amendment of an entry, the Government, if it so desires, and all persons interested in the entry, shall be made parties to the suit: No persons by whom the record-of-rights was signed, and no persons claiming through or under them shall, without the previous sanction of the Chief Commissioner, institute any suit with a view to modify or set aside any entry relating to any matter mentioned in section seventy or section seventy-seven, clause (b), (c) or (d)."
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "Revision of record-of-rights by Chief Commissioner.",
+      "content": "After an assessment has been confirmed by the Governor General in Council, the Chief Commissioner shall not exercise, in respect of any entry of the descriptions referred to in section eighty-three duly made in a record-of-rights prepared in connection with such assessment and duly attested, the power of revision conferred by sections twenty-five and thirtyone, unless it is proved that such entry was made inadvertently."
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "Proceedings regarding lands the property of Government.",
+      "content": "In respect of lands declared to be the property of Government, the Settlement-officer shall, instead of proceeding as hereinbefore provided, conduct such operations, and prepare such record, as the Chief Commissioner may direct."
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "Former settlements deemed to have been made under this Act.",
+      "content": "Settlements made before this Act comes into force shall be deemed, so far as may be, to have been made hereunder; and the provisions of this Act in regard to proceedings taken and records prepared by Settlement offices in the making of settlements hereunder shall apply in like manner to proceedings taken and records prepared before this Act comes into force."
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "Effect of awards of proprietary rights at such settlements.",
+      "content": "When a Settlement-officer or Settlement Court has, at any settlement made before this Act comes into force, made an award of proprietary rights in any land, all claims which after consideration by such officer or Court may have been expressly decided by him or it to be invalid, or inferior to the claims of the persons in whose favour the award was made, shall be barred both as against Government and as against the persons last mentioned; and no suit shall lie for the enforcement of such claims in any Civil Court. The award at any such settlement of proprietary rights in land to a widow shall be deemed to confer on her those rights only which, in accordance with the personal law to which she is subject, she would enjoy in land inherited by her from her husband."
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "When suits for proprietary rights will lie in Civil Courts.",
+      "content": "Any person whose claim to proprietary rights in any land was not expressly decided by such officer or Court may sue in a Civil Court to establish such claim; and if he can prove that, when proprietary rights in such land were awarded by such officer or Court to other persons, he was entitled to interests therein of the same nature as those upon consideration of which the award was made, the Civil Court may declare him entitled to a proprietary right of such nature and extent in the land as it may deem just."
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "Chief Commissioner may allot waste-land to malik-mak-buzas entitled thereto.",
+      "content": "When at any settlement made before this Act comes into force malik-makbuzas have been declared entitled to a portion of the waste-lands comprised in any mahal the Chief Commissioner may, notwithstanding anything contained in the record of such settlement, prescribe the extent of such portion and the mode in which the same shall be assigned to them; and may determine the nature and extent of their interests therein and the conditions on which they may hold it."
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "Power of Chief Commissioner to regulate payment of land-revenue.",
+      "content": "Notwithstanding anything contained in the record-of-rights of any village, the Chief Commissioner may fix the number and amount of the instalments, and the times, places and manner, at and in which land-revenue, whether payable direct to the Government or not, shall be paid. Until the Chief Commissioner otherwise directs, all such payments shall be made on the dates, in the instalments, in the manner and at the places on, in and at which they are payable when this Act comes into force."
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "Arrear.Defaulters.",
+      "content": "When any sum payable under a settlement or sub-settlement is not paid within the time at which it is payable under section ninety, such sum shall be deemed to be an arrear, and all the persons with whom such settlement or sub-settlement was made, their representatives and assigns, shall thereupon become jointly and severally liable for it, and shall be deemed to be defaulters within the meaning of this Act."
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "Tahasildar's statement of account to be conclusive evidence of arrear.",
+      "content": "A statement of account, authenticated by the signature of the Tahsildar, shall, for the purposes of this chapter, be conclusive evidence of the existence of any arrear payable direct to the Government, of its amount, and of the persons who in respect thereof are defaulters."
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "Notice of demand.",
+      "content": "A statement of account, authenticated by the signature of the Tahsildar, shall, for the purposes of this chapter, be conclusive evidence of the existence of any arrear payable direct to the Government, of its amount, and of the persons who in respect thereof are defaulters."
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "Processes for recovery of arrears.",
+      "content": "An arrear payable directly to Government may be recovered by anyone or more of the following processes:— (a) by arresting the defaulter and imprisoning him in the civil jail; (b) by attaching and selling his moveable property; (c) by attaching the mahal in respect of which the arrear has accrued or the share or land of any malguzar who has not paid the portion of the revenue which, as between him and the other malguzars, is payable by him, and taking the same mahal, share or land under direct management; (d) by transferring the share or land of any malguzar who has not paid such portion to any malguzar who has paid the same, or, if every such malguzar declines to accept such share or land, to any person having a mortgage or charge upon the same, and who consents to accept it; (e) by annulling the settlement of the mahal in respect of which the arrear has accrued, and taking such mahal under direct management or farming the same; (f) by selling such mahal, or the share or land of any malguzar who has not paid the portion of the revenue aforesaid; (g) by selling immoveable property belonging to the defaulter other than the land in respect of which the arrear has accrued: Provided as follows:— (1) the process mentioned in clause (a) shall not be issued against any female, minor, lunatic or idiot; (2) the processes mentioned in clauses (d), (e), (f) and (g) shall not be enforced without the previous sanction of the Chief Commissioner; (3) No land shall be sold, and the settlement of no land shall be annulled, on account of an arrear accruing in respect of land whilst it is under attachment, or under charge of the Superintendent of Government Wards, or held under direct management, or let in farm in accordance with any of the provisions of this Act. The processes specified in clauses (a), (b) and (g) may be enforced either in the district in which the default has been made, or in any other district."
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "Arrest and imprisonment for recovery of arrear.",
+      "content": "The process mentioned in section ninety-four, clause (a), may be executed by issuing a warrant directing the officer named therein, if the defaulter fails to pay the arrear by a date to be fixed in the warrant, to bring him to the tahsil. If, when the defaulter arrives at the tahsil, the arrear is still unpaid, the Tahsildar may order him to be taken before the Deputy Commissioner, or may keep him under personal restraint at the tahsil for a period not exceeding ten days, unless within such period the arrear is paid, and may then, if the arrear is still unpaid, cause him to be taken before the Deputy Commissioner."
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "Imprisonment of defaulter in civil jail.",
+      "content": "If the arrear is not paid when the defaulter arrives before the Deputy Commissioner, the Deputy Commissioner may issue an order to the officer in charge of the civil jail of the district, directing him to confine the defaulter in such jail for such period, not exceeding three months from the date of the order, as the Deputy Commissioner may think fit, unless within such period the arrear is paid."
+    },
+    {
+      "provision_ref": "s97",
+      "section": "97",
+      "title": "Procedure in sales of moveable property.",
+      "content": "Attachments and sales of moveable property made under this chapter shall be conducted as nearly as may be according to the law for the time being in force for the attachment and sale of moveable property under the decree of a Civil Court."
+    },
+    {
+      "provision_ref": "s98",
+      "section": "98",
+      "title": "Management of mahal, share of land attached under section 94(c).",
+      "content": "After causing any attachment to be made under section ninety-four, clause (c), the Deputy Commissioner shall issue a proclamation declaring the attachment to be in force, and shall take the attached mahal, share or land under his own management, or place it under the management of any agent whom he may appoint for the purpose."
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "Effect of attachment.",
+      "content": "During the continuance of an attachment under section ninety-eight, the defaulters shall be excluded from possession of the land attached, and the Deputy Commissioner or the agent appointed by him shall have all their rights to manage the land and to realize the rents and profits arising therefrom, and shall be bound by all their liabilities as malguzars or proprietors to any subordinate proprietors or tenants of such land."
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "Profits of land how applied.",
+      "content": "The surplus profits of such land, after defraying the cost of attachment and management, shall be applied, first, to the payment of any revenue becoming due in respect of such land during the attachment; and next, to discharging the arrear for the recovery of which the attachment was made."
+    },
+    {
+      "provision_ref": "s101",
+      "section": "101",
+      "title": "Attachment when to cease.",
+      "content": "The attachment shall continue until the arrear is paid or realized from the profits of the land attached, or the Deputy Commissioner reinstates the defaulters in possession: Provided that no attachment shall continue beyond five years from the first day of the agricultural year next following its commencement."
+    },
+    {
+      "provision_ref": "s102",
+      "section": "102",
+      "title": "Transfer under section 94(d).",
+      "content": "When it is proposed to execute the process mentioned in section ninety-four, clause (d), the persons to whom the share or land in respect of which the arrear is due is to be transferred shall be required to pay such arrear, or to secure its payment to the satisfaction of the Deputy Commissioner. No such transfer shall be made for a term exceeding fifteen years from the first day of the agricultural year next after the date on which it is sanctioned by the Chief Commissioner. Joint and several liability not affected by transfer.--No proceedings taken under this section shall affect the joint and several liability of the malguzars of the mahal for arrears accruing in respect of such mahal subsequently to the transfer of the share or land, except that, as regards all such arrears, the transferee shall stand in the place of the malguzar whose share or land is transferred."
+    },
+    {
+      "provision_ref": "s103",
+      "section": "103",
+      "title": "Procedure after receipt of sanction to annulment of settlement.",
+      "content": "When the Chief Commissioner sanctions the annulment of the settlement of any mahal, the Deputy Commissioner shall proclaim such annulment, and may then exclude the defaulters from the possession of the mahal, and either manage the mahal or any portion thereof himself or through an agent, or let the mahal or any portion thereof in farm for such term and on such conditions as the Chief Commissioner directs: Provided that no management or farm under this section shall continue for a longer period than fifteen years from the first day of the agricultural year next after the proclamation of annulment of settlement. After the date of such proclamation no liabilities shall accrue under the settlement so annulled; but such annulment shall not affect anything done or any liability incurred under the settlement before such date."
+    },
+    {
+      "provision_ref": "s104",
+      "section": "104",
+      "title": "Case of a portion of a mahal being managed or farmed.",
+      "content": "When a portion only of the mahal is managed or let in farm under section one hundred and three, the rest of such mahal shall be separately resettled with the proprietors thereof for the remainder of the term of settlement."
+    },
+    {
+      "provision_ref": "s105",
+      "section": "105",
+      "title": "Settlement on expiry of management or farm.",
+      "content": "As soon as the management or farm of any mahal or portion thereof has come to an end, the Deputy commissioner shall offer to the persons entitled under section forty-nine to an offer of assessment a new assessment of the land, on such conditions as the Chief Commissioner may direct, for the remainder of the term of the settlement of the mahel; and, if such offer is refused, may, with the previous sanction of the Chief Commissioner, let such mahal or portion in farm for the remainder of the term of settlement to some other person, or manage it himself or through an agent for such period."
+    },
+    {
+      "provision_ref": "s106",
+      "section": "106",
+      "title": "Effect of annulment of settlement.",
+      "content": "No leases, liens or other incumbrances created by the defaulters, or by any person through or under whom they claim, of, or upon any land managed or let in farm under this Act, shall, during such management or farm, be binding upon the Deputy Commissioner or Settlement-officer, his agent or lessee."
+    },
+    {
+      "provision_ref": "s107",
+      "section": "107",
+      "title": "Saving of rights in sir-land.",
+      "content": "No defaulter shall be deprived of the possession of his sir-land in the execution of any of the processes mentioned in section ninety-four, clauses (c), (d) and (e); but every such defaulter shall, while such process is being enforced, be entitled to retain possession of, and liable to pay rent for, such land as if he were an absolute occupancy-tenant, at such rent as may be fixed by the Deputy Commissioner."
+    },
+    {
+      "provision_ref": "s108",
+      "section": "108",
+      "title": "Nature of estate taken by purchaser of land sold for arrears due thereon.",
+      "content": "Unless the Chief Commissioner in sanctioning the sale otherwise directs, a purchaser of any land sold for arrears of revenue due in respect their of acquires the full proprietorship or superior or inferior proprietorship of it, as the case may be, free of all leases, liens and other incumbrances; and all grants or contracts previously made by any person other than the purchaser in respect of such land shall become void as against such purchaser. Nothing in this section shall-- (a) affect the rights of any proprietor, superior or inferior to the defaulters, or of any malik-makbuza or occupancy-tenant, who does not derive his rights as such proprietor, malik-makbuza or tenant from express contract with such defaulters, or any person through whom they claim; or (b) apply to lands held under leases at fair rents for the erection thereon of dwelling-houses, places of worship or manufactories, or for working mines, minerals, coals and quarries, or for laying out and maintaining gardens and burial-grounds, or for constructing tanks and canals, so long as the lands continue to be used for the purposes specified in such leases respectively; or (c) deprive any defaulter whose property is sold of the rights in respect to his sir-land conferred by any law for the time being in force. The Chief Commissioner may, from time to time, determine what rents shall be deemed to be fair rents within the meaning of this section."
+    },
+    {
+      "provision_ref": "s109",
+      "section": "109",
+      "title": "Rules for sale of immoveable property.",
+      "content": "When immoveable property is sold under this Act, the rules prescribed in sections 287, 288, 293 and 306 to 316, both inclusive, of the Code of Civil Procedure shall be followed, except in the following particulars (that is to say):-- (a) The defaulter may pay the arrear in respect of which the land is to be sold at any time before the day fixed for the sale, and on such payment the sale shall be stayed. (b) The proclamation directed by the said section 287 shall, when the sale is under clause (f),section ninety-four, of this Act, declare that, subject to the provisions of section one hundred and eight, the full proprietorship, or superior or inferior proprietorship, as the case may be, is to be sold free from all leases, liens, and other incumbrances, and the certificate mentioned in section 316 of the said Code shall contain a similar statement. (c) The last two clauses of the said section 287 shall not apply. (d) An appeal from any order under section 312 of the said Code for confirming or setting aside the sale shall lie to the Commissioner of the Division, and an appeal from the Commissioner's order on such appeal shall lie to the Chief Commissioner. (e) The Deputy Commissioner may, from time to time postpone any sale which he has proclaimed, reporting such postponement to the Commissioner of the Division. (f) Section 309 of the said Code shall be read as if, after the words “for such payment,” the words \"and every sale of such property made after a postponement” were added. (g) Section 313 of the said Code shall not apply to sales under section ninety-four, clause (f), of this Act. (h) Section 316 of the said Code shall be read as if the words “The Deputy Commissioner shall place the purchaser in possession of the lands which he has purchased” were added thereto."
+    },
+    {
+      "provision_ref": "s110",
+      "section": "110",
+      "title": "Pre-emption at sales.",
+      "content": "In the course of a sale under section ninety-four, clause (f), if the property is knocked down to a stranger, the following persons may claim to take it at the sum last bid in the following order:-- (a) any malguzar who has paid the revenue which, as between him and the other malguzars, is payable by him; (b) if the superior proprietorship is sold, the inferior proprietor; (c) if the inferior proprietorship is sold, the superior proprietor; Provided that such claim is made before the officer conducting the sale closes the sitting at which the sale is held, and that the claimant undertakes to fulfil all the conditions of the sale binding on the purchaser."
+    },
+    {
+      "provision_ref": "s111",
+      "section": "111",
+      "title": "Application of proceeds of sale of immoveable property.",
+      "content": "The proceeds of every sale in execution of any process mentioned in section ninety-four shall be applied, first, in satisfaction of the arrear on account of which the sale was held and of the expenses of such sale; secondly, to the payment of any other arrear due to Government by the defaulter; and the surplus, if any, shall then be payable to him, or, where there are more defaulters than one, to such defaulters according to their respective shares in the property sold."
+    },
+    {
+      "provision_ref": "s112",
+      "section": "112",
+      "title": "Costs recoverable as part of arrear.",
+      "content": "The costs of serving a notice of demand under section ninety-three and of enforcing any process mentioned in section ninety-four shall be recoverable as part of the arrear in respect of which the notice was served and the process was issued."
+    },
+    {
+      "provision_ref": "s113",
+      "section": "113",
+      "title": "Matters as to which Chief Commissioner may make rules.",
+      "content": "The Chief Commissioner may make rules-- (a) for the guidance of Revenue-officers in issuing notices demand under section ninety-three and executing the processes mentioned in section ninety-four; (b) defining the classes of officers by whom the processes mentioned in section ninety-four, clauses (a) and (b), may be enforced; (c) prescribing the agency by which any of the processes issued under section ninety-four shall be executed."
+    },
+    {
+      "provision_ref": "s114",
+      "section": "114",
+      "title": "Remedies open to person denying that sum demanded as an arrear is due.",
+      "content": "Notwithstanding anything contained in section ninety-two, when proceedings are taken under this Act for the recovery of an arrear, the person against whom such proceedings are taken may, if he denies that the arrear or any part thereof is due pay the same under protest made at the time of payment and duly signed by him or by his agent, and institute a suit in the Civil Court for the recovery of the amount which he denies to be due."
+    },
+    {
+      "provision_ref": "s115",
+      "section": "115",
+      "title": "Limitation of right to set-off, &c., in suit for arrears.",
+      "content": "In a suit for the recovery of an arrear of revenue not being revenue payable directly to Government, and in a suit brought by a lambardar to recover the amount of any revenue payable to Government through him, the defendant shall not, except with the permission of the Court,-- (a) Set-off against the plaintiff's demand any sum of money recoverable by him from the plaintiff; or (b) claim credit for any payment purporting to have been made on account when such payment was made before the date on which the amount thereof became due."
+    },
+    {
+      "provision_ref": "s116",
+      "section": "116",
+      "title": "Recovery of arrear through Deputy Commissioner instead of by suit.",
+      "content": "Any lambardar or sub-lambardar entitled to recover an arrear, or any malguzar whom sue an arrear is due under a sub-settlement, may, before instituting a suit for the recovery thereof, apply to the Deputy Commissioner to recover such arrear on his behalf as if it were an arrear of revenue payable directly to Government. The Deputy Commissioner may, if he thinks fit, comply with such application, but shall, before compliance therewith, give to the persons who would be defendants if a suit were instituted for the recovery of such arrear, opportunity to show cause against the order which he proposes to make. The Deputy Commissioner shall not be made a defendant to any suit instituted under section one hundred and fourteen in respect of an arrear as to which an order has been made under this section. No person on whose account the Deputy Commissioner proceeds under this section to recover an arrear shall thereby be relieved of his responsibility for such arrear."
+    },
+    {
+      "provision_ref": "s117",
+      "section": "117",
+      "title": "Saving of right of malguzar to demand revenue of land assessed to revenue and held free.",
+      "content": "Nothing in the Indian Limitation Act, 1877, and no agreement made after this Act comes into force, shall bar the right of the malguzars of any mahal assessed with land-revenue to demand revenue, in respect of any land which, having been taken into account in such assessment, has been held by any, person without payment of revenue. The Chief Commissioner may, in his discretion, exempt any case from the operation of this section."
+    },
+    {
+      "provision_ref": "s118",
+      "section": "118",
+      "title": "Limitation in suits for revenue.",
+      "content": "No suit for the recovery of revenue payable under a settlement or sub-settlement shall be instituted after three years reckoned from the date on which such revenue becomes payable. In other respects the limitation of such suits shall be governed by the Indian Limitation Act, 1877."
+    },
+    {
+      "provision_ref": "s119",
+      "section": "119",
+      "title": "Interest on arrears.",
+      "content": "Interest shall not be charged on an arear of revenue unless the Chief Commissioner, by general or special order, so directs; provided that the Court may award interest at such rate as it thinks fit on sums payable under a sub-settlement."
+    },
+    {
+      "provision_ref": "s120",
+      "section": "120",
+      "title": "Correction of record-of-rights.",
+      "content": "Any entry in the record of rights may, after such record has been made over to the Deputy Commissioner, be corrected by the Deputy Commissioner on the application of any person interested, or of his own motion. Such correction may be made on one or more of the following grounds and on no others:-- (a) that all persons interested in such entry wish to have it corrected; or (b) that by a decree in a suit brought under section eighty-three it has been declared to be erroneous; (c) that, being founded on a decree or order of a Civil Court, or on the order of a Revenue or Settlement-officer, it is not in accordance with such decree or order; or (d) that, being founded on such decree or order, the order or decision has subsequently been modified on appeal or review, or has been revised by the Chief Commissioner."
+    },
+    {
+      "provision_ref": "s121",
+      "section": "121",
+      "title": "Revision of record in accordance with provision therein contained.",
+      "content": "The Deputy Commissioner may revise a record-of-rights when such revision is provided for in such record."
+    },
+    {
+      "provision_ref": "s122",
+      "section": "122",
+      "title": "Powers of Deputy Commissioner as to correction of entry or revision of record.",
+      "content": "When the Deputy Commissioner takes proceedings for the correction of any entry in the record-of-rights or for the revision of such record-of-rights, he shall exercise, for the purpose of such correction or revision, all the powers which the Chief Settlement-officer might have exercised if the proceedings had been taken whilst the settlement was in progress."
+    },
+    {
+      "provision_ref": "s123",
+      "section": "123",
+      "title": "Power to direct that rule or custom entered in record-of-rights shall be enforced by Government.",
+      "content": "The Chief Commissioner may, in his discretion, by notification in the Official Gazette, direct that any specified rule, custom or condition duly entered in the record-of-rights of any specified village shall be enforced by the Government. Punishment of violation of such rules or custom.-- If any of the persons with whom a settlement or sub-settlement has been made, violate or neglect any rule, custom or condition with respect to which the Chief Commissioner has made a direction under this section, the Deputy Commissioner may, if no penalty is provided by any law for the time being in force for such violation or neglect, recover from such person a penalty not exceeding two hundred rupees"
+    },
+    {
+      "provision_ref": "s124",
+      "section": "124",
+      "title": "Suit to set aside proceedings under section 123.",
+      "content": "Any person against whom proceedings have been taken under section one hundred and twenty-three may institute a suit against Government to set aside such proceedings on the ground that no rule, custom or condition was, in fact, violated or neglected. If the Court finds that no rule, custom or condition has been violated or neglected, it may by its order annul such proceedings, and direct that any penalty paid by the plaintiff be refunded; and may also award to him such costs as he has necessarily incurred in the proceedings, and such further sum as compensation as it thinks fit."
+    },
+    {
+      "provision_ref": "s125",
+      "section": "125",
+      "title": "Powers of Chief Commissioner as to registration of changes after preparation of record-of-rights.",
+      "content": "The Chief Commissioner (a) direct that the mukaddam of each village shall, for the purpose of showing the changes occurring therein subsequently to the preparation of the record-of-rights, prepare, or, where there is a patwari, cause to be prepared, and furnish, annually for such village, papers in such form at such time, containing such particulars, and attested in such manner, as the Chief Commissioner may, from time to time, prescribe; (b) lay down the procedure to be followed in order to ascertain that a change has occurred in the village, and the nature of such change. (b)All changes referred to in this section shall be recorded in such registers as the Chief Commissioner appoints, and not in the record-of-rights, and the Chief Commissioner may direct that, before any specified changes are recorded, the order of a specified Revenue-officer shall be obtained in this behalf."
+    },
+    {
+      "provision_ref": "s126",
+      "section": "126",
+      "title": "Possession of proprietary rights to be notified.",
+      "content": "All persons lawfully entering into possession of proprietary rights and interests in any land shall, within a reasonable time, give notice of such entry to the Tahsildar of the tahsil in which such land is situated. If any question arises whether any right or interest is a proprietary right or interest within the meaning of this section, the decision thereof by the Chief Commissioner shall be final. Notice to be given by guardian in case of minority or idiotcy.--If the person so entering is a minor, lunatic or idiot, the guardian or other person who has charge of his property shall give the notice require by this section."
+    },
+    {
+      "provision_ref": "s127",
+      "section": "127",
+      "title": "Fine for neglect to give notice of possession.",
+      "content": "Any person neglecting to give the notice required by section one hundred and twenty-six shall be liable, at the discretion of the Deputy Commissioner or Assistant Commissioner, to fine which may extend to fifty rupees for each day during which such neglect continues."
+    },
+    {
+      "provision_ref": "s128",
+      "section": "128",
+      "title": "Obligation to aid in preparation of village-papers.",
+      "content": "All persons being in possession of proprietary rights in land shall, on being so required by the Deputy Commissioner, prepare, or cause to be prepared, such papers, and furnish such information, as may be required for the preparation of the villagepapers prescribed under section only hundred and twenty-five."
+    },
+    {
+      "provision_ref": "s129",
+      "section": "129",
+      "title": "Fees for recording changes; from whom leviable.",
+      "content": "The Chief Commissioner may direct that fees shall be leviable when changes are recorded under the last clause of section one hundred and twenty-five, and may fix the amount of such fees. from whom leviable.--All fees so leviable shall be levied from the person in whose favour the change is made."
+    },
+    {
+      "provision_ref": "s130",
+      "section": "130",
+      "title": "Annual enquiry regarding land held free from revenue.",
+      "content": "The Deputy Commissioner shall in each year make enquiry regarding all cases in which land has been granted by Government, conditionally or for a time, free, wholly or in part, from the payment of revenue. Procedure on breach of conditions of grant.--If it appears to the Deputy Commissioner that the conditions of any grant have been broken by the grantee, he shall report the case through the Commissioner of the division for the orders of the Chief Commissioner, who may direct that the land be assessed, or may pass such other order as he thinks fit. Procedure on expiry of term of grant.--If it appears to the Deputy Commissioner that the term of any such grant has expired, or ( when the grant is for a life or lives) if the person last entitled to hold the land comprised in the grant, free from revenue, or at less than full revenue-rates, has died, he shall assess the same, and shall report his proceedings through the Commissioner of the division for the sanction of the Chief Commissioner."
+    },
+    {
+      "provision_ref": "s131",
+      "section": "131",
+      "title": "Inspection of revenue-records.",
+      "content": "All records kept under this Act shall be open to public inspection at such times, and on such conditions as to fees or otherwise, as the Chief Commissioner from time to time directs."
+    },
+    {
+      "provision_ref": "s132",
+      "section": "132",
+      "title": "Purposes for which, when settlement is not in progress, Deputy Commissioner shall exercise Settlement-officers’ powers.",
+      "content": "The Deputy Commissioner shall, when a settlement is not in progress, exercise the powers conferred by this Act on Settlement-officers for the following purposes:— (a) causing boundary-marks to be erected· or repaired, and recovering the. cost of such erection and repair; (b) assessing land-revenue on lands which are liable to assessment, but have not been assessed; (c) declaring any. local area to be a mahal; (d) settling lands from which the proprietors were excluded at settlement and to which they have been or are about to be re-admitted; (e) settling mahals in respect of which an application has been made under the third proviso to section fifty-six; (f) dealing with claims to hold land wholly or partially free from revenue as against the malguzars; (g) assessing lands gained by alluvion; (h) ascertaining and recording village-cesses which are levied when this Act comes into force, but have not been recorded at the settlement"
+    },
+    {
+      "provision_ref": "s133",
+      "section": "133",
+      "title": "Purposes for which officers may be invested with Settlement-officers’ powers.",
+      "content": "The Chief Commissioner may, during the currency of a settlement, invest any officer with the powers conferred on a Settlement-officer by sections forty, forty-one and forty-two; or, with the sanction of the Governor General in Council, with any other of the powers which are by this Act conferred on a Settlement-officer; but not so as to enable him to enhance the amount of an assessment in force under section fifty-six."
+    },
+    {
+      "provision_ref": "s134",
+      "section": "134",
+      "title": "Cognizance of, and penalty for, offence of injuring boundary-marks.",
+      "content": "Any person wilfully erasing, removing or damaging a boundary-mark may be ordered by the Deputy Commissioner or by a Tahsildar or naib Tahsildar empowered by the Chief Commissioner in this behalf to pay to the officer making the order, in addition to any fine to which such person would be liable under section 434 of the Indian Penal Code, such sum, not exceeding fifty rupees, as may in the opinion of such officer be necessary to defray the expense of restoring the same, and of rewarding the person (if any) who gave information of such erasure, removal or damage."
+    },
+    {
+      "provision_ref": "s135",
+      "section": "135",
+      "title": "Procedure when person injuring cannot be found.",
+      "content": "Whenever the person erasing, removing or damaging such mark cannot be discovered, or if for any other reason it is found impracticable to recover from him the sum which he has been ordered to pay, the mark shall be re-erected or repaired at the cost of the proprietors, mortgagees or framers of such one or more of the adjoining lands as the Deputy Commissioner thinks fit."
+    },
+    {
+      "provision_ref": "s136",
+      "section": "136",
+      "title": "Partition of a mahal into two mahals.",
+      "content": "Any malguzars of a mahal who are not co-sharers with the malguzars of such mahal in any lands comprised in such mahal, except such lands as are under the law relating to partition the time being in force indivisible, may apply to the Deputy Commissioner to make the lands held by them separately from such other malguzars a separate mahal; and the Deputy Commissioner shall thereupon make such lands and the lands held separately by the remaining malguzars separate mahals, and shall, with the previous sanction of the Commissioner, apportion between the two new mahals thus constituted the entire revenue assessed upon the original mahal."
+    },
+    {
+      "provision_ref": "s137",
+      "section": "137",
+      "title": "Power to make rules as to officers.",
+      "content": "The Chief Commissioner may make rules regulating the appointment, remuneration, suspension and removal of lambardars, sub-lambardars and mukaddams: Provided that, except with the previous sanction of the Governor General in Council, proprietors, other than malik-makbuzas, shall not be liable to pay, on account of the aggregate remuneration of lambardars or sub-lambardars and mukaddams, a sum exceeding five per cent. on the land-revenue which is assessed on their land, or which, when their land is free from revenue, would, in the judgment of the Deputy Commissioner, be assessed on their land if it were subject to assessment. In framing rules for the appointment under this section of lambardars and sub-lambardars for any mahal, the Chief Commissioner shall have regard among other matters to local custom and hereditary claims, and to entries on the subject in the record-of-rights of such mahal. In every village in which there are resident malguzars, one of such malguzars shall be the mukaddam."
+    },
+    {
+      "provision_ref": "s138",
+      "section": "138",
+      "title": "Duties of lambardars.",
+      "content": "It shall be the duty of every lambardar and sub-lambardar— (a) to collect and pay into the Government Treasury so much of the land-revenue as may under section seventy-one be payable through him, either solely or jointly with other lambardars or sub-lambadars; (b) to collect and pay to the mukaddam, or into the Government Treasury, as the Deputy Commissioner may direct, all sums of money payable through him, either solely or jointly with other lambardars or sub-lambardars, by the proprietors whom he represents, on account of the remuneration of the mukaddam, patwaris or village-watchmen, or on account of any expenses which the mukaddam is authorized to recover from the lambardars or sub-lambardars of his village; (c) to assist the mukaddam in obtaining all particulars which he is bound to enter in the annual village-papers, or to report under this Act."
+    },
+    {
+      "provision_ref": "s139",
+      "section": "139",
+      "title": "Lambardars may recover fees and other charges from proprietors.",
+      "content": "Together with the land-revenue, lambardars and sub-lambardars may recover from the proprietors whom they respectively represent— (a) any remuneration to which they are entitled as such; and (b) the sum which, under section one hundred and thirty-eight, they are bound to pay to mukaddams: Provided that no such recovery shall made from malik-makbuzas paying a percentage which includes remuneration to mukaddams and lambardars."
+    },
+    {
+      "provision_ref": "s140",
+      "section": "140",
+      "title": "Deputy Commissioner may alter channel through which malik-makbuza pays revenue.",
+      "content": "On the application of any malik-makbuza or other like holder of land, or of the lambadar or sub-lambardar through whom such malik-makbuza or other holder of land pays the revenue assessed on his holding, the Deputy Commissioner may, for sufficient cause shown, order that such revenue be paid through any other lambardar or sub-lambardar, or that it be paid into the Government Treasury. Effect of order for payment of revenue direct to Government.—When the Deputy Commissioner orders such payment to be made into the Government Treasury, such portion of the percentage fixed under section sixty-four as the Deputy Commissioner, subject to the control of the Chief Commissioner, may determine, shall be so paid, and the malik-makbuza or other person shall pay the rest to the mukaddams on account of their fees and the other village-expenses."
+    },
+    {
+      "provision_ref": "s141",
+      "section": "141",
+      "title": "Duties of mukaddams.",
+      "content": "It shall be the duty of every mukaddam- (a) to control and superintend the village-patwari and village-watchmen; to report their deaths or absence from duty; to maintain them in the possession of any lands appertaining to their office; to recover and pay to them any cash allowances to which they may be entitled; and to take such steps as may be necessary to compel them to perform their duties; (b) to furnish reports regarding the state of his village, at such places and times as the Deputy Commissioner fixes in this behalf; (c) to report and, if possible, to prevent encroachments on the public paths and roadways in his village; (d) to preserve such stations and marks erected in his village by Government-surveyors as may be made over to his care; (e) subject to any rules issued by the Chief Commissioner, to keep his village in good sanitary condition; (f) to report violations of any rules which the Chief Commissioner may make for the preservation of underwood, forests and trees growing on the village-lands, and for securing to persons entitled to cut wood and enjoy other privileges in the waste-lands of the village the rights to which they are entitled; (g) to collect, or aid in the collection of, all payments due to Government in his village; (h) to report all births and deaths taking place in his village. The Chief Commissioner may make rules- (1) adding to the list of duties which a mukaddam is required to perform under this section; and (2) regulating the liability of persons residing in any village for charges necessarily incurred by mukaddams in the performance of the duties specified in clause (e) in respect of such village, and for apportioning such charges among such persons; and (3) determining the officers to whom reports under this section shall be made"
+    },
+    {
+      "provision_ref": "s142",
+      "section": "142",
+      "title": "Liabilities imposed by law on landholders to attach to mukaddams.",
+      "content": "When, by any enactment for the time being in force, any public duties are imposed on, or public liabilities are declared to attach to, landholders, their managers and agents and the like, such duties shall be deemed to be imposed on, and such liabilities shall be held to attach to, mukaddams appointed under this Act: Provided that nothing herein contained shall discharge landholders, their managers or agents, or the like, from any liabilities imposed upon them by law."
+    },
+    {
+      "provision_ref": "s143",
+      "section": "143",
+      "title": "Power of mukaddams to recover certain expenses incurred.",
+      "content": "Every mukaddam may recover from the lambardars or sub-lambardars of the village to which he is appointed his own remuneration, together with any expenses necessarily incurred in the performance of his duties"
+    },
+    {
+      "provision_ref": "s144",
+      "section": "144",
+      "title": "Chief Commissioner may make rules as to patwaris.",
+      "content": "The Chief Commissioner may make rules- (a) regulating the manner in which patwaris are to be selected; prescribing the conditions under which they may be appointed; and fixing the limits of their circles and the nature, mode and amount of their remuneration; (b) prescribing the conditions under which substitutes may be appointed for persons having hereditary claims to the office of patwari, when such persons are unable to act; (c) prescribing the fines which may be imposed on patwaris and their substitutes for neglect of their duty, and stating the circumstances under which they may be suspended or removed: Provided that, except with the previous sanction of the Governor General in Council, no proprietor shall be compelled to pay as remuneration to patwaris a sum exceeding six per cent. on the revenue for the time being assessed on his land, or which, when his land is free from revenue, would, in the judgment of the Deputy Commissioner, be assessable on his land if it were liable to assessment."
+    },
+    {
+      "provision_ref": "s145",
+      "section": "145",
+      "title": "Chief Commissioner may make rules for guidance of Deputy Commissioner in certain matters.",
+      "content": "The Chief Commissioner may make rules for the guidance of Deputy Commissioners in dealing with cases where, at the time of making the settlement next before this Act comes into force, the maintenance of patwari was made optional, and the persons settled with are unable to agree as to whether a patwari should be maintained, and for dealing with cases where no patwari is, under such option, maintained and the mukaddams proprietors have made default in the performance of the duties of a patwari. Such rules may empower the Deputy Commissioner, in the latter class of cases— (a) to impose fines not exceeding fifty rupees on such mukaddams or proprietors, and therefrom to make provision for the temporary performance of the duties in respect of which they have made default; (b) to appoint patwaris in the villages of such proprietors, either for the term of the settlement or for any shorter term, and to fix the remuneration of such patwaris. Nothing in the proviso to section one hundred and forty-four shall apply to patwaris so appointed."
+    },
+    {
+      "provision_ref": "s146",
+      "section": "146",
+      "title": "Chief Commissioner may define duties of patwaris.",
+      "content": "The Chief Commissioner may make rules prescribing the duties of patwaris (a) towards the Government; and may in such rules determine the registers, returns or other papers which they shall keep or furnish, the forms and language in which such registers and returns are to be prepared, the mode of their preparation and attestation, and the dates on which they are to be furnished; (b) towards the members of the village-community; and may in such rules fix the remuneration, if any, other than the fixed emoluments of their office, which the patwaris may demand in respect of the performance of such duties. Patwaris papers to be public documents.-All records and papers which patwaris are required to prepare or keep by any rule made by the Chief Commissioner under this section shall be deemed to be public documents within the meaning of the Indian Evidence Act, 1872, and to be the property of Government."
+    },
+    {
+      "provision_ref": "s147",
+      "section": "147",
+      "title": "Patwaris to produce papers for inspection, and to allow copies to be made.",
+      "content": "Patwaris shall produce at all reasonable times, for the inspection of all persons interested therein, all records and papers which they are so required to prepare or keep, and shall allow such persons to make copies of such records and papers."
+    },
+    {
+      "provision_ref": "s148",
+      "section": "148",
+      "title": "Existing officers confirmed.",
+      "content": "All existing lambardars, sub-Iambardars, mukaddams and patwaris shall, unless the Chief Commissioner in any specified case otherwise directs, be deemed to have been appointed under this Act."
+    },
+    {
+      "provision_ref": "s149",
+      "section": "149",
+      "title": "Lambardars’ and other officers’ dues recoverable as arrears.",
+      "content": "Any sums which lambardars, sub-Iambardars, mukaddams and patwaris are entitled to recover or demand under this chapter may, if the Deputy Commissioner so directs, be recovered in the same manner as an arrear of revenue payable directly to the Government."
+    },
+    {
+      "provision_ref": "s150",
+      "section": "150",
+      "title": "Holders of sir-land in Sambalpur to provide for remuneration of mukaddams.",
+      "content": "In each village of the district of Sambalpur all persons holding sir-land, other than mukaddams, are bound to provide for the due remuneration of the mukaddam of the village; and the Chief Commissioner may make rules for the enforcement of this obligation"
+    },
+    {
+      "provision_ref": "s151",
+      "section": "151",
+      "title": "Right to mines and quarries.",
+      "content": "Unless it is otherwise expressly provided in the records of a settlement or by the terms of a grant made by the Government, the right to all mines, minerals, coals and quarries, and to all fisheries in navigable rivers, and the right to extract sap from all palmyra and cocoanut trees, shall be deemed to belong to Government; and the Government shall have all powers necessary for the proper enjoyment of such rights: Provided that, whenever in the exercise by the Government of the rights herein referred to over any land, the rights of any persons are infringed by the occupation or disturbance of the surface of such land, the Government shall pay to such persons compensation for such infringement, and the amount of such compensation shall be determined as nearly as may be in accordance with the provisions of the Land Acquisition Act, 1870."
+    },
+    {
+      "provision_ref": "s152",
+      "section": "152",
+      "title": "Exclusive jurisdiction of Revenue-authorities.",
+      "content": "Except as otherwise hereinbefore provided,— (a) no Civil Court shall entertain any suit instituted, or application made, to obtain a decision or order on any matter which the Governor General in Council, the Chief Commissioner or a Revenue or Settlementofficer is, by this Act, empowered to determine or dispose of; and in particular (b) no Civil Court shall exercise jurisdiction over any of the following matters: (1) any matters provided for in sections forty, forty-one, forty-two and eighty-nine, as to wastelands: (2) the claim of any person to have an assessment offered to, or sub-settlement made with, him: (3) the amount of revenue or rate to be assessed on any mahal, share or portion of a mahal under this or any other Act for the time being in force: (4) questions as to the validity of any engagement with Government for the payment of land revenue, or of any agreement entered into by superior or inferior proprietors in a settlement or sub-settlement: (5) claims connected with or arising out of any process enforced on account of refusal to accept the assessment offered in a settlement or sub-settlement by the Settlement-officer or Deputy Commissioner: (6) the amount of the allowance or rent fixed under section sixty-one or sixty-two: (7) the redistribution according to established custom, by a Settlement-officer, of land comprised in a mahal: (8) the formation of the record-of-rights, the preparation, signing or attestation of any of the documents contained therein, or the notification of settlement: (9) any matters provided for or referred to in sections seventy-three, seventy-four or one hundred and thirty as to lands held or claimed to be he1d free from revenue, except rights arising under any contract between the Government of India and grantees of land: (10) claims connected with, or arising out of, the collection of revenue, or any process enforced on account of an arrear of revenue, or on account of any sum which is under this or any other Act realizable as revenue: (11) claims to set aside, on any ground other than fraud, sales for arrears of revenue: (12) corrections of entries revisions of records under sections one hundred and twenty, one hundred and twenty-one and one hundred and twenty-two: (13) claims to have a partition and apportionment made under section one hundred and thirty-six, and questions as to the distribution or apportionment under that section of the land or of the revenue of a mahal: (14) claims to the office of patwari, lambardar, sub-lambardar or mukaddam, or in respect of any injury caused by exclusion therefrom, or to compel the performance of the duties thereof: (15) claims to compel the performance of any duties imposed by this Act on any Revenue or Settlement-officer. In all the above cases jurdisdiction shall rest with the Revenue-authorities only"
+    },
+    {
+      "provision_ref": "s153",
+      "section": "153",
+      "title": "For what village-cesses suit lies.",
+      "content": "No suit shall lie in any Civil or Revenue Court for the recovery of any village-cess which has not been sanctioned by the Chief Commissioner and also either recorded at a settlement or under section one hundred and thirty-two, clause (h)."
+    },
+    {
+      "provision_ref": "s154",
+      "section": "154",
+      "title": "Limitation of claims for composition in case of waste-land demarcated as property of Government.",
+      "content": "Whenever, at any settlement made before this Act comes into force, waste-1ands have been demarcated as the property of Government, no claim of any person to, or in respect of, such lands shall be entertained by any Civil Court after the expiration of three years from the date of such demarcation."
+    },
+    {
+      "provision_ref": "s155",
+      "section": "155",
+      "title": "Restriction on Revenue and Settlement-officers trading and holding land.",
+      "content": "No Revenue or Settlement-officer, and no person employed in any Revenue or Settlement office, shall, except with the express permission of the Chief Commissioner,— (a) engage in trade, or be in any way concerned, directly or indirectly, in any commercial transaction, or in the purchase or hiring of land, in the district to which he is appointed, or in which he is employed; (b) purchase or bid for, either in person or by agent, in his own name or in that of another, or jointly or in shares with others, any property which may be sold by order of any Revenue-authority in such district. The Chief Commissioner may delegate to Commissioners of divisions or to Deputy Commissioners the power of granting the permission mentioned in this section in the case of any specified class of officers. Nothing in this section shall be deemed to preclude any person from becoming a member of a company incorporated under the Indian Companies Act, 1866."
+    },
+    {
+      "provision_ref": "s156",
+      "section": "156",
+      "title": "When mahal managed or farmed, or upon proclamation under section 98 or 103, rent payable to Deputy Commissioner.",
+      "content": "When any mahal is managed or let in farm under section fifty-seven or fifty-eight, or when either of the proclamations mentioned in sections ninety-eight and one hundred and three has been made, all sums due to the proprietor in respect of the mahal, share or land mentioned in any of the said sections shall be payable only to the Deputy Commissioner or Settlement-officer, his agent or lessee; and no payment made to such proprietor in anticipation of the usual period for such payment shall, without the sanction of the Deputy Commissioner or Settlement-officer, be credited to the person making the same in account with the Deputy Commissioner or Settlement-officer, his agent or lessee."
+    },
+    {
+      "provision_ref": "s157",
+      "section": "157",
+      "title": "Recovery of balances due by farmers.",
+      "content": "When any land has been let in farm under the provisions of this Act, any revenue due from the farmer in respect of such land may be recovered from him or his surety as an arrear of revenue payable directly to Government"
+    },
+    {
+      "provision_ref": "s158",
+      "section": "158",
+      "title": "Recovery of revenue due when Act comes into force; and of money payable under Act.",
+      "content": "All land-revenue due when this Act comes into force, and all penalties or other moneys payable to, or recoverable by, an officer of Government under this Act, shall be recovered from the persons from whom they are due and from the sureties if any of such persons as if such land-revenue, penalties or moneys were an arrear of revenue payable directly to Government due under this Act by such persons and their sureties."
+    },
+    {
+      "provision_ref": "s159",
+      "section": "159",
+      "title": "Past proceedings for collection of revenue legalized.",
+      "content": "All proceedings taken before this Act comes into force for the collection of the land-revenue or the realization of arrears thereof shall be deemed to have been taken in accordance with law."
+    },
+    {
+      "provision_ref": "s160",
+      "section": "160",
+      "title": "Chief Commissioner may empower persons by name, or confer powers on classes.",
+      "content": "In conferring powers under this Act the Chief Commissioner may empower persons by name or classes of officials generally by their official titles."
+    },
+    {
+      "provision_ref": "s161",
+      "section": "161",
+      "title": "Chief Commissioner may vary or cancel orders.",
+      "content": "The Chief Commissioner may vary or cancel any order conferring powers under this Act."
+    },
+    {
+      "provision_ref": "s162",
+      "section": "162",
+      "title": "Chief Commissioner may make rules and attach penalty to breach thereof.",
+      "content": "The Chief Commissioner may, with the previous sanction of the Governor General in Council, make rules consistent with this Act for carrying out its provisions, and may attach to the breach of any such rule, or of any other rule made by him under this Act, a penalty which may extend to two hundred rupees, or, when such breach is a continuing breach, to fifty rupees for each day during which such breach continues. All powers to make rules conferred by this Act on the Chief Commissioner shall be exercised subject to the control of the Governor General in Council, and may be exercised from time to time as occasion requires. No rule made by the Chief Commissioner under this Act shall take effect until it has been published in the local official Gazette. All such rules, when so published, shall have the force of law."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "act-47-1951",
+  "type": "statute",
+  "title": "The Assam (Alteration of Boundaries) Act, 1951",
+  "short_name": "AAB1 1951",
+  "status": "in_force",
+  "issued_date": "1951-09-01",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1452?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Assam (Alteration of Boundaries) Act, 1951."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Alteration of the boundaries of Assam.",
+      "content": "On and from the commencement of this Act, the territory of the State of Assam shall cease to comprise the strip of territory specified in the Schedule, which shall be ceded to the Government of Bhutan, and the boundaries of the state of Assam shall be deemed to have been altered accordingly."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Amendment of the First Schedule to the Constitution.",
+      "content": "In the first paragraph of Part A of the First Schedule to the Constitution, under the heading \"TERRITORIES OF STATES\", after the words \"Assam Tribal Areas\", the following words shall be inserted, namely:— \"but shall not include the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951\"."
+    }
+  ],
+  "language": "en"
+}

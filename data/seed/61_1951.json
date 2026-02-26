@@ -1,0 +1,36 @@
+{
+  "id": "act-61-1951",
+  "type": "statute",
+  "title": "The All-India Services Act, 1951",
+  "short_name": "AS1 1951",
+  "status": "in_force",
+  "issued_date": "1951-10-29",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1363?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the All-India Services Act, 1951."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition.",
+      "content": "In this Act, the expression \"an All-India Service\" means the service known as the Indian Administrative Service or the service known as the Indian Police Service, 1[or any other service specified in section 2A].\n\n[Footnote] 1. Ins. by Act 27 of 1963, s. 2."
+    },
+    {
+      "provision_ref": "s2A",
+      "section": "2A",
+      "title": "Other All-India Services.",
+      "content": "1[2A. Other All-India Services.--With effect from such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf, there shall be constituted the following All-India Services and different dates may be appointed for different services, namely:-- 1. The Indian Service of Engineers (Irrigation, Power, Buildings and Roads); 2. The Indian Forest Service; 3. The Indian Medical and Health Service.]\n\n[Footnote] 1. Ins. by s. 3, ibid."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Continuance of existing rules.",
+      "content": "All rules in force immediately before the commencement of this Act and applicable to an All-India Service shall continue to be in force and shall be deemed to be rules made under this Act."
+    }
+  ],
+  "language": "en"
+}

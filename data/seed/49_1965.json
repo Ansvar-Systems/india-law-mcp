@@ -1,0 +1,48 @@
+{
+  "id": "act-49-1965",
+  "type": "statute",
+  "title": "The Union Territories (Direct Election to the House of the People) Act, 1965",
+  "short_name": "UTDEH 1965",
+  "status": "in_force",
+  "issued_date": "1965-12-22",
+  "url": "https://www.indiacode.nic.in/handle/123456789/1571?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Union Territories (Direct Election to the House of the People) Act, 1965."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act (a) \"parliamentary constituency\" has the same meaning as in the Representation of the People Act, 1950 (43 of 1950); (b) \"sitting member\" means a person who immediately before the commencement of this Act is a member of the House of the People; (c) \"Union territory\" means any of the Union territories of the Andaman and Nicobar Islands, 1 [Lakshadweep] and Dadra and Nagar Haveli.\n\n[Footnote] 1. Subs. by the Laccadive, Minicoy and Aminidivi Islands (Alteration of Name) Adaptation of Laws Order, 1974 (w.e.f. 1-11-1973)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Direct election to fill the seats in the House of the People allotted to certain Union territories.",
+      "content": "At the next general election to the House of the People and thereafter, the seats allotted under section 3 of the Representation of the People Act, 1950 (43 of 1950) to the Union territories in the House of the People shall be seats to be filled by persons chosen by direct election and for that purpose each Union territory shall form one parliamentary constituency."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Repealed.",
+      "content": "[Amendment of Act 43 of 1950.] Rep. by the Repealing and Amending Act, 1974 (56 of 1974), s. 2 and the First Schedule (w.e.f. 20-12-1974)."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Repealed.",
+      "content": "[Amendment of Act 43 of 1951.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 20-12-1974)."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Provision as to sitting member.",
+      "content": "The sitting member representing each Union territory shall continue to represent that Union territory until the dissolution of the present House of the People and if before such dissolution the seat allotted to a Union territory in the House of the People becomes vacant it shall be filled by a person nominated by the President and that person shall represent the Union territory in the present House of the People until its dissolution."
+    }
+  ],
+  "language": "en"
+}

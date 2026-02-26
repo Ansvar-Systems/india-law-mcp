@@ -1,0 +1,48 @@
+{
+  "id": "act-20-1952",
+  "type": "statute",
+  "title": "The Inflammable Substances Act, 1952",
+  "short_name": "IS1 1952",
+  "status": "in_force",
+  "issued_date": "1952-03-06",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2165?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Inflammable Substances Act, 1952."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act,-- (a) \"dangerously inflammable substance\" means any liquid or other substance declared to be dangerously inflammable by this Act; (b) \"Petroleum Act\" means the Petroleum Act, 1934 (30 of 1934)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Declaration of certain substances to be dangerously inflammable.",
+      "content": "The liquids and other substances hereinafter mentioned, namely:-- (1) acetone, (2) calcium phosphide, (3) carbide of calcium, (4) cinematograph films having a nitro-cellulose base, (5) ethyl alcohol, (6) methyl alcohol, (7) wood naphtha, are hereby declared to be dangerously inflammable."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Operation of certain notifications and rules.",
+      "content": "Notifications or rules issued or purporting to have been issued under section 30 of the Petroleum Act between the 1st day of April, 1937, and the date of commencement of this Act shall be deemed to have been issued or made under this Act, and continue in force accordingly."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Validation of certain acts and indemnity in respect thereof.",
+      "content": "All acts of executive authority, proceedings and sentences which have been done, taken or passed with respect to, or on account of, any inflammable substance since the 1st day of April, 1937, and before the commencement of this Act by any officer of Government or by any person acting under his authority or otherwise in pursuance of an order of the Government in the belief or purported belief that the acts, proceedings or sentences were being done, taken or passed under the Petroleum Act shall be as valid and operative as if they had been done, taken or passed in accordance with law; and no suit or other legal proceeding shall be maintained or continued against any person whatever on the ground that any such acts, proceedings or sentences were not done, taken or passed in accordance with law."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Repealed.",
+      "content": "[Repeal of section 30, Act 30 of 1934.] Rep. by the Repealing and Amending Act, 1957 (36 of 1957), s. 2 and the First Schedule (w.e.f. 17-9-1957.)"
+    }
+  ],
+  "language": "en"
+}

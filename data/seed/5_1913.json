@@ -1,0 +1,48 @@
+{
+  "id": "act-5-1913",
+  "type": "statute",
+  "title": "The White Phosphorus Matches Prohibition Act, 1913",
+  "short_name": "WPMP1 1913",
+  "status": "in_force",
+  "issued_date": "1913-03-07",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2353?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title, extent and commencement.",
+      "content": "(1) This Act may be called the White Phosphorus Matches Prohibition Act, 1913. (2) It extends to the whole of India except 1[the territories which, immediately before the 1st November, 1956, were comprised in Part B States]; and (3) It shall come into force on the first day of July, 1913, with the exception of section 6, which shall come into force on the first day of July, 1914.\n\n[Footnote] 1. Subs. by the A.O. (No. 2) 1956, for \"Part B States\"."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition.",
+      "content": "In this Act, \"white phosphorus\" means the substance commonly known as white or yellow phosphorus."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "[Repealed.].",
+      "content": "[Prohibition of importation by addition to section 18, Act 8 of 1878.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Prohibition of use of white phosphorus in manufacture of matches.",
+      "content": "(1) No person shall use white phosphorus in the manufacture of matches. (2) Any person who uses, or permits the use by any person under his control of, white phosphorus in the manufacture of matches, shall be punishable with fine which may extend to two hundred rupees."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power of Inspector of Factories to take samples of material used in manufacture.",
+      "content": "(1) Every person who manufactures matches shall allow an Inspector of Factories appointed under the Indian Factories Act, 19111 (12 of 1911), at any time to take for analysis sufficient samples of any material in use or mixed for use, in such manufacture: Provided that any such person may, at the time the sample is taken, and on providing the necessary appliances, require the Inspector to divide the sample so taken into two parts, and to mark, seal and deliver to him one part. (2) Any person who refuses to permit any such Inspector of Factories as aforesaid to take a sample, in accordance with the provisions of sub-section (1), shall be punishable with fine which may extend to two hundred rupees.\n\n[Footnote] 1. See now the Factories Act, 1948 (63 of 1945)."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Prohibition of sale.",
+      "content": "(1) No person shall sell, or offer or expose for sale, or have in his possession for the purposes of sale, any matches made with white phosphorus. (2) Any person who contravenes the provisions of sub-section (1) may, on complaint to a Presidency Magistrate, Sub-divisional Magistrate or Magistrate of the first class, be ordered to forfeit any such matches in his possession, and any matches so forfeited shall be destroyed or otherwise dealt with as the Magistrate may direct."
+    }
+  ],
+  "language": "en"
+}

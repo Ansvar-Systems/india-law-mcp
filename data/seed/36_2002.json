@@ -1,0 +1,30 @@
+{
+  "id": "act-36-2002",
+  "type": "statute",
+  "title": "The Foreign Aircraft (Exemption from Taxes and Duties on Fuel and Lubricants) Act, 2002",
+  "short_name": "FAETD 2002",
+  "status": "in_force",
+  "issued_date": "2002-06-11",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2005?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and extent.",
+      "content": "(1) This Act may be called the Foreign Aircraft (Exemption from Taxes and Duties on Fuel and Lubricants) Act, 2002. (2) It extends to the whole of India."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions.",
+      "content": "In this Act, unless the context otherwise requires,-- (a) \"Agreements\" means the Air Services Agreements or Air Transport Agreements entered into by India with parties to the Convention; (b) \"Convention\" means the Convention on International Civil Aviation opened for signatures at Chicago on the 7th December, 1944."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Exemption from levy of taxes and duties on fuel and lubricants supplied to aircraft of other  countries.",
+      "content": "Where, in pursuance of the Convention or Agreement with any other country or countries, it is necessary to grant exemption from levy of taxes and duties on fuel and lubricants filled into receptacles forming part of any aircraft of any other country or countries under any law of a State or Union territory in India, the Central Government may, by notification in the Official Gazette, make such provisions as may be necessary for giving effect to the said Convention or Agreement and thereupon the said provision shall apply accordingly and, notwithstanding anything contrary contained in any other law, shall in such application have the force of law in India."
+    }
+  ],
+  "language": "en"
+}

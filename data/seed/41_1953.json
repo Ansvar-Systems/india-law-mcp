@@ -1,0 +1,36 @@
+{
+  "id": "act-41-1953",
+  "type": "statute",
+  "title": "The Calcutta High Court (Extension of Jurisdiction) Act, 1953",
+  "short_name": "CHCEJ 1953",
+  "status": "in_force",
+  "issued_date": "1953-12-18",
+  "url": "https://www.indiacode.nic.in/handle/123456789/2178?view_type=browse",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title.",
+      "content": "This Act may be called the Calcutta High Court (Extension of Jurisdiction) Act, 1953."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Extension of jurisdiction of Calcutta High Court to Chandernagore and Andaman and Nicobar  Islands.",
+      "content": "The jurisdiction of the High Court at Calcutta shall extend to Chandernagore and Andaman and Nicobar Islands and shall, as from the 2nd day of May, 1950, be deemed to have extended to Chandernagore, and the said High Court shall, for all purposes be deemed to be the High Court for Chandernagore and the Andaman and Nicobar Islands."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Effect of certain orders.",
+      "content": "Any order made— (i) by the highest court of appeal in relation to Chandernagore before the 2nd day of May, 1950, or in any proceeding pending before that Court on that day; or (ii) by the Chief Commissioner of the Andaman and Nicobar Islands before the commencement of this Act in the discharge of his functions as the High Court for those Islands, shall for all purposes have effect, not only as an order of that Court, or as the case may be, of the Chief Commissioner, but also as if it were an order made by the High Court at Calcutta."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to make rules.",
+      "content": "Subject to the provisions of any law for the time being in force, the High Court at Calcutta may make rules to carry out the purposes of this Act and for the purpose of effectively exercising its jurisdiction in or in relation to Chandernagore and the Andaman and Nicobar Islands."
+    }
+  ],
+  "language": "en"
+}
