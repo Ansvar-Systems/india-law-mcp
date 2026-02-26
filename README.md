@@ -7,8 +7,10 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/India-law-mcp?style=social)](https://github.com/Ansvar-Systems/India-law-mcp)
 [![CI](https://github.com/Ansvar-Systems/India-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/India-law-mcp/actions/workflows/ci.yml)
+[![Database](https://img.shields.io/badge/database-pre--built-green)]()
+[![Provisions](https://img.shields.io/badge/provisions-31%2C198-blue)]()
 
-Query **Indian legislation** -- covering data protection, cybersecurity, corporate law, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **846 Indian Acts** -- from the Digital Personal Data Protection Act and Information Technology Act to the Companies Act, Aadhaar Act, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Indian legal research, this is your verified reference database.
 
@@ -18,11 +20,11 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ## Why This Exists
 
-Indian legal research is scattered across official government databases, commercial legal platforms, and institutional archives. Whether you're:
-- A **lawyer** validating citations in a brief or contract
-- A **compliance officer** checking if a statute is still in force
-- A **legal tech developer** building tools on Indian law
-- A **researcher** tracing legislative history
+Indian legal research is scattered across India Code, the Gazette of India, and commercial platforms like SCC Online and Manupatra. Whether you're:
+- A **lawyer** validating citations under the IT Act or DPDPA in a brief or contract
+- A **compliance officer** checking CERT-In incident reporting obligations or DPDPA consent requirements
+- A **legal tech developer** building tools on Indian Central Acts
+- A **researcher** tracing legislative history from pre-independence statutes to the 2023 DPDPA
 
 ...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
 
@@ -112,14 +114,14 @@ npx @ansvar/india-law-mcp
 
 Once connected, just ask naturally:
 
-- *"What does the Indian data protection law say about consent?"*
+- *"What does the IT Act say about data protection and intermediary liability?"*
+- *"Find provisions about consent under the Digital Personal Data Protection Act 2023"*
+- *"Is the Companies Act 2013 still in force?"*
+- *"What does the Aadhaar Act say about authentication and data protection?"*
 - *"Search for cybersecurity requirements in Indian legislation"*
-- *"Is this statute still in force?"*
-- *"Find provisions about personal data in Indian law"*
-- *"What EU directives does this Indian law implement?"*
-- *"Which Indian laws implement the GDPR?"*
+- *"What are the CERT-In incident reporting obligations?"*
 - *"Validate this legal citation"*
-- *"Build a legal stance on data breach notification requirements"*
+- *"Build a legal stance on personal data processing under DPDPA"*
 
 ---
 
