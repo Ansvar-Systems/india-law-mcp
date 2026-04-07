@@ -38,12 +38,12 @@ This MCP server makes Indian law **searchable, cross-referenceable, and AI-reada
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-india-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-in/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add india-law --transport http https://mcp.ansvar.eu/law-india-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add india-law --transport http https://mcp.ansvar.eu/law-in/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -54,7 +54,7 @@ This MCP server makes Indian law **searchable, cross-referenceable, and AI-reada
   "mcpServers": {
     "india-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-india-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-in/mcp"
     }
   }
 }
@@ -67,7 +67,7 @@ This MCP server makes Indian law **searchable, cross-referenceable, and AI-reada
   "github.copilot.chat.mcp.servers": {
     "india-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-india-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-in/mcp"
     }
   }
 }
