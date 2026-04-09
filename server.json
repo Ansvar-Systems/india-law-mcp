@@ -24,7 +24,7 @@
       "version": "2.0.0",
       "transport": {
         "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-india-law-mcp/mcp"
+        "url": "https://mcp.ansvar.eu/law-in/mcp"
       }
     }
   ]
