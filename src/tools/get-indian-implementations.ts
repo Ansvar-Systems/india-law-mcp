@@ -80,6 +80,6 @@ export async function getIndianImplementations(
       })),
       total: rows.length,
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

@@ -87,6 +87,6 @@ export async function searchEUImplementations(
       })),
       total_results: rows.length,
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

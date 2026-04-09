@@ -6,6 +6,7 @@ import type { Database } from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, buildLikePattern, sanitizeFtsInput } from '../utils/fts-query.js';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { buildProvisionCitation, type CitationMetadata } from '../utils/citation.js';
 
 export interface BuildLegalStanceInput {
   query: string;
@@ -23,6 +24,7 @@ interface ProvisionHit {
   title: string | null;
   snippet: string;
   relevance: number;
+  _citation?: CitationMetadata;
 }
 
 export interface LegalStanceResult {
@@ -34,6 +36,10 @@ export interface LegalStanceResult {
 const DEFAULT_LIMIT = 5;
 const MAX_LIMIT = 20;
 
+const RESEARCH_DISCLAIMER =
+  'RESEARCH ONLY — This tool aggregates legislative citations for research purposes. ' +
+  'It does not constitute legal advice. Verify all citations against official sources before use.';
+
 export async function buildLegalStance(
   db: Database,
   input: BuildLegalStanceInput
@@ -41,7 +47,7 @@ export async function buildLegalStance(
   if (!input.query || input.query.trim().length === 0) {
     return {
       results: { query: '', provisions: [], total_citations: 0 },
-      _metadata: generateResponseMetadata(db)
+      _meta: { ...generateResponseMetadata(db), disclaimer: RESEARCH_DISCLAIMER },
     };
   }
 
@@ -57,8 +63,9 @@ export async function buildLegalStance(
     if (!resolved) {
       return {
         results: { query: input.query, provisions: [], total_citations: 0 },
-        _metadata: {
+        _meta: {
           ...generateResponseMetadata(db),
+          disclaimer: RESEARCH_DISCLAIMER,
           note: `No document found matching "${input.document_id}"`,
         },
       };
@@ -94,15 +101,16 @@ export async function buildLegalStance(
       const rows = db.prepare(provSql).all(...provParams) as ProvisionHit[];
       if (rows.length > 0) {
         queryStrategy = ftsQuery === queryVariants[0] ? 'exact' : 'fallback';
-        const provisions = deduplicateResults(rows, limit);
+        const provisions = addCitations(deduplicateResults(rows, limit));
         return {
           results: {
             query: input.query,
             provisions,
             total_citations: provisions.length,
           },
-          _metadata: {
+          _meta: {
             ...generateResponseMetadata(db),
+            disclaimer: RESEARCH_DISCLAIMER,
             ...(queryStrategy === 'fallback' ? { query_strategy: 'broadened' } : {}),
           },
         };
@@ -140,15 +148,16 @@ export async function buildLegalStance(
     try {
       const rows = db.prepare(likeSql).all(...likeParams) as ProvisionHit[];
       if (rows.length > 0) {
-        const provisions = deduplicateResults(rows, limit);
+        const provisions = addCitations(deduplicateResults(rows, limit));
         return {
           results: {
             query: input.query,
             provisions,
             total_citations: provisions.length,
           },
-          _metadata: {
+          _meta: {
             ...generateResponseMetadata(db),
+            disclaimer: RESEARCH_DISCLAIMER,
             query_strategy: 'like_fallback',
           },
         };
@@ -164,8 +173,26 @@ export async function buildLegalStance(
       provisions: [],
       total_citations: 0,
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: { ...generateResponseMetadata(db), disclaimer: RESEARCH_DISCLAIMER },
   };
+}
+
+/**
+ * Attach per-item _citation to each provision hit.
+ */
+function addCitations(rows: ProvisionHit[]): ProvisionHit[] {
+  return rows.map(row => ({
+    ...row,
+    _citation: buildProvisionCitation(
+      row.document_id,
+      row.document_title,
+      row.provision_ref,
+      row.document_id,
+      row.provision_ref,
+      null,
+      null,
+    ),
+  }));
 }
 
 /**

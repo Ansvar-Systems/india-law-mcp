@@ -100,6 +100,6 @@ export async function getEUBasis(
         regulation_count: euDocuments.filter(d => d.type === 'regulation').length,
       },
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

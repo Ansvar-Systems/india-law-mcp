@@ -26,7 +26,7 @@ export async function formatCitationTool(
   if (!input.citation || input.citation.trim().length === 0) {
     return {
       results: { input: '', formatted: '', type: 'unknown', valid: false, error: 'Empty citation' },
-      _metadata: generateResponseMetadata()
+      _meta: generateResponseMetadata()
     };
   }
 
@@ -41,7 +41,7 @@ export async function formatCitationTool(
         valid: false,
         error: parsed.error,
       },
-      _metadata: generateResponseMetadata()
+      _meta: generateResponseMetadata()
     };
   }
 
@@ -54,6 +54,6 @@ export async function formatCitationTool(
       type: parsed.type,
       valid: true,
     },
-    _metadata: generateResponseMetadata()
+    _meta: generateResponseMetadata()
   };
 }
