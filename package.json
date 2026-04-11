@@ -77,6 +77,8 @@
   "overrides": {
     "path-to-regexp": "^8.0.0",
     "undici": "^7.0.0",
-    "ajv": "^8.18.0"
+    "ajv": "^8.18.0",
+    "minimatch": "^10.2.3",
+    "smol-toml": "^1.6.1"
   }
 }
