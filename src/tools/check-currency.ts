@@ -50,7 +50,7 @@ export async function checkCurrency(
   if (!doc) {
     return {
       results: null,
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -85,6 +85,6 @@ export async function checkCurrency(
       provision_exists: provisionExists,
       warnings,
     },
-    _metadata: generateResponseMetadata(db)
+    _meta: generateResponseMetadata(db)
   };
 }

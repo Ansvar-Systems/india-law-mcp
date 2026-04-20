@@ -78,6 +78,6 @@ export async function getProvisionEUBasis(
         return ref;
       }),
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

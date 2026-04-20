@@ -83,13 +83,13 @@ export async function getProvision(
           truncated: true,
           total,
         },
-        _metadata: generateResponseMetadata(db),
+        _meta: generateResponseMetadata(db),
       };
     }
 
     return {
       results: rows,
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db)
     };
   }
 
@@ -111,13 +111,14 @@ export async function getProvision(
   if (!row) {
     return {
       results: null,
-      _metadata: generateResponseMetadata(db)
+      _meta: generateResponseMetadata(db),
+      _error_type: 'not_found',
     };
   }
 
   return {
     results: row,
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
     _citation: buildProvisionCitation(
       row.document_id,
       row.document_title,

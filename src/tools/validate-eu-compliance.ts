@@ -100,6 +100,6 @@ export async function validateEUCompliance(
       warnings,
       recommendations: recommendations.length > 0 ? recommendations : undefined,
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

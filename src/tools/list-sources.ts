@@ -97,6 +97,6 @@ export async function listSources(db: Database): Promise<ToolResponse<ListSource
         'Always verify against official India Code (indiacode.nic.in) publications when legal certainty is required.',
       ],
     },
-    _metadata: generateResponseMetadata(db),
+    _meta: generateResponseMetadata(db),
   };
 }

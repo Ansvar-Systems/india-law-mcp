@@ -1,0 +1,126 @@
+name: Monthly Database Rebuild
+
+on:
+  schedule:
+    - cron: '0 4 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Build
+        run: npm run build
+
+      - name: Trigger re-ingest
+        id: reingest
+        shell: bash
+        run: |
+          set +e
+          if npm run --if-present ingest 2>&1 | tee rebuild.log; then
+            echo "status=success" >> "$GITHUB_OUTPUT"
+          else
+            EXIT_CODE=$?
+            if [ "$EXIT_CODE" -eq 127 ]; then
+              echo "status=no-ingest-script" >> "$GITHUB_OUTPUT"
+            else
+              echo "status=failed" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+          exit 0
+
+      - name: Upload rebuild log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: monthly-rebuild-log
+          path: rebuild.log
+          retention-days: 30
+
+  report:
+    needs: rebuild
+    if: always()
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Create or update rebuild issue on failure
+        if: needs.rebuild.outputs.status == 'failed'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = 'Monthly Rebuild: Re-ingest failed';
+            const body = [
+              `**Automated monthly rebuild:** ${new Date().toISOString()}`,
+              '',
+              '| Metric | Value |',
+              '|--------|-------|',
+              `| Status | ${{ needs.rebuild.outputs.status }} |`,
+              '',
+              '### Recommended actions',
+              '1. Check the rebuild log artifact for details',
+              '2. Run `npm run ingest` locally to reproduce',
+              '3. Fix any upstream data issues and re-trigger this workflow',
+            ].join('\n');
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'monthly-rebuild',
+            });
+
+            if (issues.length > 0) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                title,
+                body,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body,
+                labels: ['monthly-rebuild', 'automated'],
+              });
+            }
+
+      - name: Close stale rebuild issues on success
+        if: needs.rebuild.outputs.status == 'success' || needs.rebuild.outputs.status == 'no-ingest-script'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'monthly-rebuild',
+            });
+            for (const issue of issues) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                state_reason: 'completed',
+              });
+            }
